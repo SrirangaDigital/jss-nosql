@@ -84,9 +84,9 @@ class viewHelper extends View {
 
     public function linkPDFIfExists($id){
 
-        if(file_exists(PHY_ARCHIVES_URL . $id . '/index.pdf')) {
+        if(file_exists(PHY_DATA_URL . $id . '/index.pdf')) {
 
-            return '<li><a href="' . ARCHIVES_URL . $id . '/index.pdf" target="_blank">Click here to view PDF</a></li>'; 
+            return '<li><a href="' . DATA_URL . $id . '/index.pdf" target="_blank">Click here to view PDF</a></li>'; 
         }
     }
 }

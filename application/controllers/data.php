@@ -9,7 +9,7 @@ class data extends Controller {
 
 	public function insert() {
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_ARCHIVES_URL, $pattern = '/index.json$/i');
+		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/index.json$/i');
 		
 		$db = $this->model->db->useDB();
 		$collection = $this->model->db->createCollection($db);
@@ -27,7 +27,7 @@ class data extends Controller {
 	// Use this method for global changes in json files
 	public function modify() {
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_ARCHIVES_URL . '004/', $pattern = '/index.json$/i');
+		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL . '004/', $pattern = '/index.json$/i');
 		
 		foreach ($jsonFiles as $jsonFile) {
 

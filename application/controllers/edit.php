@@ -26,7 +26,7 @@ class edit extends Controller {
 			$fileContents[$value[0]] = $value[1];
 		}
 
-		$path = PHY_ARCHIVES_URL . $fileContents['id'] . "/index.json";
+		$path = PHY_METADATA_URL . $fileContents['id'] . "/index.json";
 
 		$fileContentsJson = json_encode($fileContents,JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 

@@ -24,7 +24,7 @@ class dataModel extends Model {
 
 	public function getIdFromPath($path){
 
-		$id = str_replace(PHY_ARCHIVES_URL, '', $path);
+		$id = str_replace(PHY_METADATA_URL, '', $path);
 		$id = str_replace('/index.json', '', $id);
 		// $id = str_replace('/', '_', $id);
 		return $id;

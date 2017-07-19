@@ -20,12 +20,12 @@ class describeModel extends Model {
 
 	public function getArtefactImages($id){
 		
-		$artefactPath = PHY_ARCHIVES_URL . $id . '/thumbs/*' . PHOTO_FILE_EXT;
+		$artefactPath = PHY_DATA_URL . $id . '/thumbs/*' . PHOTO_FILE_EXT;
 		$images = [];
 		$images = glob($artefactPath);
 		
 		array_walk($images, function(&$value, &$key) {
-		    $value = str_replace(PHY_ARCHIVES_URL, ARCHIVES_URL, $value);
+		    $value = str_replace(PHY_DATA_URL, DATA_URL, $value);
 		});
 
 		return $images;
