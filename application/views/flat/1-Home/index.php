@@ -50,7 +50,7 @@
                     </a>
                 </li>
                 <li class="stat-elem">
-                    <a href="javascript:void()">
+                    <a href="<?=BASE_URL?>listing/categories/Photograph">
                         <h2><i class="fa fa-image"></i></h2>
                         <p>Photographs</p>
                     </a>

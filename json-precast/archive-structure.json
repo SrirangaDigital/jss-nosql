@@ -3,28 +3,8 @@
 		"selectKey" : "Correspondence",
 		"sortKey" : "Date"
 	},
-	"Article" : {
-		"selectKey" : "Language",
-		"sortKey" : "Date"
-	},
-	"Book" : {
-		"selectKey" : "Category",
-		"sortKey" : "Date"
-	},
 	"Photograph" : {
-		"selectKey" : "Album",
-		"sortKey" : "Default"
-	},
-	"Brochure" : {
 		"selectKey" : "Event",
-		"sortKey" : "Date"
-	},
-	"Artwork" : {
-		"selectKey" : "Category",
-		"sortKey" : "Default"
-	},
-	"Miscellaneous" : {
-		"selectKey" : "Default",
 		"sortKey" : "Default"
 	}
 }
