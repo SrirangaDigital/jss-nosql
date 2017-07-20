@@ -29,9 +29,8 @@ class listingModel extends Model {
 		foreach ($iterator as $row) {
 			
 			$category['name'] = (isset($row['_id']['Category'])) ? $row['_id']['Category'] : MISCELLANEOUS_NAME;
-		
-			$category['nameURL'] = str_replace('/', '_', $category['name']);
-			$category['nameURL'] = urlencode($category['nameURL']);
+
+			$category['nameURL'] = $this->filterSpecialChars($category['name']);
 		
 			$category['parentType'] = $row['_id']['Type'];
 			$category['leafCount'] = $row['count'];
@@ -102,7 +101,7 @@ class listingModel extends Model {
 		}
 
 		if($data){
-			$auxiliary = ['category' => str_replace('/', '_', $category), 'selectKey' => $selectKey, 'sortKey' => $sortKey];
+			$auxiliary = ['category' => $this->filterSpecialChars($category), 'selectKey' => $selectKey, 'sortKey' => $sortKey];
 			$data['auxiliary'] = $auxiliary;
 		}
 		else

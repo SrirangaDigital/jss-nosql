@@ -28,6 +28,7 @@ class listing extends Controller {
 	public function artefacts($query = [], $type = DEFAULT_TYPE, $category = '') {
 
 		$category = str_replace('_', '/', $category);
+		$category = htmlspecialchars_decode($category, ENT_QUOTES);
 
 		$page = (isset($query['page'])) ? $query['page'] : "1";
 

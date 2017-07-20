@@ -84,6 +84,14 @@ class Model {
 		}
 		return $data;
 	}
+
+	public function filterSpecialChars($string){
+
+		$string = str_replace('/', '_', $string);
+		$string = urlencode($string);
+
+		return $string;
+	}
 }
 
 ?>
