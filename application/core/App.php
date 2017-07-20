@@ -60,6 +60,8 @@ class App{
 		$query = $_GET;
 		if(isset($query['url'])) unset($query['url']);
 
+		$query = array_map('trim', $query);
+
 		array_unshift($array, $query);
 		return $array;
 	}
