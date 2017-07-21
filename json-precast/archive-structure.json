@@ -4,7 +4,7 @@
 		"sortKey" : "Date"
 	},
 	"Photograph" : {
-		"selectKey" : "Event",
-		"sortKey" : "Default"
+		"selectKey" : "EventType",
+		"sortKey" : "Event"
 	}
 }
