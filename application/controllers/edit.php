@@ -35,7 +35,15 @@ class edit extends Controller {
 			$this->model->syncArtefactJsonToDB($fileContents['id']);
 			
 			if(REQUIRE_GIT_TRACKING)
-			$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $fileContents['id']));
+			{
+				$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $fileContents['id']));
+			}
+			else
+			{
+				$url =  BASE_URL . 'describe/artefact/' . str_replace('/', '_', $fileContents['id']);
+				$this->absoluteRedirect($url);
+			}
+			
 		}
 		else
 		{
