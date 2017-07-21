@@ -30,7 +30,7 @@ class gitcvsModel extends Model {
 			// Extract files into three bins - A->Added, M->Modified and D->Deleted. 
 			if(
 				(preg_match('/^([AMD])\s(.*)/', $file, $matches)) && 
-				(preg_match('/' . $metadaDataPath . '\d{3}\/\d{3}\/\d{4}\/index\.json/', $file))
+				(preg_match('/' . $metadaDataPath . '.*?\/.*?\/.*?\/index\.json/', $file))
 			  ) {
 
 				array_push($files[$matches[1]], $matches[2]);
