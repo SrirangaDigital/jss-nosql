@@ -33,6 +33,8 @@ class edit extends Controller {
 		if(file_put_contents($path, $fileContentsJson))
 		{
 			$this->model->syncArtefactJsonToDB($fileContents['id']);
+			
+			if(REQUIRE_GIT_TRACKING)
 			$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $fileContents['id']));
 		}
 		else
