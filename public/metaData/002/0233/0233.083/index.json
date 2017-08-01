@@ -1,9 +1,7 @@
 {
     "id": "002/0233/0233.083",
-    "Date": "22. 23 Apr 2004",
-    "Description": "ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ; ವಚನ ಸಂವಾದ ತರಂಗಿಣಿ",
-    "Place": "ಕಲಾಮಂದಿರ, ಮೈಸೂರು",
     "Event": "ಬಸವ ಜಯಂತಿ - 2004",
     "EventType": "ಬಸವ ಜಯಂತಿ",
-    "Type": "Photograph"
+    "Type": "Photograph",
+    "AccessLevel": 0
 }

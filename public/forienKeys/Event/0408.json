@@ -1,0 +1,10 @@
+{
+    "id": "0408",
+    "Date": "30 January 2011 to 4 February 2011",
+    "Description": "ವಿಶೇಷ ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ - ಮಲ್ಲಿಕಾರ್ಜುನ ಖರ್ಗೆ",
+    "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
+    "Place": "ಸುತ್ತೂರು  ಶ್ರೀಕ್ಷೇತ್ರ",
+    "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
+    "ForeignKeyType": "Event",
+    "AccessLevel": 0
+}
