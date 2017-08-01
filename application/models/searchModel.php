@@ -10,7 +10,7 @@ class searchModel extends Model {
 	public function getSearchResults($data, $page){
 
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db);
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$term = $data['term'];
 		$term = preg_quote($term, '/');

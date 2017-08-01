@@ -10,7 +10,7 @@ class describeModel extends Model {
 	public function getArtefactDetails($id){
 		
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db);
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$result = $collection->findOne(['id' => $id ]);
 		unset($result['_id']);
@@ -40,7 +40,7 @@ class describeModel extends Model {
 		$category = (isset($details{$selectKey})) ? $details{$selectKey} : null;
 
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db);
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$iterator = $collection->aggregate(
 				 [

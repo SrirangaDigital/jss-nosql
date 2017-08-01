@@ -16,16 +16,16 @@ class Database extends PDO {
 		return $db;
 	}
 
-	public function createCollection($db) {
+	public function createCollection($db, $collectionName) {
 
 		// Drop collection if exists
-		$db->dropCollection(ARTEFACT_COLLECTION);
+		$db->dropCollection($collectionName);
 
 		// Create Collection
-		$db->createCollection(ARTEFACT_COLLECTION);
+		$db->createCollection($collectionName);
 
 		// Select collection
-		$collection = $this->selectCollection($db);
+		$collection = $this->selectCollection($db, $collectionName);
 
 		//Create fulltext index on every field
 		$collection->createIndex(['$**' => 'text']);
@@ -33,18 +33,10 @@ class Database extends PDO {
 		return $collection;
 	}
 
-	public function selectCollection($db) {
+	public function selectCollection($db, $collectionName) {
 
 		// Select collection
-		$collection = $db->selectCollection(ARTEFACT_COLLECTION);
-
-		return $collection;
-	}	
-
-	public function selectUserCollection($db) {
-
-		// Select user collection
-		$collection = $db->selectCollection(USER_COLLECTION);
+		$collection = $db->selectCollection($collectionName);
 
 		return $collection;
 	}

@@ -10,7 +10,7 @@ class listingModel extends Model {
 	public function getCategories($type, $selectKey, $page){
 		
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db);
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
@@ -53,7 +53,7 @@ class listingModel extends Model {
 	public function getArtefacts($type, $category, $selectKey, $sortKey, $page){
 		
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db);
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;

@@ -32,7 +32,7 @@ class edit extends Controller {
 
 		if(file_put_contents($path, $fileContentsJson))
 		{
-			$this->model->syncArtefactJsonToDB($fileContents['id']);
+			$this->model->syncArtefactJsonToDB($fileContents['id'], ARTEFACT_COLLECTION);
 			
 			if(REQUIRE_GIT_TRACKING)
 			{

@@ -10,7 +10,7 @@ class userModel extends Model {
 	public function verifyCredentials($credentials) {
 
 		$db = $this->db->useDB();
-		$collection = $this->db->selectUserCollection($db);
+		$collection = $this->db->selectCollection($db, USER_COLLECTION);
 
 		$result = $collection->findOne(
 			[ 'email' => $credentials['lemail'], 'password'=> $credentials['lpassword'] ]

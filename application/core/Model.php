@@ -34,7 +34,7 @@ class Model {
 	public function getRandomID($type, $selectKey, $category, $count){
 
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db);
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$result = $collection->findOne(['Type' => $type, $selectKey => $category], ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
 
@@ -55,10 +55,10 @@ class Model {
 		return ($firstLeaf) ? str_replace(PHY_DATA_URL, DATA_URL, $firstLeaf) : STOCK_IMAGE_URL . 'default-image.png';
 	}
 
-	public function syncArtefactJsonToDB($id){
+	public function syncArtefactJsonToDB($id, $collectionName){
 
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db);
+		$collection = $this->db->selectCollection($db, $collectionName);
 
 		$jsonFile = PHY_METADATA_URL . $id . '/index.json';
 
