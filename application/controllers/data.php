@@ -7,12 +7,34 @@ class data extends Controller {
 		parent::__construct();
 	}
 
-	public function insert() {
+	public function syncJsonToDB() {
 
 		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/index.json$/i');
 		
 		$db = $this->model->db->useDB();
-		$collection = $this->model->db->createCollection($db);
+		$collection = $this->model->db->createCollection($db, ARTEFACT_COLLECTION);
+
+		foreach ($jsonFiles as $jsonFile) {
+
+			$contentString = file_get_contents($jsonFile);
+			$content = json_decode($contentString, true);
+			$content = $this->model->beforeDbUpadte($content);
+
+			$result = $collection->insertOne($content);
+		}
+		
+		if(file_exists(PHY_FOREIGN_KEYS_URL)){
+
+			$this->insertForeignKeys();
+		}
+	}
+	
+	private function insertForeignKeys()
+	{
+		$jsonFiles = $this->model->getFilesIteratively(PHY_FOREIGN_KEYS_URL, $pattern = '/.json$/i');
+		
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->createCollection($db, FOREIGN_KEY_COLLECTION);
 
 		foreach ($jsonFiles as $jsonFile) {
 
