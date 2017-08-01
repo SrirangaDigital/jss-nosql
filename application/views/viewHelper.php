@@ -53,7 +53,8 @@ class viewHelper extends View {
     }
 
     public function formatDisplayString($str){
-
+		
+		if(preg_match('/^\d{4}\-/', $str))
 		$str = preg_replace('/\b(\d)\b/',"0$1",$str);
 
         if(preg_match('/^\d{4}\-\d{2}\-\d{2}/', $str)) {
