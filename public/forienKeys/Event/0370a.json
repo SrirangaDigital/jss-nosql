@@ -1,8 +1,7 @@
 {
-    "id": "0370a",
+    "ForeignKeyId": "0370a",
     "Date": "14 Aug 2009",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Event": "ವಿದ್ಯಪೀಠದಲ್ಲಿ ನಡೆದ 94ನೇ ಜಯಂತಿ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

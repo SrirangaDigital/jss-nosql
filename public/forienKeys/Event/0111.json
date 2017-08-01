@@ -1,9 +1,8 @@
 {
-    "id": "0111",
+    "ForeignKeyId": "0111",
     "Date": "18 and 19 November 1995",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ",
     "Place": "ಸರಸ್ವತಿಪುರಂ, ಮೈಸೂರು",
     "Event": "ಸ್ವರವಚನಸಾಹಿತ್ಯ ವಿಚಾರ ಸಂಕಿರಣ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

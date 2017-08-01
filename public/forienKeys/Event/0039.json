@@ -1,8 +1,7 @@
 {
-    "id": "0039",
+    "ForeignKeyId": "0039",
     "Date": "1978-Jan-8",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ, ವರ್ಧಂತಿ ಮಹೋತ್ಸವ",
     "Event": "ಜಯಂತಿ ಹಾಗೂ ಜಾತ್ರಾ ಮಹೋತ್ಸವ - ಶ್ರೀರಾಜೇಂದ್ರ ಸ್ವಾಮಿಗಳವರ ವರ್ಧಂತಿ 1978",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

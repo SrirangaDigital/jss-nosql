@@ -1,7 +1,6 @@
 {
-    "id": "0005",
+    "ForeignKeyId": "0005",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Event": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

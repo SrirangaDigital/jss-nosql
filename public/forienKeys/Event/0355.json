@@ -1,9 +1,8 @@
 {
-    "id": "0355",
+    "ForeignKeyId": "0355",
     "Date": "27 June 2008",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ",
     "Place": "Mysore",
     "Event": "Interaction Session with JSS Medical College Students &#38; Faculty",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

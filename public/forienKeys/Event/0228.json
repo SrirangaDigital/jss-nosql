@@ -1,10 +1,9 @@
 {
-    "id": "0228",
+    "ForeignKeyId": "0228",
     "Date": "19 to 21 January 2004",
     "Description": "ಸಾಮೂಹಿಕ ವಿವಾಹ; ಜೆ.ಎಸ್.ಎಸ್. ಅಂತರ ಸಂಸ್ಥೆಗಳ 12ನೇ ಕ್ರೀಡಾಕೂಟ",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀಕ್ಷೇತ್ರ",
     "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

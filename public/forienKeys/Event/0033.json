@@ -1,8 +1,7 @@
 {
-    "id": "0033",
+    "ForeignKeyId": "0033",
     "Date": "1975-00-00",
     "EventType": "ಶ್ರೀಗಳ  ಪ್ರವಾಸ",
     "Event": "ಜಗದ್ಗುರುಗಳು ಉಡುಪಿ ಶ್ರೀ ಮಠಕ್ಕೆ ಭೇಟಿ 1975",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

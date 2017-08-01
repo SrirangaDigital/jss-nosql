@@ -1,9 +1,8 @@
 {
-    "id": "0077",
+    "ForeignKeyId": "0077",
     "Date": "1987-Dec-2",
     "EventType": "ಶ್ರೀಗಳ ಪುಣ್ಯಸ್ಮರಣೆ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಲಿಂ||ಜ||ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಶ್ರೀಗಳವರ ಪ್ರಥಮ ಪುಣ್ಯಸ್ಮರಣೆ  ಸಂಗೀತೋತ್ಸವ ಜಗನ್ಮೋಹನ ಆರಮನೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

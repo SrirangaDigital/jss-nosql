@@ -1,7 +1,6 @@
 {
-    "id": "0356",
+    "ForeignKeyId": "0356",
     "EventType": "ಸಂಸ್ಕೃತೋತ್ಸವಃ ",
     "Event": "ಸಂಸ್ಕೃತೋತ್ಸವಃ - ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಸಂಸ್ಕೃತ ಪಾಠಶಾಲಾಃ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

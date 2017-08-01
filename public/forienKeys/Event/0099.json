@@ -1,8 +1,7 @@
 {
-    "id": "0099",
+    "ForeignKeyId": "0099",
     "Date": "19 to 20 Sep 1992",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ ",
     "Event": "ಶಿವಯೋಗ ವಿಚಾರ ಸಂಕಿರಣ ಮತ್ತು ಕಾರ್ಯಗಾರ ಸ್ವಾಮಿ ರಾಮ ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

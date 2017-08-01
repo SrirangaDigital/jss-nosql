@@ -1,9 +1,8 @@
 {
-    "id": "0112",
+    "ForeignKeyId": "0112",
     "Date": "6 December 1995",
     "EventType": "ಶ್ರೀಗಳ ಪುಣ್ಯಸ್ಮರಣೆ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀಕ್ಷೇತ್ರ",
     "Event": "ಡಾ|| ಶ್ರೀ  ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರ 9ನೇ ಸಂಸ್ಮರಣ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

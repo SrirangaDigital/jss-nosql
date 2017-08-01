@@ -1,8 +1,7 @@
 {
-    "id": "0363",
+    "ForeignKeyId": "0363",
     "Date": "23 May 2009",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ",
     "Event": "ಘನಲಿಂಗ ಶಿವಯೋಗಿಗಳು - ವಿಚಾರ ಸಂಕಿರಣ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

@@ -1,9 +1,8 @@
 {
-    "id": "0240",
+    "ForeignKeyId": "0240",
     "Date": "29 to 30 June 2004",
     "EventType": "ಸುವರ್ಣ ಮಹೋತ್ಸವ, ಕೃತಿಗಳ  ಬಿಡುಗಡೆ ಸಮಾರಂಭ, ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಸುವರ್ಣ ಮಹೋತ್ಸವ, ಕೃತಿ ಬಿಡುಗಡೆ; ಶಾಲಾ ಕಟ್ಟಡ ಉದ್ಘಾಟನೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

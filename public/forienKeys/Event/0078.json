@@ -1,9 +1,8 @@
 {
-    "id": "0078",
+    "ForeignKeyId": "0078",
     "Date": "1987-Dec-19",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಆದಿಜಗದ್ಗುರುಗಳ 1028ನೇ ಜಯಂತಿ 1987",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

@@ -1,9 +1,8 @@
 {
-    "id": "0338",
+    "ForeignKeyId": "0338",
     "Date": "6 September 2007",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Place": "SJCE ಸಭಾಮಂಟಪ, ಮೈಸೂರು",
     "Event": "ಡಾ||  ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರ 92ನೇ ಜಯಂತಿ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

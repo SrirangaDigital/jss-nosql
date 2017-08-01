@@ -1,9 +1,8 @@
 {
-    "id": "0083",
+    "ForeignKeyId": "0083",
     "Date": "1988-Oct-20",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಸಿದ್ಧಾರ್ಥನಗರ, ಮೈಸೂರು",
     "Event": "ಜೆ.ಎಸ್.ಎಸ್.  ಪ್ರೌಢಶಾಲಾ‌ ಕಟ್ಟಡ ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

@@ -1,8 +1,7 @@
 {
-    "id": "0040",
+    "ForeignKeyId": "0040",
     "Date": "1979-00-00",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ,  ಶ್ರೀ ಮಠಕ್ಕೆ  ಗಣ್ಯರ ಭೇಟಿ",
     "Event": "ಶಿವರಾತ್ರೀಶ್ವರ ಜಯಂತಿ ಹಾಗೂ ಮುಖ್ಯಮಂತ್ರಿ ಗುಂಡುರಾವ್ ಶ್ರೀಮಠಕ್ಕೆ ಭೇಟಿ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

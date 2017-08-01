@@ -1,7 +1,6 @@
 {
-    "id": "0007",
+    "ForeignKeyId": "0007",
     "EventType": "ಶ್ರೀ ಮಠಕ್ಕೆ  ಗಣ್ಯರ ಭೇಟಿ",
     "Event": "ಸುತ್ತೂರು ಶ್ರೀ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮಂತ್ರ ಮಹರ್ಷಿಗಳ ಜೊತೆಯಲ್ಲಿ ಮಹಾರಾಜ ಜಯಚಾಮರಾಜ ಒಡೆಯರ್",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

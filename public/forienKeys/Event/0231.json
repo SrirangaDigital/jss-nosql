@@ -1,9 +1,8 @@
 {
-    "id": "0231",
+    "ForeignKeyId": "0231",
     "Date": "7 to 9 April 2003; 11 April to 10 May 2003; 20 to 26 May 2003; 6 to 8 June 2003",
     "EventType": "ಪ್ರವಚನ ಕಾರ್ಯಾಕ್ರಮ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀಕ್ಷೇತ್ರ",
     "Event": "Residential Spiritual Retreat ಸಾಧಕರ ಧಾರ್ಮಿಕ ಶಿಕ್ಷಣ ಶಿಬಿರ; ಸಾರ್ವಜನಿಕರಿಗಾಗಿ ಧಾರ್ಮಿಕ ಶಿಕ್ಷಣ ಶಿಬಿರ; ಭಕ್ತಿ ಯೋಗ ಸಮ್ಮೇಳನ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

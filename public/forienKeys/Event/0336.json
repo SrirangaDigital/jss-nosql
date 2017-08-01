@@ -1,8 +1,7 @@
 {
-    "id": "0336",
+    "ForeignKeyId": "0336",
     "EventType": "ಶಾಲೆ ಕಾಲೇಜು ಛಾಯಚಿತ್ರಗಳು",
     "Place": "ಮೈಸೂರು",
     "Event": "ಶ್ರೀ ಕ್ಯಾತನಹಳ್ಳಿ ಪಾಠಶಾಲೆ ಹಾಗೂ ಜೆ.ಎಸ್.ಎಸ್. ಜನಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳ ಹಳೆಯ ಕಟ್ಟಡದ ಛಾಯಾಚಿತ್ರಗಳು",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

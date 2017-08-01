@@ -1,9 +1,8 @@
 {
-    "id": "0480",
+    "ForeignKeyId": "0480",
     "Date": "20 March 2016",
     "EventType": "ಕೃತಿಗಳ ಬಿಡುಗಡೆ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಕೃತಿಗಳು, ಧ್ವನಿಸುರಳಿ ಹಾಗೂ ಸಾಕ್ಷ್ಯಚಿತ್ರ ಲೋಕಾರ್ಪಣೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

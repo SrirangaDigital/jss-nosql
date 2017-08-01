@@ -1,9 +1,8 @@
 {
-    "id": "0429",
+    "ForeignKeyId": "0429",
     "Date": "23 November 2011",
     "EventType": "ಕೃತಿಗಳ  ಬಿಡುಗಡೆ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಕೃತಿಗಳ ಲೋಕಾರ್ಪಣೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

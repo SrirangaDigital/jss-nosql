@@ -1,10 +1,9 @@
 {
-    "id": "0158",
+    "ForeignKeyId": "0158",
     "Date": "26 July 2000",
     "Description": "ಮು-೧೦-ಗ್ರಂಥ ಬಿಡುಗಡೆ; ಮು-೧೧-ಉದ್ಘಾಟನೆ",
     "EventType": "ಶ್ರೀಗಳ ಪ್ರವಾಸ",
     "Place": "ಶ್ರೀ ಸಿದ್ಧೇಶ್ವರ ಸಂಸ್ಥೆ, ವಿಜಾಪುರ",
     "Event": "ಬಂಥನಾಳ ಶ್ರೀ ಸಂಗನಬಸವ ಶಿವಯೋಗಿಗಳ ಜನ್ಮಶತಾಬ್ಧಿ ಆಚರಣೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

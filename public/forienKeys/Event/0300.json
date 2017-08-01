@@ -1,9 +1,8 @@
 {
-    "id": "0300",
+    "ForeignKeyId": "0300",
     "Date": "13 May 2006",
     "EventType": "ಪ್ರಾರಂಭೋತ್ಸವ ಸಮಾರಂಭ",
     "Place": "ಸುತ್ತೂರು",
     "Event": "ಅತಿಥಿಗೃಹ ಮತ್ತು ರಸ್ತೆ ಕಾಮಗಾರಿಗಳ ಪ್ರಾರಂಭೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

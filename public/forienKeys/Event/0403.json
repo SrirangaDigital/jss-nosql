@@ -1,9 +1,8 @@
 {
-    "id": "0403",
+    "ForeignKeyId": "0403",
     "Date": "27 December 2010",
     "EventType": "ಪ್ರಶಸ್ತಿ  ಪ್ರಧಾನ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಪ್ರಶಸ್ತಿ  ಪ್ರಧಾನ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

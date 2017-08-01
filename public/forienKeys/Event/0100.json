@@ -1,9 +1,8 @@
 {
-    "id": "0100",
+    "ForeignKeyId": "0100",
     "Date": "1992-Oct-17",
     "EventType": "ಅಖಿಲ ಭಾರತ ವೀರಶೈವ ಮಹಾಸಭಾ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಅಖಿಲ ಭಾರತ ವೀರಶೈವ ಮಹಾಸಭಾ ಮೈಸೂರು ಜಿಲ್ಲಾ ಸಮ್ಮೇಳನ ಆಹ್ವಾನ ಪತ್ರಿಕೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

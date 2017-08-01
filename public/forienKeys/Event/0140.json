@@ -1,7 +1,6 @@
 {
-    "id": "0140",
+    "ForeignKeyId": "0140",
     "EventType": "ಶ್ರೀಗಳ ಪ್ರವಾಸ",
     "Event": "ಸ್ವಾಮಿ ರಾಮ ಸೆಂಟರ್, ಹಿಮಾಲಯ ಇನ್ಟ್ಸ್ಟಿಟ್ಯೂಷನ್",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

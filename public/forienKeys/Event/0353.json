@@ -1,9 +1,8 @@
 {
-    "id": "0353",
+    "ForeignKeyId": "0353",
     "Date": "2008",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ",
     "Place": "Tumkur",
     "Event": "CENTU-RAYS-2008 - International &#38; ART Symposium, Sit",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

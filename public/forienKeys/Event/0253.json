@@ -1,7 +1,6 @@
 {
-    "id": "0253",
+    "ForeignKeyId": "0253",
     "EventType": "ಶ್ರೀ ಮಠಕ್ಕೆ ಗ‌ಣ್ಯರ ಭೇಟಿ",
     "Event": "ಶ್ರೀ ಮಠಕ್ಕೆ ಉಪ ಪ್ರಧಾನಿ ಎಲ್.ಕೆ. ಅದ್ವಾನಿ ಅವರ ಭೇಟಿ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

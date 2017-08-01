@@ -1,8 +1,7 @@
 {
-    "id": "0460",
+    "ForeignKeyId": "0460",
     "Date": "14 to 17 April 2014",
     "EventType": "ಬೆಳದಿಂಗಳ ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮ",
     "Event": "150ನೇ ಬೆಳದಿಂಗಳ ಸಂಗೀತ ವಿಶೇಷ ಕಾರ್ಯಕ್ರಮ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

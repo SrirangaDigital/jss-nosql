@@ -1,9 +1,8 @@
 {
-    "id": "0320",
+    "ForeignKeyId": "0320",
     "Date": "16 October 2006",
     "Description": "ಶ್ರೀ ಮಠಕ್ಕೆ  ತೈವಾನ್ ದೇಶದ ಆಧ್ಯಾತ್ಮ ತಂಡದವರ ಭೇಟಿ",
     "EventType": "ವರ್ಧಂತಿ ಮಹೋತ್ಸವ",
     "Event": "ಕ್ಯಾತನಹಳ್ಳಿ   ಶ್ರೀ ಶಿವಪ್ರಭು ಸ್ವಾಮಿಗಳವರ 94ನೇ ವರ್ಧಂತಿ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

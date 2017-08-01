@@ -1,7 +1,6 @@
 {
-    "id": "0337",
+    "ForeignKeyId": "0337",
     "EventType": "ಶ್ರೀಮಠದ  ಛಾಯಾಚಿತ್ರಗಳು",
     "Event": "ಸುತ್ತೂರು ಶ್ರೀ ಕ್ಷೇತ್ರ ಹಳೆಯ ಕಟ್ಟಡದ ಛಾಯಾಚಿತ್ರಗಳು",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

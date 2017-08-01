@@ -1,9 +1,8 @@
 {
-    "id": "0110",
+    "ForeignKeyId": "0110",
     "Date": "24 Sep 1995",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ, ರಜತ ಮಹೋತ್ಸವ",
     "Place": "ಸರಸ್ವತಿಪುರಂ, ಮೈಸೂರು",
     "Event": "ನೂತನ ಕಟ್ಟಡ ಸಮುಚ್ಚಯ ಮತ್ತು ಮಹಿಳಾ ಕಾಲೇಜಿನ ರಜತ ಮಹೋತ್ಸವ  ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳು",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

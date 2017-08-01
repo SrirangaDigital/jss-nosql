@@ -1,9 +1,8 @@
 {
-    "id": "0029",
+    "ForeignKeyId": "0029",
     "Date": "10 Jan 1975",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ 1015ನೇ ಜಯಂತಿ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

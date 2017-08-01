@@ -1,9 +1,8 @@
 {
-    "id": "0340",
+    "ForeignKeyId": "0340",
     "Date": "2007",
     "EventType": "ಸಮಾರೋಪ ಸಮಾರಂಭ",
     "Place": "ಸುತ್ತೂರು ಮಠ, ಮೈಸೂರು",
     "Event": "ಶ್ರಾವಣ ಮಾಸದ ಪ್ರವಚನ ಸಮಾರೋಪ ಸಮಾರಂಭ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

@@ -1,8 +1,7 @@
 {
-    "id": "0094",
+    "ForeignKeyId": "0094",
     "Date": "29 Aug 1991",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Event": "ಲಿಂ||ಜ||ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಶ್ರೀಗಳವರ 76 ನೇ ಜಯಂತಿ  ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

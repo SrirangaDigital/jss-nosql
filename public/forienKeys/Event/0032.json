@@ -1,8 +1,7 @@
 {
-    "id": "0032",
+    "ForeignKeyId": "0032",
     "Date": "1975-00-00",
     "EventType": "ಶಾಲೆ ಕಾಲೇಜು ಛಾಯಚಿತ್ರಗಳು",
     "Event": "SJCE ಇಂಜಿನಿಯರಿಂಗ್ ಕಾಲೇಜಿನ ಪೋಟೋಸ್",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

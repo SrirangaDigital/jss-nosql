@@ -1,8 +1,7 @@
 {
-    "id": "0079",
+    "ForeignKeyId": "0079",
     "Date": "1988-May-7",
     "EventType": "ಶ್ರೀ ಮಠಕ್ಕೆ  ಗಣ್ಯರ ಭೇಟಿ",
     "Event": "ಮುಖ್ಯಮಂತ್ರಿ ಹೆಗಡೆ, ರಾಜ್ಯಪಾಲ ಶ್ರೀ ಸಿ. ವೆಂಕಟಸುಬ್ಬಯ್ಯರವರು ಸುತ್ತೂರು ಮಠಕ್ಕೆ ಭೇಟಿ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

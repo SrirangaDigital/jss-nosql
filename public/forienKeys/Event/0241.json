@@ -1,9 +1,8 @@
 {
-    "id": "0241",
+    "ForeignKeyId": "0241",
     "Date": "25 August 2004",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "(ಹಳೆಯ ಮಠದ ಆವರಣ), ಸುತ್ತೂರು",
     "Event": "ದಾಸೋಹ ಭವನ ಉದ್ಘಾಟನೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

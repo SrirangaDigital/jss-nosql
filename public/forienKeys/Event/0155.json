@@ -1,9 +1,8 @@
 {
-    "id": "0155",
+    "ForeignKeyId": "0155",
     "Date": "5 May 2000",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
     "Event": "Inauguration of Training Centre in Jewellery Design &#38; Technology, Supported by World Gold Council",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

@@ -1,8 +1,7 @@
 {
-    "id": "0439",
+    "ForeignKeyId": "0439",
     "Date": "2 August 2012",
     "EventType": "ಸಮಾರೋಪ ಸಮಾರಂಭ",
     "Event": "ವೇದ-ಆಗಮ-ಜ್ಯೋತಿಷ್ಯ  ಪ್ರಯೋಗ ತರಗತಿಗಳ ಸಮಾರೋಪ ಸಮಾರಂಭ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

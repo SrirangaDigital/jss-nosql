@@ -1,10 +1,9 @@
 {
-    "id": "0152",
+    "ForeignKeyId": "0152",
     "Date": "2 and 6 February 2000",
     "Description": "ಜೆ. ಎಸ್. ಎಸ್. ಅಂತರ ಸಂಸ್ಥೆಗಳ ಸಾಂಸ್ಕೃತಿಕ ಕೂಟ",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀ ಕ್ಷೇತ್ರ",
     "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

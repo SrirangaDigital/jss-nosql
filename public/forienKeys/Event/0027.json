@@ -1,8 +1,7 @@
 {
-    "id": "0027",
+    "ForeignKeyId": "0027",
     "Date": "1974-00-00",
     "EventType": "ಶ್ರೀ ಮಠಕ್ಕೆ  ಗಣ್ಯರ ಭೇಟಿ",
     "Event": "ಆರೋಗ್ಯ ಸಚಿವ ಶ್ರೀ ಸಿದ್ಧವೀರಪ್ಪನವರು ಸುತ್ತೂರಿಗೆ ಭೇಟಿ 1974",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

@@ -1,9 +1,8 @@
 {
-    "id": "0298",
+    "ForeignKeyId": "0298",
     "Date": "2 April 2006",
     "EventType": "ಪ್ರಶಸ್ತಿ  ಪ್ರಧಾನ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
     "Event": "FFE Scholarship Award Function 2005-06; JSS Polytechnic for Women, Mysore Students Union",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

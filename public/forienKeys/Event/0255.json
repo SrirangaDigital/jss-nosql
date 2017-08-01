@@ -1,10 +1,9 @@
 {
-    "id": "0255",
+    "ForeignKeyId": "0255",
     "Date": "9 January 2005",
     "Description": "ಜಯಂತಿಯು ಸಾಂಕೇತಿಕವಾಗಿ ನಡೆದಿರುತ್ತದೆ",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Place": "ಸುತ್ತೂರು",
     "Event": "ಆದಿಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಭಗವತ್ಪಾದರ 1045ನೇ ಜಯಂತಿ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

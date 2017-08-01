@@ -1,10 +1,9 @@
 {
-    "id": "0183",
+    "ForeignKeyId": "0183",
     "Date": "9 to 13 February 2002",
     "Description": "ಜೆ.ಎಸ್.ಎಸ್. ಅಂತರ ಸಂಸ್ಥೆಗಳ 10ನೇ ಕ್ರೀಡಾಕೂಟ; 11ನೆಯ ಭಜನಾಮೇಳ  ಮತು ಅದರ  ಸಮಾರೋಪ; ಸಾಂಸ್ಕೃತಿಕ ಮೇಳ ಉದ್ಘಾಟನೆ",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀ ಕ್ಷೇತ್ರ",
     "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

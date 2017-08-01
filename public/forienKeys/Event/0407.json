@@ -1,10 +1,9 @@
 {
-    "id": "0407",
+    "ForeignKeyId": "0407",
     "Date": "30 January 2011 to 4 February 2011",
     "Description": "ರಾಜ್ಯ ಮಟ್ಟದ ಮಕ್ಕಳ ಚಿತ್ರಕಲಾ ಸ್ಪರ್ಧೆ, ರಸಪ್ರಶ್ನೆ, ರಂಗೋಲಿ ಸೋಬಾನೆ ಪದ ಸ್ಪರ್ಧೆ ಮತ್ತು ಮಹಿಳೆಯರಿಗಾಗಿ ಮೆಹಂದಿ ಕಲೆ ಸ್ಪರ್ಧೆ",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀಕ್ಷೇತ್ರ",
     "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

@@ -1,9 +1,8 @@
 {
-    "id": "0236",
+    "ForeignKeyId": "0236",
     "Date": "29 April 2004 to 5 May 2004",
     "EventType": "ಆಧ್ಯಾತ್ಮಿಕ ಶಿಬಿರ",
     "Place": "ಊಟಿ",
     "Event": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಧಾರ್ಮಿಕ ದತ್ತಿ - ಸಾರ್ವಜನಿಕರಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಶಿಬಿರ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

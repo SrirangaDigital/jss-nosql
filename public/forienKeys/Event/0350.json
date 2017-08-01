@@ -1,9 +1,8 @@
 {
-    "id": "0350",
+    "ForeignKeyId": "0350",
     "Date": "28 July 2008",
     "EventType": "ಕೃತಿಗಳ ಬಿಡುಗಡೆ ಸಮಾರಂಭ",
     "Place": "ಧಾರವಾಡ",
     "Event": "ಶರಣ ಸಂಸ್ಕೃತಿ ಮಾಲೆ ಕೃತಿಗಳ ಬಿಡುಗಡೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

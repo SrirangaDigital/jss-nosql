@@ -1,9 +1,8 @@
 {
-    "id": "0384",
+    "ForeignKeyId": "0384",
     "Date": "26 April to 2 May 2010",
     "EventType": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
     "Place": "ಜೆ.ಎಸ್.ಎಸ್. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್, ಉದಕಮಂಡಲ",
     "Event": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ - ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಧಾರ್ಮಿಕ ದತ್ತಿ, ಮೈಸೂರು",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

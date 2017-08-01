@@ -1,8 +1,7 @@
 {
-    "id": "0034",
+    "ForeignKeyId": "0034",
     "Date": "1975-00-00",
     "EventType": "ಶ್ರೀಗಳ  ಪ್ರವಾಸ",
     "Event": "ಉಡುಪಿ ಬಳಿಯ ಅಂಬಲಪಾಡಿ ದೇವಸ್ಥಾನದಲ್ಲಿ ಜಗದ್ಗುರುಗಳು",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

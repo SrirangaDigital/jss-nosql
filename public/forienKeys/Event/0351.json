@@ -1,9 +1,8 @@
 {
-    "id": "0351",
+    "ForeignKeyId": "0351",
     "Date": "8 August 2008",
     "EventType": "ಕೃತಿ ಬಿಡುಗಡೆ ಸಮಾರಂಭ",
     "Place": "ಶಿವರಾತ್ರೀಶ್ವರ ಕೇಂದ್ರ, ಬೆಂಗಳೂರು",
     "Event": "ವೃಷಬೇಂದ್ರ ವಿಳಾಸ ಕೃತಿ ಬಿಡುಗಡೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

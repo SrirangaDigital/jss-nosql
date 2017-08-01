@@ -1,9 +1,8 @@
 {
-    "id": "0374",
+    "ForeignKeyId": "0374",
     "Date": "24 December 2009",
     "EventType": "ಕೃತಿ ಬಿಡುಗಡೆ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಜಗದ್ಗುರು  ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಗ್ರಂಥಮಾಲೆ ಮೂರು ಕೃತಿಗಳ ಬಿಡುಗಡೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

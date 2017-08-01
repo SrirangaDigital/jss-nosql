@@ -1,9 +1,8 @@
 {
-    "id": "0397",
+    "ForeignKeyId": "0397",
     "Date": "September 2010",
     "EventType": "ಪ್ರವಚನ ಕಾರ್ಯಾಕ್ರಮ",
     "Place": "ಶ್ರೀ ಮಠ, ಮೈಸೂರು",
     "Event": "ಶ್ರಾವಣ ಮಾಸದ ಪ್ರವಚನ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

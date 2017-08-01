@@ -1,9 +1,8 @@
 {
-    "id": "0434",
+    "ForeignKeyId": "0434",
     "Date": "13 January 2012",
     "EventType": "ಅಭಿನಂದನಾ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಡಾ|| ಎಸ್. ಎಲ್. ಭೈರಪ್ಪನವರಿಗೆ ಅಭಿನಂದನೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

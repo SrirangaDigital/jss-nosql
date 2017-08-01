@@ -1,9 +1,8 @@
 {
-    "id": "0020",
+    "ForeignKeyId": "0020",
     "Date": "1971-00-00",
     "EventType": "ಶ್ರೀಗಳ  ಪ್ರವಾಸ",
     "Place": "ಹೊಳೆ ನರಸೀಪುರ",
     "Event": "ಹೊಳೆನರಸೀಪುರದ ಸಮಾರಂಭವೊಂದರಲ್ಲಿ  ಶ್ರೀರಾಜೇಂದ್ರ  ಶ್ರೀಗಳವರು",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

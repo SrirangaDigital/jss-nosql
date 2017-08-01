@@ -1,9 +1,8 @@
 {
-    "id": "0250",
+    "ForeignKeyId": "0250",
     "Date": "2 November 2004",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಬೆಂಗಳೂರು",
     "Event": "ಮುಖ್ಯಮಂತ್ರಿ ಧರ್ಮಸಿಂಗ್ ಅವರಿಂದ ಜೆ.ಎಸ್.ಎಸ್. ತಾಂತ್ರಿಕ ಶಿಕ್ಷಣ ಅಕಾಡೆಮಿ ಕಟ್ಟಡದ ಉದ್ಘಾಟನೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

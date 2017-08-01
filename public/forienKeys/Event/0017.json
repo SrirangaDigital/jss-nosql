@@ -1,8 +1,7 @@
 {
-    "id": "0017",
+    "ForeignKeyId": "0017",
     "Date": "1970-00-00",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ ",
     "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ 1970",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

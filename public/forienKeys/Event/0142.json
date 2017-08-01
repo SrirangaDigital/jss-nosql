@@ -1,10 +1,9 @@
 {
-    "id": "0142",
+    "ForeignKeyId": "0142",
     "Date": "15 to 16 January 1999",
     "Description": "ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಅಂತರ ಪ್ರೌಢಶಾಲಾ ಕ್ರೀಡಾಕೂಟ; ವಸ್ತು ಪ್ರದರ್ಶನ",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀ ಕ್ಷೇತ್ರ",
     "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

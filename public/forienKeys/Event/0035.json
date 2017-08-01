@@ -1,8 +1,7 @@
 {
-    "id": "0035",
+    "ForeignKeyId": "0035",
     "Date": "1975-00-00",
     "EventType": "ಶ್ರೀಗಳ ಛಾಯಚಿತ್ರಗಳು",
     "Event": "ಜ|| ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಶ್ರೀಗಳವರ ವಿವಿಧ ಛಾಯಚಿತ್ರಗಳು",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

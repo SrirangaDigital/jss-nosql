@@ -1,9 +1,8 @@
 {
-    "id": "0230",
+    "ForeignKeyId": "0230",
     "Date": "4 to 6 February 2004",
     "EventType": "ಮಹಾಕುಂಭ ಮೇಳ",
     "Place": "ಟಿ. ನರಸೀಪುರ",
     "Event": "6ನೇ ಮಹಾಕುಂಭ ಮೇಳ ಸರ್ವಧರ್ಮ ಸಭೆ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

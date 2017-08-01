@@ -1,8 +1,7 @@
 {
-    "id": "0285",
+    "ForeignKeyId": "0285",
     "Date": "16 October 2005",
     "EventType": "ವರ್ಧಂತಿ ಮಹೋತ್ಸವ",
     "Event": "ಶ್ರೀ ಕ್ಯಾತನಹಳ್ಳಿ   ಶ್ರೀಗಳ  93ನೇ ವರ್ಧಂತಿ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

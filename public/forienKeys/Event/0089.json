@@ -1,9 +1,8 @@
 {
-    "id": "0089",
+    "ForeignKeyId": "0089",
     "Date": "9 to 10 June 1990",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಧಾರ್ಮಿಕ ದತ್ತಿ (ರಿ), ಒಂದು ಸಮಗ್ರ ವಿಚಾರ ಸಂಕಿರಣ ಚನ್ನಬಸವಣ್ಣನವರು",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

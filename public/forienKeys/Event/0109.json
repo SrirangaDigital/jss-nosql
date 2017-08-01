@@ -1,9 +1,8 @@
 {
-    "id": "0109",
+    "ForeignKeyId": "0109",
     "Date": "1995-Aug-25 to 27",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಡಾ|| ಶ್ರೀ ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರ 80ನೇ ಜಯಂತಿ ಮಹೋತ್ಸವ ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

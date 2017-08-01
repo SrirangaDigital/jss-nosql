@@ -1,9 +1,8 @@
 {
-    "id": "0329",
+    "ForeignKeyId": "0329",
     "Date": "31 May 2007; 30 August 2009",
     "EventType": "ಉಪನ್ಯಾಸ ಕಾರ್ಯಾಕ್ರಮ",
     "Place": "ಮೈಸೂರು,  ಬೆಂಗಳೂರು",
     "Event": "ಸುವರ್ಣ ಮಹೋತ್ಸವ ದತ್ತಿ: ಪ್ರಥಮ ಉಪನ್ಯಾಸ - ಶ್ರೀ ನಂದನ್ ಎಂ. ನಿಲೇಕಣಿ; ಸುವರ್ಣ ಮಹೋತ್ಸವ ದತ್ತಿ ವಿಶೇಷ ಉಪನ್ಯಾಸ-೨",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

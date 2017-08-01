@@ -1,9 +1,8 @@
 {
-    "id": "0401",
+    "ForeignKeyId": "0401",
     "Date": "27 to 29 November 2010",
     "EventType": "ಭಜನಾ ಕಾರ್ಯಾಗಾರ",
     "Place": "ಸುತ್ತೂರು",
     "Event": "ರಾಜ್ಯಮಟ್ಟದ ಭಜನಾ ಮೇಳ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

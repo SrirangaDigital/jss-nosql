@@ -1,8 +1,7 @@
 {
-    "id": "0067",
+    "ForeignKeyId": "0067",
     "Date": "1986-00-00",
     "EventType": "ಅಭಿನಂದನಾ ಸಮಾರಂಭ",
     "Event": "ವಿದೇಶ ಪ್ರವಾಸ ಮುಗಿಸಿ ಬಂದ ಶ್ರೀಗಳಿಗೆ ಅಭಿನಂದನಾ ಸಮಾರಂಭ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }

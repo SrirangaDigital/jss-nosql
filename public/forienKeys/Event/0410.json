@@ -1,9 +1,8 @@
 {
-    "id": "0410",
+    "ForeignKeyId": "0410",
     "Date": "30 March 2011",
     "EventType": "ರಜತ ಮಹೋತ್ಸವ",
     "Place": "ಮೈಸೂರು",
     "Event": "ಅಖಿಲ ಭಾರತ ಶರಣ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ರಜತ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "Event",
-    "AccessLevel": 0
+    "ForeignKeyType": "Event"
 }
