@@ -92,6 +92,25 @@ class Model {
 
 		return $string;
 	}
+
+	public function getForeignKeyTypes($foreignKeyType){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
+		$result = $collection->distinct($foreignKeyType);
+		return $result;
+	}
+
+	public function unsetControlParams($data){
+
+		$controlParams = ['_id', 'ForeignKeyType', 'ForeignKeyId', 'AccessLevel'];
+
+		foreach ($controlParams as $param) {
+
+			if(isset($data{$param})) unset($data{$param});
+		}
+		return $data;
+	}
 }
 
 ?>

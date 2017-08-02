@@ -13,7 +13,7 @@ class describeModel extends Model {
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$result = $collection->findOne(['id' => $id ]);
-		unset($result['_id']);
+		$result = $this->unsetControlParams($result);
 
 		return $result;
 	}
@@ -84,6 +84,27 @@ class describeModel extends Model {
 			return False;
 		}
 
+	}
+
+	public function insertForeignKeyDetails($artefactDetails , $foreignKeys){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
+
+		$data = [];
+		foreach($foreignKeys as $fkey){
+
+			if(array_key_exists($fkey, $artefactDetails)){
+
+				
+				$result = $collection->findOne([$fkey => $artefactDetails[$fkey]]);
+				$result = $this->unsetControlParams($result);
+
+				$artefactDetails = array_merge((array) $artefactDetails, (array) $result);
+			}
+		}
+
+		return $artefactDetails;
 	}
 }
 
