@@ -7,6 +7,7 @@ define('USER_COLLECTION', 'userdetails');
 //Default Values
 define('DEFAULT_TYPE', 'Letter');
 define('MISCELLANEOUS_NAME', 'Miscellaneous');
+define('FOREIGN_KEY_TYPE', 'ForeignKeyType');
 
 // Lazy loading setting
 define('PER_PAGE', 10);
