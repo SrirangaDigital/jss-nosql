@@ -90,7 +90,7 @@ class listingModel extends Model {
 		foreach ($iterator as $row) {
 	
 			$artefact = $row;
-			unset($artefact['_id']);
+			$artefact = $this->unsetControlParams($artefact);
 			$artefact['thumbnailPath'] = $this->getThumbnailPath($artefact['id']);
 			$artefact['idURL'] = str_replace('/', '_', $artefact['id']);
 			$artefact['cardName'] = (isset($artefact{$sortKey})) ? $artefact{$sortKey} : '';
