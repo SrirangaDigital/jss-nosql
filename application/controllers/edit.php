@@ -26,21 +26,33 @@ class edit extends Controller {
 			$fileContents[$value[0]] = $value[1];
 		}
 
-		$path = PHY_METADATA_URL . $fileContents['id'] . "/index.json";
+		if(isset($fileContents['id'])){
+
+			$path = PHY_METADATA_URL . $fileContents['id'] . "/index.json";
+			$collectionName = ARTEFACT_COLLECTION;
+			$id = $fileContents['id'];
+		}
+		else{
+
+			$path = PHY_FOREIGN_KEYS_URL . $fileContents['ForeignKeyType'] . "/" . $fileContents['ForeignKeyId'] . ".json";
+			$collectionName = FOREIGN_KEY_COLLECTION;
+			$id = $fileContents['ForeignKeyId'];
+		}
+
 
 		$fileContentsJson = json_encode($fileContents,JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 
 		if(file_put_contents($path, $fileContentsJson))
 		{
-			$this->model->syncArtefactJsonToDB($fileContents['id'], ARTEFACT_COLLECTION);
+			$this->model->syncArtefactJsonToDB($id, $collectionName);
 			
 			if(REQUIRE_GIT_TRACKING)
 			{
-				$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $fileContents['id']));
+				$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $id));
 			}
 			else
 			{
-				$url =  BASE_URL . 'describe/artefact/' . str_replace('/', '_', $fileContents['id']);
+				$url =  BASE_URL . 'describe/artefact/' . str_replace('/', '_', $id);
 				$this->absoluteRedirect($url);
 			}
 			
