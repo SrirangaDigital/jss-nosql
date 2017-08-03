@@ -17,6 +17,19 @@ class editModel extends Model {
 		$data->idURL = $id;
 		return ($data);
 	}	
+
+	public function editForeignKey($key,$value) {
+		
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
+
+		$result = $collection->findOne([$key => $value]);
+		
+		if($result) 
+			$result = $this->unsetControlParams($result);
+		
+		return $result;
+	}	
 }
 
 ?>
