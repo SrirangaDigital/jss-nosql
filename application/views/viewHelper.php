@@ -6,12 +6,12 @@ class viewHelper extends View {
 
     }
 
-    public function displayDataInForm($json, $auxJson='') {
+    public function displayDataInForm($json, $foreignKeys='') {
 
         $data = json_decode($json, true);
         
-        if ($auxJson) $data = array_merge($data, json_decode($auxJson, true));
-        
+        // if ($auxJson) $data = array_merge($data, json_decode($auxJson, true));
+
         $count = 0;
         $formgroup = 0;
 
@@ -26,14 +26,21 @@ class viewHelper extends View {
 				}
 			 }
     
-            $disable = (($key == 'id') || ($key == 'albumID'))? 'readonly' : '';
-    
+            $disable = (($key == 'id') || ($key == 'albumID') || ($key == 'ForeignKeyId')|| ($key == 'ForeignKeyType'))? 'readonly' : '';
+            
+            $editForeignKey = "";
+
+            if($foreignKeys){
+                if(in_array($key, $foreignKeys)){
+                    $editForeignKey = '<a  class="editDetails" href="' . BASE_URL . 'edit/foreignkey/'. urlencode($key) . '/'. urlencode($value) . '">Edit Event</a>';            
+                }
+            }
             echo '<div class="form-group" id="frmgroup' . $formgroup . '">' . "\n";
             echo '<input type="text" class="form-control edit key" name="id'. $count . '[]"  value="' . $key . '"' . $disable  . ' />';
             echo '<input type="text" class="form-control edit value" name="id'. $count . '[]"  value="' . $value . '"' . $disable . ' />';
     
             if($disable != "readonly")
-                echo '<i class="fa fa-times" title="Remove field" onclick="removeUpdateDataElement(\'frmgroup'. $formgroup .'\')" value="Remove"></i>' . "\n";
+                echo '<i class="fa fa-times" title="Remove field" onclick="removeUpdateDataElement(\'frmgroup'. $formgroup .'\')" value="Remove"></i>&nbsp;&nbsp;' . $editForeignKey . "\n";
 
             echo '</div>' . "\n";
             $count++;
