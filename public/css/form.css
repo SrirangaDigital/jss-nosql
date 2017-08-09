@@ -47,7 +47,7 @@
 	text-align: right;
 	width: 200px;
 	border-bottom: 1px solid #ededed;
-	padding: 20px;
+	height: 40px;
 }
 .form-group input[type="text"].edit.value{
 	border: none;
@@ -55,7 +55,7 @@
 	text-align: left;
 	width: 400px;
 	border-bottom: 1px solid #ededed;
-	padding: 20px;
+	height: 40px;
 	margin-left: 20px;
 }
 .form-group i.fa-times{
