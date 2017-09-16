@@ -1,10 +1,15 @@
 {
 	"Letter" : {
-		"selectKey" : "Correspondence",
+		"selectKey" : [
+			"Correspondence"
+		],
 		"sortKey" : "Date"
 	},
 	"Photograph" : {
-		"selectKey" : "EventType",
+		"selectKey" : [
+			"EventType"
+		],
 		"sortKey" : "Event"
 	}
 }
+

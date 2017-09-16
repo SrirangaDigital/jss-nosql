@@ -44,13 +44,13 @@
             <h1>The Collection</h1>
             <ul class="list-inline">
                 <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/categories/Letter">
+                    <a href="<?=BASE_URL?>listing/Categories/Letter?select=Correspondence">
                         <h2><i class="fa fa-envelope"></i></h2>
                         <p>Letters</p>
                     </a>
                 </li>
                 <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/categories/Photograph">
+                    <a href="<?=BASE_URL?>listing/Categories/Photograph?select=EventType">
                         <h2><i class="fa fa-image"></i></h2>
                         <p>Photographs</p>
                     </a>
