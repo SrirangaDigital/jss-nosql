@@ -3,9 +3,9 @@
     "Type": "Letter",
     "From": "ನಂಜನಗೂಡು ಮುನಿಸಿಪಾಲ್",
     "Language": "Kannada",
-    "Misc": "Bill Reciept and Taxes",
     "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಹಣ ಸಂದ ರಸೀತಿಗಳು",
     "AccessLevel": 0,
     "Box": "007C",
-    "File": "009"
+    "File": "009",
+    "Miscellaneous": "Bill Reciept and Taxes"
 }

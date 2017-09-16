@@ -2,9 +2,9 @@
     "id": "001/007.009/205",
     "Type": "Letter",
     "Language": "Kannada",
-    "Misc": "Reciept and Other Taxes",
     "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಹಣ ಸಂದ ರಸೀತಿಗಳು",
     "AccessLevel": 0,
     "Box": "007C",
-    "File": "009"
+    "File": "009",
+    "Miscellaneous": "Reciept and Other Taxes"
 }
