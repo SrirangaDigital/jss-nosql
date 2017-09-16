@@ -80,36 +80,15 @@ jQuery(window).load(function () {
     
     jQuery(window).bind('resize', buildMasonry()).trigger('resize');
 
-  var vieweroptions = {
-        // inline: true,
-        url: 'data-original',
-        ready:  function (e) {
-          console.log(e.type);
-        },
-        show:  function (e) {
-          console.log(e.type);
-        },
-        shown:  function (e) {
-          console.log(e.type);
-        },
-        hide:  function (e) {
-          console.log(e.type);
-        },
-        hidden:  function (e) {
-          console.log(e.type);
-        },
-        view:  function (e) {
-          console.log(e.type, e.detail.index);
-        },
-        viewed:  function (e) {
-          console.log(e.type, e.detail.index);
-          // this.viewer.zoomTo(1).rotateTo(180);
-        }
-      };
     if(document.getElementById('viewletterimages')){
-		
-		var viewer = new Viewer(document.getElementById('viewletterimages'),vieweroptions);
-	}
+        
+        var viewer = new Viewer(document.getElementById('viewletterimages'), {url: 'data-original'});
+    }
+
+    if(document.getElementById('viewCardImages')){
+        
+        var viewer = new Viewer(document.getElementById('viewCardImages'), {url: 'data-original'});
+    }
 
 });
 
@@ -199,7 +178,8 @@ function buildMasonryFromJson(json){
     var obj = JSON.parse(json);
     var displayString = "";
     
-    var aux = obj.auxiliary;
+    var aux = (obj.auxiliary === undefined) ? '' : obj.auxiliary;
+    var filterString = (aux.filterString === undefined) ? '' : aux.filterString;
 
     for(i = 0; i < Object.keys(obj).length - 1; i++) {
 
@@ -208,7 +188,7 @@ function buildMasonryFromJson(json){
             // This snippet id for listing of categories
 
             displayString += '<div class="post">';
-            displayString += '<a href="' + base_url + 'listing/artefacts/' + obj[i].parentType + '/' + obj[i].nameURL + '" title="View Album" target="_blank">';
+            displayString += '<a href="' + obj[i].nextURL + '" title="View Album" target="_blank">';
             displayString += '<div class="fixOverlayDiv">';
             displayString += '<img class="img-responsive" src="' + obj[i].thumbnailPath + '">';
             displayString += '<div class="OverlayText">' + obj[i].leafCount + ' ' + obj[i].parentType;
@@ -225,7 +205,7 @@ function buildMasonryFromJson(json){
             // This snippet is for listing of artefacts
 
             displayString += '<div class="post">';    
-            displayString += '<a href="' + base_url + 'describe/artefact/' + obj[i].idURL + '" title="View Details" target="_blank">';
+            displayString += '<a href="' + base_url + 'describe/artefact/' + obj[i].idURL + '?' + aux.filterString + '" title="View Details" target="_blank">';
             displayString += '<img class="img-responsive" src="' +  obj[i].thumbnailPath + '">';
             displayString += '<p class="image-desc">' + obj[i].cardName + '</p>';
             displayString += '</a>';

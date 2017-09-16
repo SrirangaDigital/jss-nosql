@@ -7,25 +7,25 @@ class data extends Controller {
 		parent::__construct();
 	}
 
-	public function syncJsonToDB() {
+	public function buildDBFromJson() {
+
+		$this->insertForeignKeys();
 
 		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/index.json$/i');
 		
 		$db = $this->model->db->useDB();
 		$collection = $this->model->db->createCollection($db, ARTEFACT_COLLECTION);
 
+		$foreignKeys = $this->model->getForeignKeyTypes($db);
+
 		foreach ($jsonFiles as $jsonFile) {
 
-			$contentString = file_get_contents($jsonFile);
-			$content = json_decode($contentString, true);
-			$content = $this->model->beforeDbUpadte($content);
+			$content = $this->model->getArtefactFromJsonPath($jsonFile);
+			$content = $this->model->insertForeignKeyDetails($db, $content, $foreignKeys);
+			$content = $this->model->insertDataExistsFlag($content);
+			$content = $this->model->beforeDbUpdate($content);
 
 			$result = $collection->insertOne($content);
-		}
-		
-		if(file_exists(PHY_FOREIGN_KEYS_URL)){
-
-			$this->insertForeignKeys();
 		}
 	}
 	
@@ -40,7 +40,7 @@ class data extends Controller {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
-			$content = $this->model->beforeDbUpadte($content);
+			$content = $this->model->beforeDbUpdate($content);
 
 			$result = $collection->insertOne($content);
 		}
@@ -49,25 +49,37 @@ class data extends Controller {
 	// Use this method for global changes in json files
 	public function modify() {
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL . '004/', $pattern = '/index.json$/i');
+		// $db = $this->model->db->useDB();
+		// $collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
+
+		// $iterator = $collection->distinct("State", ["Type" => "Brochure"]);
+
+		// $data = [];
+		// foreach ($iterator as $state) {
+			
+		// 	$Places = $collection->distinct("Place", ["State" => $state]);
+		// 	$data[$state][] = $Places;
+		// }
+		// file_put_contents("StatePlaces.txt", json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+
+
+		$jsonFiles = $this->model->getFilesIteratively(PHY_FOREIGN_KEYS_URL , $pattern = '/json$/i');
 		
 		foreach ($jsonFiles as $jsonFile) {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
+			
+			if(isset($content['Asstdirector'])) {
 
-			$content['Type'] = 'Photograph';
-
-			// if(isset($content['albumID'])) unset($content['albumID']);
-
-			// $id = $this->model->getIdFromPath($jsonFile);
-			// $content['id'] = $id;
-
-			// // Remove null elements
-			// $content = array_filter($content);
-			$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-
-			file_put_contents($jsonFile, $json);
+				$value = $content['Asstdirector'];
+				$content['Asst-director'] = $value;
+				unset($content['Asstdirection']);
+				$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+				// var_dump($json);
+		
+				file_put_contents($jsonFile, $json);
+			}
 		}
 	}
 }
