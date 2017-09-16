@@ -49,37 +49,29 @@ class data extends Controller {
 	// Use this method for global changes in json files
 	public function modify() {
 
-		// $db = $this->model->db->useDB();
-		// $collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
-
-		// $iterator = $collection->distinct("State", ["Type" => "Brochure"]);
-
-		// $data = [];
-		// foreach ($iterator as $state) {
-			
-		// 	$Places = $collection->distinct("Place", ["State" => $state]);
-		// 	$data[$state][] = $Places;
-		// }
-		// file_put_contents("StatePlaces.txt", json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-
-
-		$jsonFiles = $this->model->getFilesIteratively(PHY_FOREIGN_KEYS_URL , $pattern = '/json$/i');
+		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL , $pattern = '/index.json$/i');
 		
 		foreach ($jsonFiles as $jsonFile) {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
-			
-			if(isset($content['Asstdirector'])) {
 
-				$value = $content['Asstdirector'];
-				$content['Asst-director'] = $value;
-				unset($content['Asstdirection']);
-				$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-				// var_dump($json);
-		
-				file_put_contents($jsonFile, $json);
+			$data = [];
+			foreach ($content as $key => $value) {
+
+				$key = trim($key);
+				$value = trim($value);
+
+				$key = preg_replace('/ +/', ' ', $key);
+				$value = preg_replace('/ +/', ' ', $value);
+
+				$data{$key} = $value;
 			}
+
+			if(isset($data['AccessLevel'])) $data['AccessLevel'] = 0;
+
+			$json = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+			file_put_contents($jsonFile, $json);
 		}
 	}
 }
