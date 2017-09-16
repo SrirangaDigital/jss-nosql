@@ -1,7 +1,8 @@
 {
 	"Letter" : {
 		"selectKey" : [
-			"Correspondence"
+			"Box",
+			"File"
 		],
 		"sortKey" : "Date"
 	},
@@ -12,4 +13,3 @@
 		"sortKey" : "Event"
 	}
 }
-

@@ -3,7 +3,7 @@
         <!-- Column 1 -->
         <div class="col-md-12 text-center">
             <ul class="list-inline sub-nav">
-                <li><a href="<?=BASE_URL?>listing/Categories/Letter?select=Correspondence">Letters</a></li>
+                <li><a href="<?=BASE_URL?>listing/Categories/Letter?select=Box">Letters</a></li>
                 <li><a>·</a></li>
                 <li><a href="<?=BASE_URL?>listing/Categories/Photograph?select=EventType">Photographs</a></li>
                 <li><a>·</a></li>
