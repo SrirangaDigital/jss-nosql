@@ -2,7 +2,6 @@
     "id": "001/016.012/037",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "ರಾಚೇಗೌಡ",
     "To": "ಮಲ್ಲಿಕಾರ್ಜುನದೇವರು",
     "Date": "15-03-1936",
@@ -10,5 +9,6 @@
     "Language": "kn",
     "Box": "016C",
     "File": "012",
-    "Keywords": "ಹಣಸಂದ ರಶೀತಿ"
+    "Keywords": "ಹಣಸಂದ ರಶೀತಿ",
+    "AccessLevel": 0
 }

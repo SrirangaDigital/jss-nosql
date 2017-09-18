@@ -1,11 +1,11 @@
 {
     "id": "001/016.004B/003",
     "Type": "Letter",
-    "AccessLevel": 0,
     "Date": "00-00-1945",
     "Place": "ಸುತ್ತೂರು",
     "Language": "kn",
     "Keywords": "ಲೆಕ್ಕಪತ್ರ",
     "Box": "016A",
-    "File": "004B"
+    "File": "004B",
+    "AccessLevel": 0
 }

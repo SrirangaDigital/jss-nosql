@@ -2,10 +2,10 @@
     "id": "001/016.010/005",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Place": "ಆಲತ್ತೂರು ಗ್ರಾಮ",
     "Language": "kn",
     "Box": "016C",
-    "File": "010"
+    "File": "010",
+    "AccessLevel": 0
 }

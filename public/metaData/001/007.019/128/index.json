@@ -2,7 +2,6 @@
     "id": "001/007.019/128",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಆಸ್ತಿಪತ್ರಗಳು (ಮೂಲಪ್ರತಿಗಳು ಮಾತ್ರ)",
-    "AccessLevel": 0,
     "From": "Secretary",
     "To": "Suttur Mutt",
     "Date": "16-07-1958",
@@ -10,5 +9,6 @@
     "Language": "en",
     "Box": "007E",
     "File": "019",
-    "Miscellaneous": "Letter Cover"
+    "Miscellaneous": "Letter Cover",
+    "AccessLevel": 0
 }

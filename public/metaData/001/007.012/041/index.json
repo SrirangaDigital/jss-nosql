@@ -2,7 +2,6 @@
     "id": "001/007.012/041",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಜಮೀನೀಗೆ ಸಂಬಂಧಿಸಿದ ಹಣ ಸಂದ ರಸೀತಿ ಮತ್ತು ಚಲನ್ಗಳು",
-    "AccessLevel": 0,
     "From": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳು",
     "To": "ನಂಜನಗೂಡು ತಾಲ್ಲೂಕು ಕಛೇರಿಗೆ",
     "Date": "09-01-1932",
@@ -10,5 +9,6 @@
     "Language": "kn, en",
     "Box": "007C",
     "File": "012",
-    "Miscellaneous": "Postal Card"
+    "Miscellaneous": "Postal Card",
+    "AccessLevel": 0
 }

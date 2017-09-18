@@ -2,11 +2,11 @@
     "id": "001/014.010/122",
     "Type": "Letter",
     "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪತ್ರಿಗಳು ಮತ್ತು ಜೆರಾಕ್ಸ್ ಪ್ರತಿಗಳು",
-    "AccessLevel": 0,
     "From": "Press Information Bureau, Govt of India, Bangalore",
     "To": "The Editor, ADARSHA Mysore",
     "Language": "Kn",
     "Keywords": "Post Cover",
     "Box": "014C",
-    "File": "010"
+    "File": "010",
+    "AccessLevel": 0
 }

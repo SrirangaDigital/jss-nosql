@@ -2,7 +2,6 @@
     "id": "001/015.007/072",
     "Type": "Letter",
     "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ವ್ಯವಹಾರ ಪತ್ರಗಳಲ್ಲಿ ಸಾಮಾನ್ಯ ಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "Section Officer",
     "To": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳು",
     "Place": "Bengaluru",
@@ -10,5 +9,6 @@
     "Language": "kn,en",
     "Keywords": "Envelope",
     "Box": "015B",
-    "File": "007"
+    "File": "007",
+    "AccessLevel": 0
 }

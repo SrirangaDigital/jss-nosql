@@ -2,7 +2,6 @@
     "id": "001/016.017/077",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "P. S. Sundaram",
     "To": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Date": "13-08-1977",
@@ -10,5 +9,6 @@
     "Language": "en",
     "Keywords": "Stamp Paper",
     "Box": "016E",
-    "File": "017"
+    "File": "017",
+    "AccessLevel": 0
 }

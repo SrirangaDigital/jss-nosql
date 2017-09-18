@@ -2,7 +2,6 @@
     "id": "001/016.010/045",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "ಮಾದಯ್ಯ",
     "To": "ಶಿವನಪ್ಪ",
     "Date": "12-04-1920",
@@ -10,5 +9,6 @@
     "Language": "kn",
     "Box": "016C",
     "File": "010",
-    "Keywords": "ಹಣಸಂದ ರಶೀತಿ"
+    "Keywords": "ಹಣಸಂದ ರಶೀತಿ",
+    "AccessLevel": 0
 }

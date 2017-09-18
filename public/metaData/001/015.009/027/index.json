@@ -2,7 +2,6 @@
     "id": "001/015.009/027",
     "Type": "Letter",
     "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ದಿನಾಂಕ ನಮುದಾಗದ ಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "United States Information Service",
     "To": "S. M. Prabhuswamy",
     "Place": "New Delhi",
@@ -10,5 +9,6 @@
     "Language": "kn,en",
     "Keywords": "Envelope",
     "Box": "015B",
-    "File": "009"
+    "File": "009",
+    "AccessLevel": 0
 }

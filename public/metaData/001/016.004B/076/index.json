@@ -1,10 +1,10 @@
 {
     "id": "001/016.004B/076",
     "Type": "Letter",
-    "AccessLevel": 0,
     "Date": "25-11-1943",
     "Language": "kn",
     "Keywords": "ಮಠದ ಖರ್ಚು ಮತ್ತು ಜಮಾ",
     "Box": "016A",
-    "File": "004B"
+    "File": "004B",
+    "AccessLevel": 0
 }

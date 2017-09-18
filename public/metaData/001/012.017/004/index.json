@@ -7,7 +7,7 @@
     "Place": "ನಂಜನಗೂಡು",
     "Language": "Kannada",
     "Correspondence": "ನ್ಯಾಯಾಲಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪತ್ರಗಳು / ಹಣ ಪಾವತಿ ಮಾಡಿರುವ ರಸೀದಿ ಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "Box": "012C",
-    "File": "017"
+    "File": "017",
+    "AccessLevel": 0
 }

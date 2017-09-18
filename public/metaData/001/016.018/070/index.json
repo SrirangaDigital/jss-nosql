@@ -2,7 +2,6 @@
     "id": "001/016.018/070",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು / ಇತರೆ ಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "ಬಿ. ಜೋಗಪ್ಪ",
     "To": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Date": "28-03-1950",
@@ -10,5 +9,6 @@
     "Language": "kn",
     "Keywords": "Srisaila Veerasaiva Sangha",
     "Box": "016E",
-    "File": "018"
+    "File": "018",
+    "AccessLevel": 0
 }

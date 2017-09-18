@@ -2,7 +2,6 @@
     "id": "001/016.012/033",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "H. P. Suryanarayana Rao",
     "To": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Date": "12-01-1936",
@@ -10,5 +9,6 @@
     "Language": "En",
     "Box": "016C",
     "File": "012",
-    "Keywords": "Surya Electric Company"
+    "Keywords": "Surya Electric Company",
+    "AccessLevel": 0
 }

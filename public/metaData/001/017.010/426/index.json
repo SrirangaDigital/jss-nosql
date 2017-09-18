@@ -2,12 +2,12 @@
     "id": "001/017.010/426",
     "Type": "Letter",
     "Correspondence": "ಸಾಹಿತ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪತ್ರಗಳು / ಶ್ರೀಮಠಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಸಾಹಿತ್ಯ ಬರಹಗಳು",
-    "AccessLevel": 0,
     "From": "The Wesley Press &#38; Publishing House, Printers Bookbinders, process Engravers and Type Founders, Mysore City",
     "To": "Basavaraja Sastry G.",
     "Date": "27-10-1933",
     "Place": "Mysore",
     "Language": "en",
     "Box": "017C",
-    "File": "010"
+    "File": "010",
+    "AccessLevel": 0
 }

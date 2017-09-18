@@ -2,7 +2,6 @@
     "id": "001/016.003/063",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು / ಸಾರ್ವಜನಿಕ ಲೆಕ್ಕಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "To": "ಬಿ. ಶಿವಮೂರ್ತಿಶಾಸ್ತ್ರಿ",
     "Date": "06-02-1956",
@@ -10,5 +9,6 @@
     "Language": "kn",
     "Box": "016A",
     "File": "003",
-    "Keywords": "Indian Money Order"
+    "Keywords": "Indian Money Order",
+    "AccessLevel": 0
 }

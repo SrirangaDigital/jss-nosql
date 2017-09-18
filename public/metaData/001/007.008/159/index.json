@@ -2,7 +2,6 @@
     "id": "001/007.008/159",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು (ಶ್ರೀಮಠ ಮತ್ತು ಇಲಾಖೆಗಳ ನಡುವಿನ ಪತ್ರಗಳು) / ಆಸ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ ವ್ಯವಹಾರದ ಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "ನಂಜನಗೂಡು ತಾಲ್ಲೂಕು ಕಛೇರಿಗೆ",
     "To": "Amildar",
     "Date": "20-03-1937",
@@ -10,5 +9,6 @@
     "Language": "kn, en",
     "Box": "007B",
     "File": "008",
-    "Miscellaneous": "ಪತ್ರ"
+    "Miscellaneous": "ಪತ್ರ",
+    "AccessLevel": 0
 }

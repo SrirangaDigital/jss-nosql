@@ -1,9 +1,9 @@
 {
     "id": "001/016.004B/092",
     "Type": "Letter",
-    "AccessLevel": 0,
     "Place": "ಸುತ್ತೂರು",
     "Language": "kn",
     "Box": "016A",
-    "File": "004B"
+    "File": "004B",
+    "AccessLevel": 0
 }

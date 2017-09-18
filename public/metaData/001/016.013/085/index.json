@@ -2,7 +2,6 @@
     "id": "001/016.013/085",
     "Type": "Letter",
     "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-    "AccessLevel": 0,
     "From": "ಬಿ. ಎಂ. ಸುಬ್ಬಣ್ಣ",
     "To": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Date": "26-01-1957",
@@ -10,5 +9,6 @@
     "Language": "kn",
     "Box": "016C",
     "File": "013",
-    "Keywords": "Cash Bill"
+    "Keywords": "Cash Bill",
+    "AccessLevel": 0
 }
