@@ -1,8 +1,13 @@
 {
     "id": "001/N003.175/003",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
+    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೆ ಬರೆದ ಪತ್ರಗಳು",
     "Box": "N003",
     "File": "175",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "From": "J. S. S. Maha Vidyapeetha",
+    "To": "Sri K. N. Guruswamy",
+    "Date": "08-12-1977",
+    "Place": "Mysore",
+    "Language": "en"
 }
