@@ -1,7 +1,9 @@
 {
     "id": "002/0525/0525.002",
-    "Event": "Jss School of Nursing Sakaleshpur",
+    "Event": "Jss School of Nursing Mysore",
     "EventType": "ಶಾಲೆ ಕಾಲೇಜು ಛಾಯಚಿತ್ರಗಳು",
     "Type": "Photograph",
-    "AccessLevel": "0"
+    "AccessLevel": 0,
+    "Place": "Mysore",
+    "Description": "JSS School of Nursing"
 }
