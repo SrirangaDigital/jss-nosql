@@ -3,5 +3,7 @@
     "Event": "Jss School of Nursing Sakaleshpur",
     "EventType": "ಶಾಲೆ ಕಾಲೇಜು ಛಾಯಚಿತ್ರಗಳು",
     "Type": "Photograph",
-    "AccessLevel": "0"
+    "AccessLevel": 0,
+    "Place": "Sakaleshpur",
+    "Description": "JSS School of Nursing"
 }
