@@ -3,5 +3,6 @@
     "Event": "ಇತರೆ",
     "EventType": "ಇತರೆ",
     "Type": "Photograph",
-    "AccessLevel": "0"
+    "AccessLevel": 0,
+    "Description": "ಅಂಗವಿಕಲರು ಸ್ವಚ್ಛತಾ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ತೊಡಗಿರುವುದು"
 }
