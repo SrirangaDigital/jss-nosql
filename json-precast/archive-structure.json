@@ -1,15 +1,16 @@
 {
 	"Letter" : {
 		"selectKey" : [
-			"Box",
-			"File"
+			"Correspondence",
+			"Language"
 		],
-		"sortKey" : "Date"
+		"sortKey" : {"Date" : -1}
 	},
 	"Photograph" : {
 		"selectKey" : [
-			"EventType"
+			"EventType",
+			"Event"
 		],
-		"sortKey" : "Event"
+		"sortKey" : {"Event" : 1}
 	}
 }
