@@ -724,7 +724,7 @@ img.img-small{
 img.img-center{
   margin: 0 auto;
 }
-#viewletterimages, #viewCardImages{
+#viewletterimages, #viewCardImages, #transcribeimages{
   cursor: -webkit-zoom-in;
   cursor: zoom-in;
 }
