@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0390",
     "Date": "2010-06-14",
-    "EventType": "ಉಪನ್ಯಾಸ ಕಾರ್ಯಾಕ್ರಮ",
+    "EventType": "ಹಲವು ಕಾರ್ಯಕ್ರಮಗಳು",
     "Place": "ಮೈಸೂರು",
-    "Event": "ಪ್ರೊ. ಸಿ.ಎನ್.ಆರ್. ರಾವ್ ಅವರಿಂದ ಸುವರ್ಣ ಸಂಸ್ಮರಣಾ ವಿಶೇಷ ಉಪನ್ಯಾಸ-3",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0390"
 }

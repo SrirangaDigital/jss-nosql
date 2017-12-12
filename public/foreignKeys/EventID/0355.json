@@ -3,6 +3,6 @@
     "Date": "2008-06-27",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ",
     "Place": "Mysore",
-    "Event": "Interaction Session with JSS Medical College Students &#38; Faculty",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0355"
 }

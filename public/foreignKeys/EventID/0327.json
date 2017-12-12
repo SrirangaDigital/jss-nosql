@@ -1,6 +1,7 @@
 {
     "ForeignKeyId": "0327",
-    "Event": "ಕೃತಿಗಳ ಬಿಡುಗಡೆ ಮತ್ತು ಶ್ರೀ ಶಿವರಾತ್ರಿಶ್ವರ ಧಾರ್ಮಿಕ ದತ್ತಿ, ಶಿವರಾತ್ರಿಶ್ವರ ಪ್ರಶಸ್ತಿ ಪ್ರಧಾನ",
     "Date": "2007-03-15",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0327"
 }

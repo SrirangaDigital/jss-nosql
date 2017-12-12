@@ -1,4 +1,6 @@
 {
     "ForeignKeyId": "0488",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಕೃತಿಗಳ ಬಿಡುಗಡೆ ಸಮಾರಂಭ",
+    "EventID": "0488"
 }

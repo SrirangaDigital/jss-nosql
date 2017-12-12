@@ -1,7 +1,8 @@
 {
     "ForeignKeyId": "0453",
-    "Event": "ಭಜನಾ ಕಾರ್ಯಾಗಾರ",
     "Date": "2013-11-09",
     "Place": "ಸುತ್ತೂರು",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0453"
 }

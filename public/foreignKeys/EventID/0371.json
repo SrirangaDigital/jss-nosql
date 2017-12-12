@@ -3,6 +3,6 @@
     "Date": "2009-08-14",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
-    "Event": "ಕಿಂದರಿ ಜೋಗಿ ನಾಟಕ ಪ್ರದರ್ಶನ ಉದ್ಘಾಟನೆ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0371"
 }

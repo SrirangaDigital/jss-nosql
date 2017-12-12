@@ -2,6 +2,6 @@
     "ForeignKeyId": "0046",
     "Date": "1981-12-24",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
-    "Event": "1022 ನೇ ಜಯಂತಿ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0046"
 }

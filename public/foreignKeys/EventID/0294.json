@@ -3,6 +3,6 @@
     "Date": "2006-01-26",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀಕ್ಷೇತ್ರ",
-    "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0294"
 }

@@ -1,6 +1,7 @@
 {
     "ForeignKeyId": "0197",
-    "Event": "ಶ್ರೀ ಶಿವಪ್ರಭುಸ್ವಾಮಿಗಳವರ 90ನೇ ವರ್ಧಂತ್ಯುತ್ಸವ ಮೈಸೂರು ಮಠ",
     "Date": "2002-10-16",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0197"
 }

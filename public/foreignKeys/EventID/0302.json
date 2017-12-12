@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0302",
     "Date": "2006-05-16",
-    "EventType": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
+    "EventType": "ಶಿಬಿರ ಸಂಗ್ರಹಗಳು",
     "Place": "ಊಟಿ",
-    "Event": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0302"
 }

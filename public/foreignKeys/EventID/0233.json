@@ -2,8 +2,8 @@
     "ForeignKeyId": "0233",
     "Date": "2004-04-22",
     "Description": "ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ; ವಚನ ಸಂವಾದ ತರಂಗಿಣಿ",
-    "EventType": "ಬಸವ ಜಯಂತಿ",
+    "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Place": "ಕಲಾಮಂದಿರ, ಮೈಸೂರು",
-    "Event": "ಬಸವ ಜಯಂತಿ - 2004",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0233"
 }

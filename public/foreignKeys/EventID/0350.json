@@ -3,6 +3,6 @@
     "Date": "2008-07-28",
     "EventType": "ಕೃತಿಗಳ ಬಿಡುಗಡೆ ಸಮಾರಂಭ",
     "Place": "ಧಾರವಾಡ",
-    "Event": "ಶರಣ ಸಂಸ್ಕೃತಿ ಮಾಲೆ ಕೃತಿಗಳ ಬಿಡುಗಡೆ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0350"
 }

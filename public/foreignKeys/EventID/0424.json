@@ -1,6 +1,7 @@
 {
     "ForeignKeyId": "0424",
-    "Event": "ಶ್ರೀ ರಾಜೇಂದ್ರ  ಶ್ರೀಗಳವರ  96ನೇ ಜಯಂತಿ ವಿದ್ಯಾ  ಪೀಠದಲ್ಲಿ ನಡೆದಿರುವುದು",
     "Date": "2011-11-16",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0424"
 }

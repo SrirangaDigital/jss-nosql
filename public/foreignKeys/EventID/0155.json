@@ -3,6 +3,6 @@
     "Date": "2000-05-05",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
-    "Event": "Inauguration of Training Centre in Jewellery Design &#38; Technology, Supported by World Gold Council",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0155"
 }

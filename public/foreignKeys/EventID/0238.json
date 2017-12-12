@@ -3,6 +3,6 @@
     "Date": "2004-06-27",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
-    "Event": "ಧರ್ಮಗಳ ಏಕತೆ ಹಾಗೂ ಪ್ರಬುದ್ಧ ಪೌರತ್ವ ಪ್ರತಿಷ್ಠಾನ ರಾಜ್ಯ ಘಟಕದ ಉದ್ಘಾಟನೆ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0238"
 }

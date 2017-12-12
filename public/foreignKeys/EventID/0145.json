@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0145",
     "Date": "1999-01-15",
-    "EventType": "ಶ್ರೀ ಮಠಕ್ಕೆ  ಗಣ್ಯರ ಭೇಟಿ",
+    "EventType": "ಶ್ರೀ ಮಠಕ್ಕೆ ಗಣ್ಯರ ಭೇಟಿ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀ ಕ್ಷೇತ್ರ",
-    "Event": "ಧರ್ಮಸ್ಥಳದ ಡಾ|| ವೀರೇಂದ್ರ ಹೆಗಡೆಯವರು ಸುತ್ತೂರು ಶ್ರೀ ಕ್ಷೇತ್ರಕ್ಕೆ ಭೇಟಿ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0145"
 }

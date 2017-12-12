@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0334",
     "Date": "2007-06-27",
-    "EventType": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
+    "EventType": "ಶಿಬಿರ ಸಂಗ್ರಹಗಳು",
     "Place": "ಶ್ರೀ ಬಿಳಿರಂಗನ ಬೆಟ್ಟ",
-    "Event": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0334"
 }

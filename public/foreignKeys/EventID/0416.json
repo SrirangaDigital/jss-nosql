@@ -3,6 +3,6 @@
     "Date": "2011-04-17",
     "EventType": "ಅಖಿಲ ಭಾರತ ವೀರಶೈವ ಮಹಾಸಭಾ",
     "Place": "ಮಹದೇಶ್ವರ ಮಂಟಪ, ಸುತ್ತೂರು  ಶ್ರೀ ಕ್ಷೇತ್ರ",
-    "Event": "ಅಖಿಲ ಭಾರತ ವೀರಶೈವ ಮಹಾಸಭಾ 22ನೇ ಅಧಿವೇಶನ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0416"
 }

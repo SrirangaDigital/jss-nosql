@@ -3,6 +3,6 @@
     "Date": "1990-06-09",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ",
     "Place": "ಮೈಸೂರು",
-    "Event": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಧಾರ್ಮಿಕ ದತ್ತಿ (ರಿ), ಒಂದು ಸಮಗ್ರ ವಿಚಾರ ಸಂಕಿರಣ ಚನ್ನಬಸವಣ್ಣನವರು",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0089"
 }

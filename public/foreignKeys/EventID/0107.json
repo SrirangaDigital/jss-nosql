@@ -3,6 +3,6 @@
     "Date": "1995-12-31",
     "EventType": "ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Place": "ಕೊಳ್ಳೇಗಾಲ",
-    "Event": "ಆದಿಜಗದ್ಗುರುಗಳ 1035ನೇ ಜಯಂತಿ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0107"
 }

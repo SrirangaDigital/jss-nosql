@@ -1,6 +1,6 @@
 {
     "ForeignKeyId": "0406",
-    "EventType": "ಶಾಲೆ ಕಾಲೇಜು ಛಾಯಚಿತ್ರಗಳು",
-    "Event": "JSS ಅಂಗವಿಕಲರ ಪಾಲಿಟೆಕ್ನಿಕ್",
-    "ForeignKeyType": "EventID"
+    "EventType": "ಆಸ್ಪತ್ರೆ, ಶಾಲ, ಕಾಲೇಜುಗಳ ಛಾಯಚಿತ್ರಗಳು",
+    "ForeignKeyType": "EventID",
+    "EventID": "0406"
 }

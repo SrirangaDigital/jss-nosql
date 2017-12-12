@@ -2,6 +2,6 @@
     "ForeignKeyId": "0070",
     "Date": "1986-11-04",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
-    "Event": "ಜೆ.ಎಸ್.ಎಸ್. ಆಸ್ಪತ್ರೆ, ಉದ್ಘಾಟನೆ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0070"
 }

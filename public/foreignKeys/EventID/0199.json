@@ -1,7 +1,7 @@
 {
     "ForeignKeyId": "0199",
-    "EventType": "ಪ್ರಾರಂಭೋತ್ಸವ  ಸಮಾರಂಭ",
+    "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಜೆ.ಎಸ್.ಎಸ್. ಮಹಾ ವಿದ್ಯಾಪೀಠ",
-    "Event": "ನವೀಕೃತ ಹಳೆಯ ಮಠದ ಗೃಹಪ್ರವೇಶ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0199"
 }

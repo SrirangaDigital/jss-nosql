@@ -1,6 +1,6 @@
 {
     "ForeignKeyId": "0362",
     "EventType": "ಪುರಾತನ ಛಾಯಚಿತ್ರಗಳು",
-    "Event": "63 ಪುರಾತನಗಳು",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0362"
 }

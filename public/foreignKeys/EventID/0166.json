@@ -3,6 +3,6 @@
     "Date": "2001-01-26",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಮಹದೇವ ನಗರ, ನಂಜನಗೂಡು",
-    "Event": "ಜೆ. ಎಸ್ .ಎಸ್. ಪ್ರೌಢಶಾಲೆಯ ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0166"
 }

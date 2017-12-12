@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0234",
     "Date": "2004-05-07",
-    "EventType": "ಆಧ್ಯಾತ್ಮಿಕ ಶಿಬಿರ",
+    "EventType": "ಶಿಬಿರ ಸಂಗ್ರಹಗಳು",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀಕ್ಷೇತ್ರ",
-    "Event": "ಗ್ರಾಮೀಣ ಯುವ ಜನತೆಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಶಿಬಿರ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0234"
 }

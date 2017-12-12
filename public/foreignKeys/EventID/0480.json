@@ -3,6 +3,6 @@
     "Date": "2016-03-20",
     "EventType": "ಕೃತಿಗಳ ಬಿಡುಗಡೆ ಸಮಾರಂಭ",
     "Place": "ಮೈಸೂರು",
-    "Event": "ಕೃತಿಗಳು, ಧ್ವನಿಸುರಳಿ ಹಾಗೂ ಸಾಕ್ಷ್ಯಚಿತ್ರ ಲೋಕಾರ್ಪಣೆ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0480"
 }

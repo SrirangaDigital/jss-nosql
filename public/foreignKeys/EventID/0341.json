@@ -1,7 +1,7 @@
 {
     "ForeignKeyId": "0341",
     "Date": "2007-10-16",
-    "EventType": "ವರ್ಧಂತಿ ಮಹೋತ್ಸವ",
-    "Event": "ಕ್ಯಾತನಹಳ್ಳಿ  ಶ್ರೀ ಶಿವಪ್ರಭು ಸ್ವಾಮಿಗಳವರ 95ನೇ ವರ್ಧಂತಿ",
-    "ForeignKeyType": "EventID"
+    "EventType": "ಶ್ರೀಗಳ ವರ್ಧಂತಿ",
+    "ForeignKeyType": "EventID",
+    "EventID": "0341"
 }

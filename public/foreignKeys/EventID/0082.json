@@ -3,6 +3,6 @@
     "Date": "1988-09-10",
     "EventType": "ಅಖಿಲ ಭಾರತ ಶರಣ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ",
     "Place": "ಬೆಂಗಳೂರು",
-    "Event": "ಎರಡನೆಯ ಅಖಿಲ ಭಾರತ ಶರಣ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0082"
 }

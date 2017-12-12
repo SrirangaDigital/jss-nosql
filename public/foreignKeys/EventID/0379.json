@@ -1,5 +1,6 @@
 {
     "ForeignKeyId": "0379",
-    "Event": "ಯುಗಾದಿ ಹಬ್ಬ ಸುತ್ತೂರು ಮಠಕ್ಕೆ  ಪುತ್ತಿಗೆ ಶ್ರೀಗಳು ಭೇಟಿ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0379"
 }

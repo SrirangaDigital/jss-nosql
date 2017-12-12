@@ -2,6 +2,6 @@
     "ForeignKeyId": "0053",
     "Date": "1983-04-24",
     "EventType": "ಅಖಿಲ ಭಾರತ ವೀರಶೈವ ಮಹಾಸಭಾ",
-    "Event": "ಅಖಿಲ ಭಾರತ ವೀರಶೈವ ಮಹಾಸಭಾ 20ನೇ ಅಧಿವೇಶನ 1983",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0053"
 }

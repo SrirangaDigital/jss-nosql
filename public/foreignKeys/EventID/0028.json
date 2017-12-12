@@ -2,6 +2,6 @@
     "ForeignKeyId": "0028",
     "Date": "1974-00-00",
     "EventType": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
-    "Event": "ಸುತ್ತೂರು ಜಾತ್ರಾ ಮಹೋತ್ಸವ 1974",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0028"
 }

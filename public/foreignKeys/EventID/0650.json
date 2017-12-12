@@ -1,4 +1,6 @@
 {
     "ForeignKeyId": "0650",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0650"
 }

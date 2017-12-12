@@ -1,6 +1,6 @@
 {
     "ForeignKeyId": "0031",
-    "EventType": "ಶಾಲೆ ಕಾಲೇಜು ಛಾಯಚಿತ್ರಗಳು",
-    "Event": "SJCE ಇಂಜಿನಿಯರಿಂಗ್ ಕಾಲೇಜಿನ ಪೋಟೋಸ್",
-    "ForeignKeyType": "EventID"
+    "EventType": "ಆಸ್ಪತ್ರೆ, ಶಾಲ, ಕಾಲೇಜುಗಳ ಛಾಯಚಿತ್ರಗಳು",
+    "ForeignKeyType": "EventID",
+    "EventID": "0031"
 }

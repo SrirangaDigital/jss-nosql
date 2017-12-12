@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0232",
     "Date": " 2004-04-02",
-    "EventType": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
+    "EventType": "ಶಿಬಿರ ಸಂಗ್ರಹಗಳು",
     "Place": "ಸುತ್ತೂರು",
-    "Event": "Spiritual Retreat for JSS PG Students Spiritual Retreat for the Teaching Faculty of JSS Professional Colleges",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0232"
 }

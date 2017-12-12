@@ -1,7 +1,8 @@
 {
     "ForeignKeyId": "0418",
-    "Event": "ಕೃತಿ ಲೋಕಾರ್ಪಣೆ ಶಿವರಾತ್ರೀಶ್ವರ ಕೇಂದ್ರ (ವೀರಶೈವ ಪಾರಿಭಾಷಿಕ ಪದಕೋಶ)",
     "Date": "2011-07-08",
     "Place": "ಬೆಂಗಳೂರು",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0418"
 }

@@ -1,7 +1,8 @@
 {
     "ForeignKeyId": "0394",
-    "Event": "ಜ।। ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಂಗಳ ಮಂಟಪ ಉದ್ಘಾಟನೆ",
     "Date": "2010-07-31",
     "Place": "ಹೆಚ್. ಡಿ. ಕೋಟೆ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0394"
 }

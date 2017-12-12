@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0188",
     "Date": "2002-05-01",
-    "EventType": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
+    "EventType": "ಶಿಬಿರ ಸಂಗ್ರಹಗಳು",
     "Place": "ಜೆ.ಎಸ್.ಎಸ್. ಫಾರ್ಮಸಿ ಕಾಲೇಜ್, ಊಟಿ",
-    "Event": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0188"
 }

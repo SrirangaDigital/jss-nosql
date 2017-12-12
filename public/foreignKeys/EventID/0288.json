@@ -1,6 +1,6 @@
 {
     "ForeignKeyId": "0288",
     "EventType": "ಶ್ರೀ ಮಠದ ಛಾಯಾಚಿತ್ರಗಳು",
-    "Event": "ಶ್ರೀ ಸುತ್ತೂರು ಕ್ಷೇತ್ರದಲ್ಲಿರುವ ದೇವಸ್ಥಾನಗಳು ಹಾಗೂ  ಶ್ರೀ ಮಠದ ಛಾಯಾಚಿತ್ರಗಳು",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0288"
 }

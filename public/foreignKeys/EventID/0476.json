@@ -1,7 +1,8 @@
 {
     "ForeignKeyId": "0476",
-    "Event": "ಶ್ರೀ ಗುರುಮಲ್ಲೇಶ್ವರ ಶಾಖಾ ದಾಸೋಹಮಠ ಉದ್ಘಾಟನೆ",
     "Date": "2015-08-16",
     "Place": "ಗಟ್ಟವಾಡಿಪುರ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0476"
 }

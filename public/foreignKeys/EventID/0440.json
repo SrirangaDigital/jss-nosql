@@ -1,6 +1,7 @@
 {
     "ForeignKeyId": "0440",
-    "Event": "ಶ್ರೀ ರಾಜೇಂದ್ರ ಶ್ರೀಗಳವರ 97ನೇ ಜಯಂತಿ ಮಹೋತ್ಸವ",
     "Date": "2012-08-29",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventType": "ಇತರೆ",
+    "EventID": "0440"
 }

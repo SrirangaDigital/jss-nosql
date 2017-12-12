@@ -3,6 +3,6 @@
     "Date": "2004-02-04",
     "EventType": "ಮಹಾಕುಂಭ ಮೇಳ",
     "Place": "ಟಿ. ನರಸೀಪುರ",
-    "Event": "6ನೇ ಮಹಾಕುಂಭ ಮೇಳ ಸರ್ವಧರ್ಮ ಸಭೆ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0230"
 }

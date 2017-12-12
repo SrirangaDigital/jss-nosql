@@ -3,6 +3,6 @@
     "Date": "1986-05-11",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಸಿದ್ಧಾರ್ಥನಗರ, ಮೈಸೂರು",
-    "Event": "ಪ್ರೌಢಶಾಲಾ ಕಟ್ಟಡ ಉದ್ಘಾಟನೆ, 1986",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0064"
 }

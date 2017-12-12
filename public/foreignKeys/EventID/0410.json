@@ -3,6 +3,6 @@
     "Date": "2011-03-30",
     "EventType": "ರಜತ ಮಹೋತ್ಸವ",
     "Place": "ಮೈಸೂರು",
-    "Event": "ಅಖಿಲ ಭಾರತ ಶರಣ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ರಜತ ಮಹೋತ್ಸವ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0410"
 }

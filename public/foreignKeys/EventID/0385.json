@@ -3,6 +3,6 @@
     "Date": "2010-05-03",
     "EventType": "ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
     "Place": "ಸುತ್ತೂರು  ಶ್ರೀ ಕ್ಷೇತ್ರ",
-    "Event": "ಚಿಂತನ ಮಂಥನ ಉದ್ಘಾಟನೆ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0385"
 }

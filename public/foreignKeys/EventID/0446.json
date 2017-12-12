@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0446",
     "Date": "2013-04-20",
-    "EventType": "ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
+    "EventType": "ಶಿಬಿರ ಸಂಗ್ರಹಗಳು",
     "Place": "ಸುತ್ತೂರು",
-    "Event": "ಗ್ರಾಮೀಣ ಯುವಜನ ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಶಿಬಿರ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0446"
 }

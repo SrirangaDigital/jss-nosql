@@ -1,8 +1,8 @@
 {
     "ForeignKeyId": "0303",
     "Date": "2006-05-26",
-    "EventType": "ಮಠಾಧಿಪತಿಗಳ ಶಿಬಿರ",
+    "EventType": "ಶಿಬಿರ ಸಂಗ್ರಹಗಳು",
     "Place": "ಜೆ.ಎಸ್.ಎಸ್. ಮಹಾವಿದ್ಯಾಪೀಠ, ಮೈಸೂರು",
-    "Event": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಧಾರ್ಮಿಕ ದತ್ತಿ, ಮಠಾಧಿಪತಿಗಳು ಮತ್ತು ಸಾಧಕರ ಚಿಂತನ ಶಿಬಿರ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0303"
 }

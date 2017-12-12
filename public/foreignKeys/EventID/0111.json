@@ -3,6 +3,6 @@
     "Date": "1995-11-18",
     "EventType": "ವಿಚಾರ ಸಂಕಿರಣ",
     "Place": "ಸರಸ್ವತಿಪುರಂ, ಮೈಸೂರು",
-    "Event": "ಸ್ವರವಚನಸಾಹಿತ್ಯ ವಿಚಾರ ಸಂಕಿರಣ",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "0111"
 }
