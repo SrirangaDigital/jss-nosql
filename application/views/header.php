@@ -30,16 +30,16 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> -->
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/social.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/social.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css?v=1.0">
     <script type="text/javascript">var base_url = "<?= BASE_URL?>";</script>
    
     <!-- Favicon

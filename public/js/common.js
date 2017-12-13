@@ -90,6 +90,10 @@ jQuery(window).load(function () {
         var viewer = new Viewer(document.getElementById('viewCardImages'), {url: 'data-original'});
     }
 
+    if(document.getElementById('transcribeimages')){
+        
+        var viewer = new Viewer(document.getElementById('transcribeimages'), {url: 'data-original', inline: true, minHeight: 500});
+    }
 });
 
 function buildMasonry(){
