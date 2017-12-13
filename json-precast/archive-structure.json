@@ -2,7 +2,7 @@
 	"Letter" : {
 		"selectKey" : [
 			"Correspondence",
-			"Language"
+			"File"
 		],
 		"sortKey" : {"Date" : -1}
 	},

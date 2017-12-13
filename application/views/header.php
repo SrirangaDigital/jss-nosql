@@ -63,16 +63,14 @@
             </div>
             <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="<?=BASE_URL?>#home">Mahavidyapeetha</a></li>
+                    <li class="active"><a href="<?=BASE_URL?>#home">Home</a></li>
                     <li><a>·</a></li>
 <!--                     <li><a href="<?=BASE_URL?>#about">About</a></li>
                     <li><a>·</a></li>
  -->                    <li><a href="<?=BASE_URL?>#collection">Collection</a></li>
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the JSS Mahavidyapeetha" class="img-circle logo"></a></li>
-                    <li><a href="<?=BASE_URL?>#physical">News and Events</a></li>
+                    <li><a href="<?=BASE_URL?>About">About</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#contact">Contact</a></li>
-					<li><a>·</a></li>
                     <li>
 <?php
 if(isset($_SESSION['login']))

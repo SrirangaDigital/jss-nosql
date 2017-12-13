@@ -86,7 +86,7 @@ $(document).ready(function(){
                 <?php } ?>
                 <?php if(isset($_SESSION['login'])) {?>
                     <li><a class="editDetails" href="<?=BASE_URL?>edit/artefact/<?=$idURL?>">Edit Details</a></li>
-                    <li><a class="editDetails" href="<?=BASE_URL?>edit/transcribe/<?=$idURL?>">Transcribe</a></li>
+                    <!-- <li><a class="editDetails" href="<?=BASE_URL?>edit/transcribe/<?=$idURL?>">Transcribe</a></li> -->
                 <?php } ?>
                 </ul>
                 <?php if($accessionCards) echo $viewHelper->includeAccessionCards($accessionCards); ?>
