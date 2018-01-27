@@ -208,7 +208,8 @@ function buildMasonryFromJson(json){
 
             // This snippet is for listing of artefacts
 
-            displayString += '<div class="post">';    
+            displayString += '<div class="post">';
+            displayString += '<p class="close-card"><i class="fa fa-close"></i></p>';
             displayString += '<a href="' + base_url + 'describe/artefact/' + obj[i].idURL + '?' + aux.filterString + '" title="View Details" target="_blank">';
             displayString += '<img class="img-responsive" src="' +  obj[i].thumbnailPath + '">';
             displayString += '<p class="image-desc">' + obj[i].cardName + '</p>';
