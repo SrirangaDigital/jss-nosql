@@ -52,8 +52,15 @@ class viewHelper extends View {
 
         if(file_exists(PHY_DATA_URL . $id . '/index.pdf')) {
 
-            return '<li><a href="' . DATA_URL . $id . '/index.pdf" target="_blank">Click here to view PDF</a></li>'; 
+            echo '<li><a href="' . DATA_URL . $id . '/index.pdf" target="_blank">Letter in PDF</a></li>'; 
         }
+
+        if(file_exists(PHY_DATA_URL . $id . '/transcription.pdf')) {
+
+            echo '<li><a href="' . BASE_URL . 'describe/transcription/' . str_replace('/', '_', $id) . '" target="_blank">Transcript (Side-by-side View)</a></li>';
+        }
+
+        return;
     }
 
     public function includeAccessionCards($accessionCards){

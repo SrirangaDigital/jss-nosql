@@ -92,7 +92,7 @@ jQuery(window).load(function () {
 
     if(document.getElementById('transcribeimages')){
         
-        var viewer = new Viewer(document.getElementById('transcribeimages'), {url: 'data-original', inline: true, minHeight: 500});
+        var viewer = new Viewer(document.getElementById('transcribeimages'), {url: 'data-original', inline: true, minHeight: $( window ).height()});
     }
 });
 
