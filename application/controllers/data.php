@@ -143,32 +143,9 @@ class data extends Controller {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
-			
-			if(isset($content['Album']) && isset($content['AlbumID'])) {
-
-				$foreignFile = PHY_FOREIGN_KEYS_URL . 'AlbumID/' . $content['AlbumID'] . '.json';
-				$foreignContentString = file_get_contents($foreignFile);
-				$foreignContent = json_decode($foreignContentString, true);
-
-				if($foreignContent['AlbumID'] == $content['AlbumID']){
-
-					if(!isset($foreignContent['Album'])){
-
-						$foreignContent['Album'] = $content['Album'];
-						$json = json_encode($foreignContent, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-						file_put_contents($foreignFile, $json);
-					}
-					
-					unset($content['Album']);
-					$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-					file_put_contents($jsonFile, $json);
-				}
-				
-			}
-			else {
-
-				echo $jsonFile;
-			}
+			$matches = explode('/', $content['id']);
+			if(preg_match('/001\/014\..*/', $content['id']))
+			echo $content['id'] . '<br/>';
 		}
 	}
 
