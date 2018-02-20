@@ -51,6 +51,8 @@ class data extends Controller {
 
 	public function insertFulltext() {
 
+		ini_set('max_execution_time', 300);
+		
 		$txtFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/\/text\/\d+\.txt$/i');
 
 		$db = $this->model->db->useDB();
