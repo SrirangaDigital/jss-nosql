@@ -13,7 +13,7 @@ define('MISCELLANEOUS_NAME', 'ಇತರೆ');
 define('FOREIGN_KEY_TYPE', 'ForeignKeyType');
 
 // Lazy loading setting
-define('PER_PAGE', 50);
+define('PER_PAGE', 10);
 define('FULLTEXT_SNIPPET_SIZE', 8);
 define('PHOTO_FILE_EXT', '.JPG');
 
