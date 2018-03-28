@@ -52,7 +52,7 @@ class viewHelper extends View {
 
         if(file_exists(PHY_DATA_URL . $id . '/index.pdf')) {
 
-            echo '<li><a href="' . DATA_URL . $id . '/index.pdf" target="_blank">Letter in PDF</a></li>'; 
+            echo '<li><a href="' . BASE_URL . 'artefact/pdf/' . str_replace('/', '_', $id) . '" target="_blank">Letter in PDF</a></li>'; 
         }
 
         if(file_exists(PHY_DATA_URL . $id . '/transcription.pdf')) {

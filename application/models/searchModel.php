@@ -104,7 +104,7 @@ class searchModel extends Model {
 
 			foreach ($row['pages'] as $page) {
 				
-				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'vendor/pdfjs/web/viewer.php?#page=' . $page  . '&search=' . $term . '&id=' . $row['idURL'] : 'javascript:void()';
+				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'artefact/transcript/' . $row['idURL'] . '/#' . $page  : 'javascript:void()';
 				$row['cardName'] .= '<span><a href="' . $pdfPath . '" target="_blank">' . preg_replace('/^0+/', '', $page) . '</a></span>';
 			}
 
