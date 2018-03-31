@@ -1,12 +1,10 @@
 {
     "id": "001/015.015/063",
     "Type": "Letter",
-    "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ಮುಜರಾಯಿ ಪತ್ರಗಳು",
     "From": "ಮೈಸೂರು ಸೀಮೆ ಮುಜರಾಯಿ ಕಮಿಷನರ್",
     "To": "ಸೆಕ್ರೆಟರಿ, ರೆವಿನ್ಯೂ ಇಲಾಖೆ",
     "Place": "ಬೆಂಗಳೂರು",
     "Language": "Kannada",
-    "Box": "015D",
-    "File": "015",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "015.015"
 }

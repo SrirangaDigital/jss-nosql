@@ -1,13 +1,11 @@
 {
     "id": "001/019.003/033",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು",
     "From": "ಕರ್ಮ ಕೇಸರಿ",
     "To": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳು",
     "Place": "ಮೈಸೂರು",
     "Date": "1949-11-03",
     "Language": "Kannada",
-    "Box": "019A",
-    "File": "003",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "019.003"
 }

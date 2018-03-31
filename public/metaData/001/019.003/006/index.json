@@ -1,11 +1,9 @@
 {
     "id": "001/019.003/006",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು",
     "Date": "1960-00-00",
     "Language": "Kannada",
     "Miscellaneous": "ಶಿವಾದ್ವೈತ ತತ್ತ್ವಪ್ರಚಾರ ಸಮಿತಿ, ಗಿರಿಯಾಪುರ, ಹನ್ನೊಂದು ವರುಷದ ವರದಿ",
-    "Box": "019A",
-    "File": "003",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "019.003"
 }

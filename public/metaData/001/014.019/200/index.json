@@ -1,12 +1,10 @@
 {
     "id": "001/014.019/200",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ಪೋಸ್ಟಲ್, ಇನ್ಸೂರೆನ್ಸ್ ಬಿಲ್ ಗಳು, ರಸೀದಿಗಳು",
     "From": "ಭಕ್ತಮಂಡಲಿ ನಗರ್ಲೆ",
     "Date": "1952-04-17",
     "Place": "ನಗರ್ಲೆ",
     "Language": "Kannada",
-    "Box": "014D",
-    "File": "019",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.019"
 }

@@ -1,13 +1,11 @@
 {
     "id": "001/N003.175/005",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
-    "Box": "N003",
-    "File": "175",
     "AccessLevel": 0,
     "From": "Registration Office",
     "To": "Sri K. N. Guruswamy",
     "Date": "21-09-1979",
     "Place": "Mysore",
-    "Language": "kn"
+    "Language": "kn",
+    "FileID": "N003.175"
 }

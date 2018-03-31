@@ -1,12 +1,10 @@
 {
     "id": "001/014.009/019",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪ್ರತಿಗಳು",
     "From": "ಪ್ರಜಾವಾಣಿ ದಿನಪತ್ರಿಕೆ",
     "Date": "1955-06-23",
     "Place": "ಬೆಂಗಳೂರು",
     "Language": "Kannada",
-    "Box": "014B",
-    "File": "009",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.009"
 }

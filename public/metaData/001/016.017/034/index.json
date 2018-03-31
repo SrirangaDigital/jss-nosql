@@ -1,12 +1,10 @@
 {
     "id": "001/016.017/034",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ಕಲಕುಂದ ನಾಗರಾಜು",
     "Date": "1976-09-06",
     "Place": "ಕಲಕುಂದ",
     "Language": "Kannada",
-    "Box": "016E",
-    "File": "017",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.017"
 }

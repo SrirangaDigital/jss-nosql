@@ -1,12 +1,10 @@
 {
     "id": "001/014.028/016",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ಭಿನ್ನವತ್ತ ಳೆ, ವಿಜ್ಞಾಪನೆ ಇತ್ಯಾದಿ",
     "From": "ಹರವೇಗ್ರಾಮದ ಭಕ್ತ ಮಂಡಳಿ",
     "Date": "1955-04-25",
     "Place": "ಹರವೆ",
     "Language": "Kannada",
-    "Box": "014F",
-    "File": "028",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.028"
 }

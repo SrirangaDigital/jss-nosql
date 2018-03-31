@@ -1,11 +1,9 @@
 {
     "id": "001/N007A.121/001",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು",
-    "Box": "N007A",
-    "File": "121",
     "AccessLevel": 0,
     "Language": "en",
     "Date": "01-09-1936",
-    "Misc": "Notice of auction sale"
+    "Misc": "Notice of auction sale",
+    "FileID": "N007A.121"
 }

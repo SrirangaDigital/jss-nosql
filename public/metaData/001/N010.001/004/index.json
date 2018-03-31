@@ -1,11 +1,9 @@
 {
     "id": "001/N010.001/004",
     "Type": "Letter",
-    "Correspondence": "ಆಹ್ವಾನ ಪತ್ರಿಕೆಗಳು ಹಾಗೂ ಭಾಷಣದ ಪ್ರತಿಗಳು",
-    "Box": "N010",
-    "File": "001",
     "AccessLevel": 0,
     "Language": "en, kn",
     "Misc": "P. Venkatachela Pandit&#39;s Remedy",
-    "Place": "Mysore"
+    "Place": "Mysore",
+    "FileID": "N010.001"
 }

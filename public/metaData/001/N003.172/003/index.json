@@ -1,13 +1,11 @@
 {
     "id": "001/N003.172/003",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
-    "Box": "N003",
-    "File": "172",
     "AccessLevel": 0,
     "From": "C. Ningappa",
     "To": "The Personal Manager",
     "Place": "Bangalore",
     "Language": "en",
-    "Keywords": "Request for a transfer Letter"
+    "Keywords": "Request for a transfer Letter",
+    "FileID": "N003.172"
 }

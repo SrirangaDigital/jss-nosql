@@ -1,12 +1,10 @@
 {
     "id": "001/015.012/109",
     "Type": "Letter",
-    "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ವಿವಿಧ ವ್ಯವಹಾರ ಪತ್ರಗಳು",
     "From": "Chennarudhraya",
     "To": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳು",
     "Place": "Canada",
     "Date": "1965-05-22",
-    "Box": "015C",
-    "File": "012",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "015.012"
 }

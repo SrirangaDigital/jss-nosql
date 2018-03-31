@@ -1,11 +1,9 @@
 {
     "id": "001/N011.001/002",
     "Type": "Letter",
-    "Correspondence": "ಬಿನ್ನವತ್ತಳೆಗಳು",
     "Date": "1955-05-04",
     "Place": "ಸರಗೂರು",
     "Language": "Kannada",
-    "Box": "N011",
-    "File": "001",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N011.001"
 }

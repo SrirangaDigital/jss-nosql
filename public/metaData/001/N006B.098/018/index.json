@@ -1,12 +1,10 @@
 {
     "id": "001/N006B.098/018",
     "Type": "Letter",
-    "Correspondence": "ಓದಲು ಸಾಧ್ಯವಾಗದ ಡಿಟಿಪಿ ಆಗಿರದ ತರಹೇವಾರಿ ವಿಷಯಗಳು",
-    "Box": "N006B",
-    "File": "098",
     "AccessLevel": 0,
     "From": "ಮೈಸೂರು ಸ್ಟಾರ್ ಆಫೀಸ್",
     "Date": "18-12-1917",
     "Place": "Mysore",
-    "Language": "Kn"
+    "Language": "Kn",
+    "FileID": "N006B.098"
 }

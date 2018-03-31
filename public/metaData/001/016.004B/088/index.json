@@ -1,12 +1,10 @@
 {
     "id": "001/016.004B/088",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-	"Date": "1944-01-29",
+    "Date": "1944-01-29",
     "Place": "ಬಿಳುಗುಳಿ",
     "Language": "Kannada",
-    "Box": "016A",
-    "File": "004B",
     "Keywords": "ಅರ್ಜಿದಾರನಿಗೆ ವಾಪಸ್ಸು ಕೊಡತಕ್ಕ ಪ್ರತಿ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.004B"
 }

@@ -1,13 +1,11 @@
 {
     "id": "001/014.008/007",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪ್ರತಿಗಳು",
     "From": "Office of the Deputy Commissioner, Muzarai Branch Mysore",
     "To": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳು",
     "Date": "1936-09-16",
     "Place": "Mysore",
     "Language": "English",
-    "Box": "014B",
-    "File": "008",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.008"
 }

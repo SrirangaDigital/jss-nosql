@@ -1,12 +1,10 @@
 {
     "id": "001/014.013/221",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ಕಸಾಪದ ಸಮ್ಮೇಳನ, ಗೋಷ್ಠಿ, ಮಹಾಸಭೆ ಆಹ್ವಾನ ಪತ್ರಿಕೆಗಳು",
     "From": "Abdul Aziz President City Municipal Council Mysore",
     "Date": "1926-02-26",
     "Place": "Mysore",
     "Language": "Kannada",
-    "Box": "014D",
-    "File": "013",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.013"
 }

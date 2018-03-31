@@ -1,11 +1,9 @@
 {
     "id": "001/N012B.001/011",
     "Type": "Letter",
-    "Correspondence": "ಪಂಚಾಂಗಗಳು, ವೃತ್ತಪತ್ರಿಕೆಗಳ ಕಟಿಂಗ್ಸ್, ಗುತ್ತಿಗೆ ಚೀಟಿ, ಮತ್ತು ಖಾಲಿ ಗುತ್ತಿಗೆ ಚೀಟಿ ಮತ್ತು ಜಮಾ ಖರ್ಚು, ಬಾಕ್ಸ್ ೨",
     "Date": "1953-12-19",
     "Language": "Kannada",
-    "Box": "N012B",
-    "File": "001",
     "Miscellaneous": "ದತ್ತಾತ್ರೇಯ ಜಯಂತಿ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N012B.001"
 }

@@ -1,10 +1,8 @@
 {
     "id": "001/019.003/017",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು",
     "Language": "Kannada",
     "Miscellaneous": "ಬಾಷ್ಪಾಂಜಲಿ - ೨",
-    "Box": "019A",
-    "File": "003",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "019.003"
 }

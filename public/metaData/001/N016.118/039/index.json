@@ -1,12 +1,10 @@
 {
     "id": "001/N016.118/039",
     "Type": "Letter",
-    "Correspondence": "ಲಕೋಟೆಗಳು",
     "To": "D. N. Javarappa, Timber Proprietor, Mysore",
     "Place": "Mysore",
     "Language": "Kannada",
     "Keywords": "Enevelop",
-    "Box": "N016",
-    "File": "118",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N016.118"
 }

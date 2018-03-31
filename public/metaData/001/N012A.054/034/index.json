@@ -1,13 +1,11 @@
 {
     "id": "001/N012A.054/034",
     "Type": "Letter",
-    "Correspondence": "ಪಂಚಾಂಗಗಳು, ವೃತ್ತಪತ್ರಿಕೆಗಳ ಕಟಿಂಗ್ಸ್, ಗುತ್ತಿಗೆ ಚೀಟಿ, ಮತ್ತು ಖಾಲಿ ಗುತ್ತಿಗೆ ಚೀಟಿ ಮತ್ತು ಜಮಾ ಖರ್ಚು, ಬಾಕ್ಸ್ ೧",
     "From": "Sudhakar Slab &#38; Tiles Depot, Near Octroi Office, Mysore",
     "Place": "Mysore",
     "Date": "1957-11-08",
     "Language": "Kannada and English",
-    "Box": "N012A",
-    "File": "054",
     "Miscellaneous": "Cash, Credit Bill",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N012A.054"
 }

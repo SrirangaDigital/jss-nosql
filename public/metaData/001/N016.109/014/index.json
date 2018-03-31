@@ -1,12 +1,10 @@
 {
     "id": "001/N016.109/014",
     "Type": "Letter",
-    "Correspondence": "ಲಕೋಟೆಗಳು",
     "Place": "Nanjangud",
     "Date": "1914-07-15",
     "Language": "English",
-    "Box": "N016",
-    "File": "109",
     "Miscellaneous": "Telegram",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N016.109"
 }

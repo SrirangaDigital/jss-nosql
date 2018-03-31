@@ -1,13 +1,11 @@
 {
     "id": "001/015.008/054",
     "Type": "Letter",
-    "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ಜಿಲ್ಲಾ ಮತ್ತು ತಾಲ್ಲೂಕು ಕಚೇರಿಗಳ ವ್ಯವಹಾರ ಪತ್ರಗಳು",
     "From": "Commercial Department",
     "To": "Basavaraja Sastry",
     "Place": "Bombay",
     "Date": "1933-11-02",
     "Language": "English",
-    "Box": "015B",
-    "File": "008",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "015.008"
 }

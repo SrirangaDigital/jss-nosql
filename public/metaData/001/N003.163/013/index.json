@@ -1,13 +1,11 @@
 {
     "id": "001/N003.163/013",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
-    "Box": "N003",
-    "File": "163",
     "AccessLevel": 0,
     "From": "President",
     "To": "D. J. Balaraj, Commissioner",
     "Date": "27-08-1976",
     "Place": "Bangalore",
-    "Language": "en"
+    "Language": "en",
+    "FileID": "N003.163"
 }

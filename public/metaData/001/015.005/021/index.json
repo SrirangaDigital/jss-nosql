@@ -1,12 +1,10 @@
 {
     "id": "001/015.005/021",
     "Type": "Letter",
-    "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ಮುನಿಸಿಪಲ್ ಪ್ರೆಸಿಡೆಂಟ್ ಗೆ ಸಂಬಂಧಿಸಿದ ಪತ್ರಗಳು",
     "To": "The President, Mysore City Muncipal Council",
     "Place": "Mysore",
     "Date": "1935-06-04",
     "Language": "English",
-    "Box": "015B",
-    "File": "005",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "015.005"
 }

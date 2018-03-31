@@ -1,12 +1,10 @@
 {
     "id": "001/014.011/123",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪ್ರತಿಗಳು",
     "From": "ಪ್ರಸಿದ್ಧ ಪತ್ರಿಕೆ",
     "Date": "0000-02-22",
     "Place": "ಮುಡುಕುತೊರೆ",
     "Language": "Kannada",
-    "Box": "014C",
-    "File": "011",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.011"
 }

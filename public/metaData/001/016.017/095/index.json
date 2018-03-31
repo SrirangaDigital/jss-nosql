@@ -1,13 +1,11 @@
 {
     "id": "001/016.017/095",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "Brahmagiri Enterprises",
     "To": "The Swamiji, Suttur Mutt",
     "Date": "1977-06-18",
     "Place": "Mysore",
     "Language": "English",
-    "Box": "016E",
-    "File": "017",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.017"
 }

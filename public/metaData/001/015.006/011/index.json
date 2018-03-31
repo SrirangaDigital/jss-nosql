@@ -1,13 +1,11 @@
 {
     "id": "001/015.006/011",
     "Type": "Letter",
-    "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ಇತರೆ ಪತ್ರಗಳು ಕುದುರೆ, ಎಲೆಕ್ಟ್ರಿಕಲ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸಿವಿಲ್, ಸಪ್ಲೈಯರ್, ಸಬ್ ರಿಜಿಸ್ಟ್ರಾರ್ ಪತ್ರಗಳು, ನೋಟೀಸ್.",
     "From": "Office of the Superintendent Power and Lighting",
     "To": "The LIne Inspector",
     "Place": "Mysuru",
     "Date": "1942-09-29",
     "Language": "English",
-    "Box": "015B",
-    "File": "006",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "015.006"
 }

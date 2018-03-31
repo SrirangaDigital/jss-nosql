@@ -3,8 +3,6 @@
     "Type": "Letter",
     "Language": "Kannada and English",
     "Keywords": "Bills",
-    "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಆಸ್ತಿಪತ್ರಗಳು (ಮೂಲಪ್ರತಿಗಳು ಮಾತ್ರ)",
-    "Box": "007E",
-    "File": "019",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "007.019"
 }

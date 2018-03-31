@@ -1,9 +1,7 @@
 {
     "id": "001/004.005/130",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠ ಹಾಗೂ ಸಾರ್ವಜನಿಕ ಪತ್ರಗಳು",
-    "Box": "004B",
-    "File": "005",
     "Miscellaneous": "Plan",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "004.005"
 }

@@ -1,13 +1,11 @@
 {
     "id": "001/016.003/051",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು / ಸಾರ್ವಜನಿಕ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ರಾಚಪ್ಪ",
     "To": "ಮಲ್ಲಿಕಾರ್ಜುನ ದೇವರಿಗೆ",
     "Date": "1948-07-18",
     "Place": "ಕೋಣನೂರು",
     "Language": "Kannada",
-    "Box": "016A",
-    "File": "003",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.003"
 }

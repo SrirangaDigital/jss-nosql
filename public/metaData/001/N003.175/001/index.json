@@ -1,12 +1,10 @@
 {
     "id": "001/N003.175/001",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
-    "Box": "N003",
-    "File": "175",
     "AccessLevel": 0,
     "From": "V. S. Venkatachalapathi Setty",
     "To": "Anatha Sevasrama",
     "Place": "Maluru",
-    "Language": "kn"
+    "Language": "kn",
+    "FileID": "N003.175"
 }

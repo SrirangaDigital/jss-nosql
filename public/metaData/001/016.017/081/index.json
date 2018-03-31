@@ -1,14 +1,12 @@
 {
     "id": "001/016.017/081",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "P. S. Sundaram",
     "To": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Date": "1977-08-13",
     "Place": "Bangalore",
     "Language": "English",
     "Keywords": "Cash Bills",
-    "Box": "016E",
-    "File": "017",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.017"
 }

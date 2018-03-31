@@ -1,11 +1,9 @@
 {
     "id": "001/017.012/030",
     "Type": "Letter",
-    "Correspondence": "ಸಾಹಿತ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪತ್ರಗಳು / ಇತರೆ ಸಾಹಿತ್ಯ ಬರಹಗಳು",
     "Language": "Kannada",
     "Place": "ದಾವಣಗೆರೆ",
-    "Box": "017C",
-    "File": "012",
     "Miscellaneous": "ವೀರಶೈವ ಸಾಹಿತ್ಯ ಸೇವಾ ಮಂಡಲಿ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "017.012"
 }

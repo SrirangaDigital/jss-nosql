@@ -1,11 +1,9 @@
 {
     "id": "001/017.010/385",
     "Type": "Letter",
-    "Correspondence": "ಸಾಹಿತ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪತ್ರಗಳು / ಶ್ರೀಮಠಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಸಾಹಿತ್ಯ ಬರಹಗಳು",
     "From": "Baravaraja Sastry",
     "Place": "Mysore",
     "Language": "English",
-    "Box": "017C",
-    "File": "010",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "017.010"
 }

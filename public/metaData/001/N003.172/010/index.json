@@ -1,13 +1,11 @@
 {
     "id": "001/N003.172/010",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
-    "Box": "N003",
-    "File": "172",
     "AccessLevel": 0,
     "From": "Sri Shivarathri Rajendra Swamigalu",
     "To": "The Principal",
     "Date": "30-09-1980",
     "Place": "Mysore",
-    "Language": "en"
+    "Language": "en",
+    "FileID": "N003.172"
 }

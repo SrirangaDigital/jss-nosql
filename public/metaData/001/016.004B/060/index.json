@@ -1,11 +1,9 @@
 {
     "id": "001/016.004B/060",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-	"Date": "1950-04-01",
+    "Date": "1950-04-01",
     "Language": "Kannada",
-    "Box": "016A",
-    "File": "004B",
     "Keywords": "ಭತ್ತದ ಖರ್ಚಿನ ತಪಶೀಲು",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.004B"
 }

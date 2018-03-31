@@ -1,13 +1,11 @@
 {
     "id": "001/015.021/123",
     "Type": "Letter",
-    "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ವ್ಯವಹಾರ ಪತ್ರಗಳು",
     "Date": "1933-02-11",
     "From": "Mahanta Devaru",
     "To": "B. M. Basavappa",
     "Place": "ಮೈಸೂರು",
     "Language": "Kannada and English",
-    "Box": "015E",
-    "File": "021",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "015.021"
 }

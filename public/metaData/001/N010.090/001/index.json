@@ -1,10 +1,8 @@
 {
     "id": "001/N010.090/001",
     "Type": "Letter",
-    "Correspondence": "ಆಹ್ವಾನ ಪತ್ರಿಕೆಗಳು ಹಾಗೂ ಭಾಷಣದ ಪ್ರತಿಗಳು",
-    "Box": "N010",
-    "File": "090",
     "AccessLevel": 0,
     "Language": "en, kn",
-    "Misc": "Invitation"
+    "Misc": "Invitation",
+    "FileID": "N010.090"
 }

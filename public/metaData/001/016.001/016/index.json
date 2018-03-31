@@ -1,13 +1,11 @@
 {
     "id": "001/016.001/016",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು / ಜಮೀನಿಗೆ ಸಂಬಂಧಿಸಿದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ನಂಜುಂಡಪ್ಪ",
     "Date": "1952-08-16",
     "Place": "ಕೋಣನಹಳ್ಳಿ",
     "Language": "Kannada",
-    "Box": "016A",
-    "File": "001",
     "Keywords": "ಶ್ರೀ ಮಠದ ರಿಕಾರ್ಡುಗಳ ಬಗ್ಗೆ ವಿವರ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.001"
 }

@@ -1,13 +1,11 @@
 {
     "id": "001/014.012/007",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪ್ರತಿಗಳು",
     "From": "ವೀರಶೈವ ಮಹಾಸಭಾ",
     "Date": "1947-03-30",
     "Place": "ನಂಜನಗೂಡು",
     "Language": "Kannada",
     "Keywords": "ಸ್ವಾಗತ ಪದ್ಯಗಳು",
-    "Box": "014C",
-    "File": "012",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.012"
 }

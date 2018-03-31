@@ -1,14 +1,12 @@
 {
     "id": "001/007.019/132",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಆಸ್ತಿಪತ್ರಗಳು (ಮೂಲಪ್ರತಿಗಳು ಮಾತ್ರ)",
     "From": "Nanjanagudu Muncipal",
     "To": "Suttur Matta",
     "Date": "1945-05-31",
     "Place": "Nanjanagudu",
     "Language": "English",
-    "Box": "007E",
-    "File": "019",
     "Miscellaneous": "Water Bill",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "007.019"
 }

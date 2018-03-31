@@ -1,12 +1,10 @@
 {
     "id": "001/014.028/010",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ಭಿನ್ನವತ್ತ ಳೆ, ವಿಜ್ಞಾಪನೆ ಇತ್ಯಾದಿ",
     "From": "ವಿದ್ಯಾರ್ಥಿ ಮಂಡಲಿ",
     "Date": "1955-04-25",
     "Place": "ದೇವನೂರು",
     "Language": "Kannada",
-    "Box": "014F",
-    "File": "028",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.028"
 }

@@ -1,12 +1,10 @@
 {
     "id": "001/016.009/015",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "Date": "1929-00-00",
     "Place": "ಸುತ್ತೂರು",
     "Language": "Kannada",
-    "Box": "016C",
-    "File": "009",
     "Keywords": "ರಶೀತಿ ಪಟ್ಟೆ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.009"
 }

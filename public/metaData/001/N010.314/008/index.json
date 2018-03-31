@@ -1,11 +1,9 @@
 {
     "id": "001/N010.314/008",
     "Type": "Letter",
-    "Correspondence": "ಆಹ್ವಾನ ಪತ್ರಿಕೆಗಳು ಹಾಗೂ ಭಾಷಣದ ಪ್ರತಿಗಳು",
-    "Box": "N010",
-    "File": "314",
     "AccessLevel": 0,
     "Place": "ನಂಜನಗೂಡು",
     "Misc": "ಶ್ರೀ ಶ್ರೀಕಂಠೇಶ್ವರ ಪ್ರಸನ್ನ",
-    "Language": "kn"
+    "Language": "kn",
+    "FileID": "N010.314"
 }

@@ -1,11 +1,9 @@
 {
     "id": "001/014.006/123",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪ್ರತಿಗಳು",
     "From": "Bought of Messrs B. Jagannath Chetty and Son",
     "Language": "Kannada",
     "Keywords": "Sale Slip",
-    "Box": "014B",
-    "File": "006",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.006"
 }

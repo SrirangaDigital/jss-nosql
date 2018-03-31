@@ -1,13 +1,11 @@
 {
     "id": "001/016.017/022",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "Principal, SJCE",
     "Date": "1976-01-21",
     "Place": "Mysore",
     "Language": "English",
     "Keywords": "ಸುತ್ತುರೂ ಟ್ಯಾಂಕ್ ವೆಲ್ಡಿಂಗ್ ಗಾಗಿ ಖರ್ಚು",
-    "Box": "016E",
-    "File": "017",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.017"
 }

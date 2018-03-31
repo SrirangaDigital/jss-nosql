@@ -1,14 +1,12 @@
 {
     "id": "001/007.012/063",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಜಮೀನೀಗೆ ಸಂಬಂಧಿಸಿದ ಹಣ ಸಂದ ರಸೀತಿ ಮತ್ತು ಚಲನ್ಗಳು",
     "From": "The Muzrai Commissioner",
     "To": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳು",
     "Date": "1945-09-15",
     "Place": "Mysore",
     "Language": "English",
-    "Box": "007C",
-    "File": "012",
     "Miscellaneous": "Letter",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "007.012"
 }

@@ -1,12 +1,10 @@
 {
     "id": "001/N007B.175/002",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು",
-    "Box": "N007B",
-    "File": "175",
     "AccessLevel": 0,
     "Date": "04-12-1973",
     "Language": "en",
     "Misc": "Sri Krishnarajendra Hospital, Mysore",
-    "Place": "Mysore"
+    "Place": "Mysore",
+    "FileID": "N007B.175"
 }

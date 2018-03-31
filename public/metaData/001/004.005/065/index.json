@@ -2,9 +2,7 @@
     "id": "001/004.005/065",
     "Type": "Letter",
     "Language": "Kannada",
-    "Correspondence": "ಶ್ರೀಮಠ ಹಾಗೂ ಸಾರ್ವಜನಿಕ ಪತ್ರಗಳು",
-    "Box": "004B",
-    "File": "005",
     "Miscellaneous": "Cash Bill",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "004.005"
 }

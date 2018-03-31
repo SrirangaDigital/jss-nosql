@@ -1,11 +1,9 @@
 {
     "id": "001/019.002/001",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು",
     "Date": "1985-11-04",
     "Language": "Kannada",
     "Keywords": "ಸಂದರ್ಶಕರ ಪುಸ್ತಕ",
-    "Box": "019A",
-    "File": "002",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "019.002"
 }

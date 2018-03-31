@@ -1,12 +1,10 @@
 {
     "id": "001/N011A.003/001",
     "Type": "Letter",
-    "Correspondence": "ಬಿನ್ನವತ್ತಳೆಗಳು",
     "Date": "1961-01-29",
     "Place": "ಕಬ್ಬಹಳ್ಳಿ",
     "Language": "Kannada",
-    "Box": "N011A",
-    "File": "003",
     "Miscellaneous": "ಅಭಿವಂದನಾ ಪತ್ರಿಕಾ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N011A.003"
 }

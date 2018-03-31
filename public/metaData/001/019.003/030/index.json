@@ -1,11 +1,9 @@
 {
     "id": "001/019.003/030",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು",
     "Date": "1953-07-15",
     "Language": "Kannada",
     "Miscellaneous": "ಎ. ಎನ್. ಸುಬ್ಬರಾವರವರ ಭಾಷಣದ ಹಸ್ತಪ್ರತಿ",
-    "Box": "019A",
-    "File": "003",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "019.003"
 }

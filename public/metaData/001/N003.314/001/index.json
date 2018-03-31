@@ -1,13 +1,11 @@
 {
     "id": "001/N003.314/001",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೆ  ಬರೆದ ಪತ್ರಗಳು",
-    "Box": "N003",
-    "File": "314",
     "AccessLevel": 0,
     "From": "M. V. Krishnappa",
     "To": "The Matadhipathi, Sri Shivaratheswara Mutt",
     "Date": "09-05-1963",
     "Place": "Bangalore",
-    "Language": "en"
+    "Language": "en",
+    "FileID": "N003.314"
 }

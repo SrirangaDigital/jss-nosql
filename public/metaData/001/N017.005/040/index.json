@@ -1,10 +1,8 @@
 {
     "id": "001/N017.005/040",
     "Type": "Letter",
-    "Correspondence": "ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳು",
     "Language": "English",
-    "Box": "N017",
-    "File": "005",
     "Miscellaneous": "Krishnarajendra Hospital Mysore - Out Patient Department",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N017.005"
 }

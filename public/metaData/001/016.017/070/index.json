@@ -1,14 +1,12 @@
 {
     "id": "001/016.017/070",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "Khiser Electricals",
     "To": "Principal, SJCE, Mysore",
     "Date": "1977-02-05",
     "Place": "Mysore",
     "Language": "English",
     "Keywords": "Cash Bills",
-    "Box": "016E",
-    "File": "017",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.017"
 }

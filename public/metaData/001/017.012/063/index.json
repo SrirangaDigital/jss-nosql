@@ -1,12 +1,10 @@
 {
     "id": "001/017.012/063",
     "Type": "Letter",
-    "Correspondence": "ಸಾಹಿತ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪತ್ರಗಳು / ಇತರೆ ಸಾಹಿತ್ಯ ಬರಹಗಳು",
     "Date": "1954-07-22",
     "Place": "ಸುತ್ತೂರು",
     "Language": "Kannada",
-    "Box": "017C",
-    "File": "012",
     "Miscellaneous": "ಶ್ರೇಯಶ್ಯಂಸನ ಪದ್ಯಮಾಲಿಕೆ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "017.012"
 }

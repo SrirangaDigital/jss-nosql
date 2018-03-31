@@ -1,13 +1,11 @@
 {
     "id": "001/015.015/073",
     "Type": "Letter",
-    "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ಮುಜರಾಯಿ ಪತ್ರಗಳು",
     "From": "ಮೈಸೂರು ಸೀಮೆಯ ಮುಜರಾಯಿ ಕಮಿಷನರ್",
     "To": "The Secretary to Government, Revenue Department",
     "Place": "Bengaluru",
     "Date": "1950-12-09",
     "Language": "English",
-    "Box": "015D",
-    "File": "015",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "015.015"
 }

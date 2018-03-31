@@ -1,12 +1,10 @@
 {
     "id": "001/016.012/048",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "To": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Date": "1937-08-03",
     "Language": "English",
-    "Box": "016C",
-    "File": "012",
     "Keywords": "Sree Kamakshiamman Industrials",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.012"
 }

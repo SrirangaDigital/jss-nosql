@@ -1,13 +1,11 @@
 {
     "id": "001/016.013/025",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ನಂಜಶೆಟ್ಟಿ",
     "To": "ಮಲ್ಲಿಕಾರ್ಜುನದೇವರು",
     "Date": "1952-06-25",
     "Place": "ಚಾಮಲಾಪುರ",
     "Language": "Kannada",
-    "Box": "016C",
-    "File": "013",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.013"
 }

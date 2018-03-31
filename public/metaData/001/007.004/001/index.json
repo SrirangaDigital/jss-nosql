@@ -2,8 +2,6 @@
     "id": "001/007.004/001",
     "Type": "Letter",
     "Language": "Kannada",
-    "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಜೀತಪತ್ರಗಳು",
-    "Box": "007A",
-    "File": "004",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "007.004"
 }

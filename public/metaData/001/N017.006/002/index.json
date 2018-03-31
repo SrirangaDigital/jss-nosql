@@ -1,12 +1,10 @@
 {
     "id": "001/N017.006/002",
     "Type": "Letter",
-    "Correspondence": "ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳು",
     "From": "The Secretary, Medical Council of India Temple Lane, Kotie Road, New Delhi",
     "To": "Dr. Indira C. Shanthi, P.G. Student in M.O. Bangalore Medical College, Bangalore",
     "Place": "New Delhi",
     "Language": "English",
-    "Box": "N017",
-    "File": "006",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N017.006"
 }

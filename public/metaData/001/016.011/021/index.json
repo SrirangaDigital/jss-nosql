@@ -1,13 +1,11 @@
 {
     "id": "001/016.011/021",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ಆ. ಸೂ. ಶ್ರೀಪಾಲಯ್ಯ",
     "Date": "1923-09-29",
     "Place": "ಮೈಸೂರು",
     "Language": "Kannada",
-    "Box": "016C",
-    "File": "011",
     "Keywords": "ಕ್ಯಾಷ್ ಬಿಲ್",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.011"
 }

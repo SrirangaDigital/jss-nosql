@@ -1,14 +1,12 @@
 {
     "id": "001/016.003/084",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು / ಸಾರ್ವಜನಿಕ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ಸಿದ್ಧಶೆಟ್ಟಿ",
     "To": "ನಂಜನಗೂಡು",
     "Date": "1976-12-25",
     "Place": "ನಂಜನಗೂಡು",
     "Language": "Kannada",
-    "Box": "016A",
-    "File": "003",
     "Keywords": "ಹಣ ಜಮಾ ಆಗಿರುವುದರ ಬಗ್ಗೆ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.003"
 }

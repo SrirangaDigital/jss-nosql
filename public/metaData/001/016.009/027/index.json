@@ -1,12 +1,10 @@
 {
     "id": "001/016.009/027",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "Date": "1896-00-00",
     "Place": "ಬೆಳಗುಂದ",
     "Language": "Kannada",
-    "Box": "016C",
-    "File": "009",
     "Keywords": "ರಶೀತಿ ಬುಕ್ಕು",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.009"
 }

@@ -1,12 +1,10 @@
 {
     "id": "001/N011.090/007",
     "Type": "Letter",
-    "Correspondence": "ಬಿನ್ನವತ್ತಳೆಗಳು",
     "Date": "1947-03-30",
     "Place": "ದೊಡ್ಡರಾಯಪೇಟೆ",
     "Language": "Kannada",
-    "Box": "N011",
-    "File": "090",
     "Miscellaneous": "ಅಭಿನಂದನಾ ಪತ್ರಿಕಾ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N011.090"
 }

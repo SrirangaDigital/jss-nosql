@@ -1,11 +1,9 @@
 {
     "id": "001/015.022/106",
     "Type": "Letter",
-    "Correspondence": "ವ್ಯವಹಾರ ಪತ್ರಗಳು / ಮೂಲಪ್ರತಿಗಳು ಮಾತ್ರ",
     "Language": "English",
     "Place": "Mysore",
-    "Box": "015E",
-    "File": "022",
     "Miscellaneous": "SJCE engineering college Building Plan",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "015.022"
 }

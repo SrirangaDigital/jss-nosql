@@ -1,12 +1,10 @@
 {
     "id": "001/N006D.065/068",
     "Type": "Letter",
-    "Correspondence": "ಓದಲು ಸಾಧ್ಯವಾಗದ ಡಿಟಿಪಿ ಆಗಿರದ ತರಹೇವಾರಿ ವಿಷಯಗಳು",
-    "Box": "N006D",
-    "File": "065",
     "AccessLevel": 0,
     "From": "J..S.S Mahavidya Peetha",
     "Place": "Mysore",
     "Language": "kn, en",
-    "Misc": "ಪುಡಿಯಾಗುವ ಪತ್ರಗಳು"
+    "Misc": "ಪುಡಿಯಾಗುವ ಪತ್ರಗಳು",
+    "FileID": "N006D.065"
 }

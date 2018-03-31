@@ -1,12 +1,10 @@
 {
     "id": "001/N003.173/001",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
-    "Box": "N003",
-    "File": "173",
     "AccessLevel": 0,
     "From": "H. K. Krishna Murthy (Prof. of Jyotishya)",
     "Date": "21-11-1986",
     "Place": "Mysore",
-    "Language": "kn"
+    "Language": "kn",
+    "FileID": "N003.173"
 }

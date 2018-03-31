@@ -1,13 +1,11 @@
 {
     "id": "001/N003.170/004",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
-    "Box": "N003",
-    "File": "170",
     "AccessLevel": 0,
     "From": "Jayachamaraja Wadiyar",
     "To": "Shri Veerendra Patil",
     "Date": "20-01-1971",
     "Place": "Mysore",
-    "Language": "en"
+    "Language": "en",
+    "FileID": "N003.170"
 }

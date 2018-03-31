@@ -1,12 +1,10 @@
 {
     "id": "001/016.020/003",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ಕೆ. ಎಂ. ರಾಮಯ್ಯ",
     "To": "ಬಿ. ಎನ್. ಚಿಕ್ಕಯ್ಯ",
     "Place": "ಕುಂಗೇರಿ, ಸಬೂರು",
     "Language": "Kannada",
-    "Box": "016E",
-    "File": "020",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.020"
 }

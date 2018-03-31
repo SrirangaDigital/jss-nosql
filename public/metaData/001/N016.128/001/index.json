@@ -1,11 +1,9 @@
 {
     "id": "001/N016.128/001",
     "Type": "Letter",
-    "Correspondence": "ಲಕೋಟೆಗಳು",
     "Language": "Kannada and English",
     "Date": "1923-03-07",
-    "Box": "N016",
-    "File": "128",
     "Miscellaneous": "Gate Pass- Sree Sreenivasa Rice Mills Ediga, Mysore",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N016.128"
 }

@@ -1,11 +1,9 @@
 {
     "id": "001/N016.122/003",
     "Type": "Letter",
-    "Correspondence": "ಲಕೋಟೆಗಳು",
     "Date": "1942-07-18",
     "Place": "Mysore",
-    "Box": "N016",
-    "File": "122",
     "Miscellaneous": "Recieved - N. R. Dharanappa, Hardware Merchant, Doddapet, Mysore",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N016.122"
 }

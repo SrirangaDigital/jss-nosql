@@ -1,13 +1,11 @@
 {
     "id": "001/014.007/016",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪತ್ರಿಗಳು ಮತ್ತು ಜೆರಾಕ್ಸ್ ಪ್ರತಿಗಳು",
     "From": "ಮೈಸೂರುಪ್ರಭಾ ದಿನಪತ್ರಿಕೆ",
     "Date": "1952-12-20",
     "Place": "Mysore",
     "Language": "Kannada",
     "Keywords": "Paper Cuttings",
-    "Box": "014B",
-    "File": "007",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.007"
 }

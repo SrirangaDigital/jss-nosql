@@ -1,13 +1,11 @@
 {
     "id": "001/N016.175/001",
     "Type": "Letter",
-    "Correspondence": "ಲಕೋಟೆಗಳು",
     "From": "J.S.S Maha Vidyapeetha, Ramanuja Road, Mysore",
     "To": "The Chief Minister of Karnataka, Government of Karnataka, Vidhana Soudha, Bangalore",
     "Place": "Mysore",
     "Language": "English",
     "Keywords": "Enevelop",
-    "Box": "N016",
-    "File": "175",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N016.175"
 }

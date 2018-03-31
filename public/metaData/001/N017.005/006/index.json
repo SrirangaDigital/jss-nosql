@@ -1,14 +1,12 @@
 {
     "id": "001/N017.005/006",
     "Type": "Letter",
-    "Correspondence": "ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳು",
     "From": "K. N. Raj, Chairman",
     "To": "Shri, Swamiji of Suthur Mutt, Ramanuja ROad, Mysore",
     "Date": "1979-08-23",
     "Place": "Bangalore",
     "Language": "Kannada",
-    "Box": "N017",
-    "File": "005",
     "Miscellaneous": "Universities Review Commission- Technical Education Buildings, Palace Road, Bangalore",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N017.005"
 }

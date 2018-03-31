@@ -1,12 +1,10 @@
 {
     "id": "001/016.004B/079",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-	"Date": "0000-12-27",
+    "Date": "0000-12-27",
     "Place": "ಬಿಳಗಲಿ",
     "Language": "Kannada",
-    "Box": "016A",
-    "File": "004B",
     "Keywords": "ಅರ್ಜಿದಾರನು ತಾಲ್ಲೋಕು ಕಛೇರಿಗೆ ಭರ್ತಿಮಾಡತಕ್ಕ ಪ್ರತಿ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.004B"
 }

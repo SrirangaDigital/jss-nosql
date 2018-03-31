@@ -1,11 +1,9 @@
 {
     "id": "001/N011A.002/003",
     "Type": "Letter",
-    "Correspondence": "ಬಿನ್ನವತ್ತಳೆಗಳು",
     "Date": "1992-12-27",
     "Place": "ಸರಗೂರು",
-    "Box": "N011A",
-    "File": "002",
     "Miscellaneous": "ಬಿನ್ನವತ್ತಳೆ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N011A.002"
 }

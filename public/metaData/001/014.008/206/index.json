@@ -1,12 +1,10 @@
 {
     "id": "001/014.008/206",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪ್ರತಿಗಳು",
     "From": "ಸಂಯುಕ್ತ ಕರ್ನಾಟಕ ದಿನಪತ್ರಿಕೆ",
     "Language": "Kannada",
     "Date": "1963-08-09",
     "Place": "ಮೈಸೂರು",
-    "Box": "014B",
-    "File": "008",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.008"
 }

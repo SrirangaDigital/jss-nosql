@@ -1,13 +1,11 @@
 {
     "id": "001/007.019/238",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಆಸ್ತಿಪತ್ರಗಳು (ಮೂಲಪ್ರತಿಗಳು ಮಾತ್ರ)",
     "From": "Life Insurance Office",
     "To": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳು",
     "Place": "Mysuru",
     "Language": "English",
-    "Box": "007E",
-    "File": "019",
     "Miscellaneous": "LIC Declared valuation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "007.019"
 }

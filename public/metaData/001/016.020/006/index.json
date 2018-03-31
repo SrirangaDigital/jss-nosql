@@ -1,13 +1,11 @@
 {
     "id": "001/016.020/006",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "Sri Murugan Constructions",
     "To": "The secretary, Jss",
     "Date": "1963-07-25",
     "Place": "Mysore",
     "Language": "English",
-    "Box": "016E",
-    "File": "020",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.020"
 }

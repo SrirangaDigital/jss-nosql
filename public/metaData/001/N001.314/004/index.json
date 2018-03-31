@@ -1,12 +1,10 @@
 {
     "id": "001/N001.314/004",
     "Type": "Letter",
-    "Correspondence": "ಕೋರ್ಟಗೆ ಸಂಬಂಧಿಸಿದ ವ್ಯಾಜ್ಯ ಪತ್ರಗಳು",
     "From": "ಜ್ಯುಡಿಷಲ್ ಕಮೀಷನರ್",
     "Place": "ಬೆಂಗಳೂರು",
     "Date": "1917-11-06",
     "Language": "Kannada",
-    "Box": "N001",
-    "File": "314",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N001.314"
 }

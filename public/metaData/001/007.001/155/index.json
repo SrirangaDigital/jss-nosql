@@ -2,9 +2,7 @@
     "id": "001/007.001/155",
     "Type": "Letter",
     "Language": "Kannada",
-    "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಮಂಡನಹಳ್ಳಿ ಗ್ರಾಮಕ್ಕೆ ಸಂಬಂಧಪಟ್ಟ ಪತ್ರಗಳು",
-    "Box": "007A",
-    "File": "001",
     "Miscellaneous": "ಮಂಡನ ಹಳ್ಳಿ ಬಾಬ್ತು ಜಮಾ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "007.001"
 }

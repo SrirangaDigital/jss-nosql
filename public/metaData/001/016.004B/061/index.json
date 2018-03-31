@@ -1,12 +1,10 @@
 {
     "id": "001/016.004B/061",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
-	"Date": "1950-05-22",
+    "Date": "1950-05-22",
     "Place": "Suthur",
     "Language": "English",
-    "Box": "016A",
-    "File": "004B",
     "Keywords": "Permit for transport of foodgrains",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.004B"
 }

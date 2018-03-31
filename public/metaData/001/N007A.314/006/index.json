@@ -1,12 +1,10 @@
 {
     "id": "001/N007A.314/006",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು",
-    "Box": "N007A",
-    "File": "314",
     "AccessLevel": 0,
     "Date": "10-02-1920",
     "Place": "Mysore",
     "Language": "en",
-    "Misc": "Mysore District Conference"
+    "Misc": "Mysore District Conference",
+    "FileID": "N007A.314"
 }

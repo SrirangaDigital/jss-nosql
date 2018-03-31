@@ -1,13 +1,11 @@
 {
     "id": "001/014.007/006",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪತ್ರಿಗಳು ಮತ್ತು ಜೆರಾಕ್ಸ್ ಪ್ರತಿಗಳು",
     "From": "Mysore Public Works Department",
     "Date": "1961-09-28",
     "Place": "Kirgunda, Nanjanagud",
     "Language": "English",
     "Keywords": "Foundation Stone for Kirgunda Tank",
-    "Box": "014B",
-    "File": "007",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.007"
 }

@@ -1,12 +1,10 @@
 {
     "id": "001/014.008/115",
     "Type": "Letter",
-    "Correspondence": "ಇತರೆ ಪತ್ರಗಳು / ವಿವಿಧ ಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಪ್ರತಿಗಳು",
     "From": "ವಿಶ್ವವಾಣಿ ಪತ್ರಿಕೆ",
     "Date": "1961-12-02",
     "Place": "ಹುಬ್ಬಳ್ಳಿ",
     "Language": "Kannada",
-    "Box": "014B",
-    "File": "008",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "014.008"
 }

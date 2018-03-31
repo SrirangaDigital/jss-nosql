@@ -1,12 +1,10 @@
 {
     "id": "001/N011A.002/005",
     "Type": "Letter",
-    "Correspondence": "ಬಿನ್ನವತ್ತಳೆಗಳು",
     "Date": "1955-06-21",
     "Place": "ಸೂರಹಳ್ಳಿ",
     "Language": "Kannada",
-    "Box": "N011A",
-    "File": "002",
     "Miscellaneous": "ಬಿನ್ನವತ್ತಳೆ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N011A.002"
 }

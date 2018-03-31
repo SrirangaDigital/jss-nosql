@@ -1,12 +1,10 @@
 {
     "id": "001/016.020/004",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ಪಟೇಲ್ ಮಾದಪ್ಪ",
     "To": "ಪುಟ್ಟ ನಂಜಪ್ಪ",
     "Place": "ಕೀಳನಪುರ",
     "Language": "Kannada",
-    "Box": "016E",
-    "File": "020",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.020"
 }

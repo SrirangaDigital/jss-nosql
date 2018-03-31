@@ -1,13 +1,11 @@
 {
     "id": "001/N003.001/003",
     "Type": "Letter",
-    "Correspondence": "ಸಾರ್ವಜನಿಕರು ಗಣ್ಯವ್ಯಕ್ತಿಗಳು, ಮಠಾಧೀಶರು ಮಠಕ್ಕೈ ಬರೆದ ಪತ್ರಗಳು",
     "From": "Chinmaya Mission",
     "To": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳು",
     "Place": "Mysuru",
     "Date": "1980-12-03",
     "Language": "English",
-    "Box": "N003",
-    "File": "001",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N003.001"
 }

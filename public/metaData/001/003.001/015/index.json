@@ -2,8 +2,6 @@
     "id": "001/003.001/015",
     "Type": "Letter",
     "Language": "English",
-    "Correspondence": "ವಿದ್ಯಾರ್ಥಿನಿಲಯ ಹಾಗೂ ಕಾಲೇಜುಗಳಿಗೆ ಪ್ರವೇಶಾತಿ ಶಿಫಾರಸು ಪತ್ರಗಳು / ರಾಜಕಾರಣಿಗಳು ಬರೆದಿರುವ ಪತ್ರಗಳು",
-    "Box": "003A",
-    "File": "001",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "003.001"
 }

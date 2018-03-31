@@ -1,13 +1,11 @@
 {
     "id": "001/N017.006/001",
     "Type": "Letter",
-    "Correspondence": "ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳು",
     "From": "Dr. Indira C. Shanthi, P.G. Student in M.O. Bangalore Medical College, Bangalore",
     "To": "The Director of Medical Education and Chairman Selection Committee for P.G. Studies in GOvt. Medical College, Ananda Rao Circle, Bangalore",
     "Date": "1979-10-15",
     "Place": "Bangalore",
     "Language": "English",
-    "Box": "N017",
-    "File": "006",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "N017.006"
 }

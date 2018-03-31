@@ -1,14 +1,12 @@
 {
     "id": "001/016.010/008",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ಮಾದಯ್ಯ",
     "To": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Date": "1913-03-26",
     "Place": "ಕಾರಾಪುರ",
     "Language": "Kannada",
-    "Box": "016C",
-    "File": "010",
     "Keywords": "ಹಣಸಂದ ರಶೀತಿ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.010"
 }

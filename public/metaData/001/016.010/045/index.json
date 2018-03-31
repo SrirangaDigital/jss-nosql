@@ -1,14 +1,12 @@
 {
     "id": "001/016.010/045",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "From": "ಮಾದಯ್ಯ",
     "To": "ಶಿವನಪ್ಪ",
     "Date": "1920-04-12",
     "Place": "ಸುತ್ತೂರು",
     "Language": "Kannada",
-    "Box": "016C",
-    "File": "010",
     "Keywords": "ಹಣಸಂದ ರಶೀತಿ",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.010"
 }

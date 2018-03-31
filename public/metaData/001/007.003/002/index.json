@@ -2,8 +2,6 @@
     "id": "001/007.003/002",
     "Type": "Letter",
     "Language": "Kannada",
-    "Correspondence": "ಶ್ರೀಮಠದ ಅಸ್ತಿ ಪತ್ರಗಳು / ಕಬ್ಬಿಣದ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿರುವ ರೆಕಾರ್ಡುಗಳ ವಿವರ (ಮಂತ್ರಮಹರ್ಷಿಗಳ ಬರಹ)",
-    "Box": "007A",
-    "File": "003",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "007.003"
 }

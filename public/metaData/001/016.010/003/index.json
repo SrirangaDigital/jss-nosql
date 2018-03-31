@@ -1,12 +1,10 @@
 {
     "id": "001/016.010/003",
     "Type": "Letter",
-    "Correspondence": "ಶ್ರೀಮಠದ ಲೆಕ್ಕಪತ್ರಗಳು",
     "To": "ಡಾ. ಶ್ರೀ ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮೀಜಿ",
     "Date": "1931-12-17",
     "Place": "ಬೆಂಗಳೂರು",
     "Language": "Kannada",
-    "Box": "016C",
-    "File": "010",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "FileID": "016.010"
 }
