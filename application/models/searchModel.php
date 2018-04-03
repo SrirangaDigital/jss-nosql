@@ -11,20 +11,37 @@ class searchModel extends Model {
 	
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
-	
-		$term = $data['term'];
-		$term = preg_quote($term, '/');
+
+		$dataFilter = [];
+		$displayString = '';
+
+		$dataFilter['DataExists'] = $this->dataShowFilter;
+
+		if(isset($data['term'])) {
+		
+			$term = $data['term'];
+			$term = preg_quote($term, '/');
+			$dataFilter['$text'] = ['$search' => $term ];
+			$displayString = $term;
+		}
+		else {
+
+			$term = '';
+
+			foreach ($data as $key => $value) {
+
+				$dataFilter[$key] = ['$regex'=>$value];
+				$displayString .= $key . ': ' . $value . '<br />';
+			}
+
+			$term = implode(' ', $data);
+		}	
 	
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 	
 		$iterator = $collection->find(
-			[	
-				'DataExists' => $this->dataShowFilter,
-				'$text' => [
-					'$search' => $term
-				]
-			], 
+			$dataFilter,
 			[
 				'projection' => [
 					'score' => [
@@ -55,7 +72,7 @@ class searchModel extends Model {
 		}
 	
 		if(!empty($data))
-			$data['term'] = $term;
+			$data['displayString'] = $displayString;
 		else
 			$data = 'noData';
 	
