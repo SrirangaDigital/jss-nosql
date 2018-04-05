@@ -1,4 +1,5 @@
 <div class="container gap-above-med">
+	<h2 class="text-center">Advanced Search</h2>
 	<div class="row gap-above-med">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
