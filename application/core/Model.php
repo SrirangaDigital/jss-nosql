@@ -224,6 +224,14 @@ class Model {
 		return (file_put_contents($path, $jsonString)) ? True : False;
 	}
 
+	public function getUniqueKeys(){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ARTEFACT_KEYS_COLLECTION);
+
+		$result = array_values(array_filter($collection->distinct('_id')));
+		return $result;
+	}
 }
 
 ?>

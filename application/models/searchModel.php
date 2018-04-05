@@ -171,6 +171,9 @@ class searchModel extends Model {
 		$termsRegex = implode('|', $terms);
 		$allWords = array_map('strtolower', $terms);
 
+		// if(array_search(strtolower($descArray['Type']), $allWords))
+		// 	unset($allWords[array_search(strtolower($descArray['Type']))]);
+
 		$matches = [];
 		if(isset($descArray['Type'])) array_push($matches, '<strong>Type</strong> : ' . $descArray['Type']);
 
@@ -181,11 +184,17 @@ class searchModel extends Model {
 				if(preg_match('/' . $term . '/i', $value)){
 
 					$value = preg_replace("/($termsRegex)/i", "<span class=\"highlight\">$1</span>", $value);
+					// if(isset($descArray['Type']) && $term != $descArray['Type'])
 					array_push($matches, '<strong>' . $key . '</strong> : ' . $value);
 					unset($descArray{$key});
 				}
 			}			
 		}
+
+		$index = preg_grep('/<strong>Type<\/strong>/', $matches);
+
+		if(sizeof($index) > 1)
+			unset($matches[0]);
 
 		$html = implode($matches, '<br />');
 

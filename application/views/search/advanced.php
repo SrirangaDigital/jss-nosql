@@ -1,5 +1,11 @@
 <div class="container gap-above-med">
-	<h2 class="text-center">Advanced Search</h2>
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
+			<h2>Advanced Search</h2>
+		</div>
+		<div class="col-md-2"></div>
+	</div>
 	<div class="row gap-above-med">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
@@ -15,7 +21,6 @@
 						<input type="text" class="form-control edit value" placeholder="Enter Value" />
 					</div>					
 				</div>	
-				<div id="keyvalues"></div>
 				<i class="fa fa-plus" title="Add new field" id="addKeyValue"></i>
 				<input class="updateSubmit" type="submit" id="submit" value="Search" />
 			</form>    

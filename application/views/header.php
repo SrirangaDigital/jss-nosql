@@ -36,7 +36,7 @@
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css?v=1.0">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/social.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css?v=1.0">

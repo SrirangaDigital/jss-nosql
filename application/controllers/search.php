@@ -52,8 +52,8 @@ class search extends Controller {
 
 	public function advanced(){
 
-		$keyArray = ["AccessLevel", "Box", "BoxTitle", "DataExists", "Date", "Description", "Event", "EventID", "EventType", "File", "FileID", "FileTitle", "From", "Keywords", "Language", "Misc", "People", "Place", "To", "Type"];
-		($keyArray)? $this->view('search/advanced', $keyArray) : $this->view('error/noResults', 'search/index/');
+		$arrayOfKeys = $this->model->getUniqueKeys();
+		($arrayOfKeys)? $this->view('search/advanced', $arrayOfKeys) : $this->view('error/noResults', 'search/index/');
 	}
 }
 
