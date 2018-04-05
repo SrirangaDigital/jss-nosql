@@ -137,22 +137,5 @@ class edit extends Controller {
 		
 		$this->view('edit/bulkReplace', '');
 	}
-
-	public function transcribe($query, $idURL = ''){
-
-		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $idURL);
-		$artefactPath = PHY_DATA_URL . $id . '/thumbs/*' . PHOTO_FILE_EXT;
-		$images = [];
-		$images = glob($artefactPath);
-		
-		array_walk($images, function(&$value, &$key) {
-		    $value = str_replace(PHY_DATA_URL, DATA_URL, $value);
-		});
-
-		$data['details']['id'] = $id;
-		$data['images'] = $images; 
-
-		$this->view('edit/transcribe', $data);		
-	}
 }
 ?>
