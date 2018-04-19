@@ -3,7 +3,7 @@
     require_once 'application/views/journalMenu.php';
 ?>
 
-<div class="container dynamic-page gap-above-med">
+<div class="container dynamic-page">
     <div class="row">
         <div class="col-md-12 mainpage">
             <div class="row clear-margins">
