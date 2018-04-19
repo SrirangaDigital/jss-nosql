@@ -39,7 +39,7 @@ class dataModel extends Model {
 
 	public function xml2Json() {
 
-		$xml = simplexml_load_file(PHY_METADATA_URL . '003/prasada.xml');
+		$xml = simplexml_load_file(PHY_METADATA_URL . PRASADA . '/prasada.xml');
 
 		foreach ($xml->issue as $issue) {
 			
@@ -52,12 +52,12 @@ class dataModel extends Model {
 				$completeIssue['year'] = (string)$issue['year'];
 				$completeIssue['month'] = (string)$issue['month'];
 				$completeIssue['mname'] = (string)$issue['mname'];
-				$completeIssue['id'] = '003/' . $completeIssue['year'] . '/' . $completeIssue['month'];
+				$completeIssue['id'] = PRASADA . '/' . $completeIssue['year'] . '/' . $completeIssue['month'];
 				
 				$array = [];
 				$array['title'] = $entry->title->__toString();
 				$array['page'] = $entry->page->__toString();
-				$jsonFilePath = PHY_METADATA_URL . '003/' . $completeIssue['year'] . '/' . $completeIssue['month'] . '/';
+				$jsonFilePath = PHY_METADATA_URL . PRASADA . '/' . $completeIssue['year'] . '/' . $completeIssue['month'] . '/';
 				
 				if(preg_match('/0.*\-0.*/', $array['page'], $matches)){
 

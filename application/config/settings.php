@@ -9,6 +9,7 @@ define('FULLTEXT_COLLECTION', 'fulltext');
 define('USER_COLLECTION', 'userdetails');
 
 //Default Values
+define('PRASADA', '003');
 define('SHOW_ONLY_IF_DATA_EXISTS', True);
 define('SHOW_PDF', True);
 define('DEFAULT_TYPE', 'Letter');

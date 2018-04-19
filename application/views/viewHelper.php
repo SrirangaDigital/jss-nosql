@@ -130,7 +130,7 @@ class viewHelper extends View {
 
     public function getCoverPage($filter){
 
-        $coverURL = PHY_DATA_URL . '003/'; 
+        $coverURL = PHY_DATA_URL . PRASADA .'/'; 
         $coverURL .= (isset($filter['year'])) ? $filter['year'] . '/' : '';
 
         if (!(isset($filter['month']))) {
