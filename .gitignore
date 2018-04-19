@@ -1,2 +1,4 @@
 public/data
 public/metaData/001/[0-9][0-9][0-9].[0-9][0-9][0-9]/[0-9][0-9][0-9]/text/
+public/metaData/003/*/*/text/
+public/downloads/

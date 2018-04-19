@@ -1,0 +1,451 @@
+{
+    "volume": "08",
+    "issue": "01",
+    "year": "1977",
+    "month": "07",
+    "mname": "ಜುಲೈ",
+    "id": "003/1977/07",
+    "toc": [
+        {
+            "title": "ಪ್ರಸಾದ ವಿನಿಯೋಗಕ್ಕೆ ಮುನ್ನ",
+            "page": "iv",
+            "author": [
+                {
+                    "name": "ಸಂಪಾದಕೀಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಪರಮಪೂಜ್ಯ ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಶಿವರಾತ್ರಿರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರ ಅಡಿದಾವರೆಗಳಿಗೆ ದ್ವಿಷಷ್ಟ್ಯಬ್ದ ನಮನಗಳು",
+            "page": "v"
+        },
+        {
+            "title": "ವೇದಾಮೃತ-ದೇವತೆಗಳು ಮೆಚ್ಚುವುದು ಯಾರನ್ನು?",
+            "page": "xii",
+            "author": [
+                {
+                    "name": "ವಿದ್ವಾನ್ ಎಂ. ಜಿ. ನಂಜುಂಡಾರಾಧ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಜ್ಯೋತಿರ್ಲಿಂಗಕೆ",
+            "page": "0001-0001",
+            "relativePageNumber": 17,
+            "relativePageRange": "17-17",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಹೆಚ್. ಎಂ. ಕುಮಾರಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಎಮರ್ಸನ್ ಮತ್ತು ಭಾರತೀಯ ವೇದ ವೇದಾಂತ",
+            "page": "0002-0016",
+            "relativePageNumber": 18,
+            "relativePageRange": "18-32",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಚಂದ್ರಶೇಖರಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಸಂಯಮ",
+            "page": "0017-0018",
+            "relativePageNumber": 33,
+            "relativePageRange": "33-34",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ||ಹೆಚ್. ಪಿ. ಮಲ್ಲೇದೇವರು"
+                }
+            ]
+        },
+        {
+            "title": "ವೈರಾಗ್ಯನಿಧಿ (ಅಕ್ಕನನ್ನು ಕುರಿತು)",
+            "page": "0019-0027",
+            "relativePageNumber": 35,
+            "relativePageRange": "35-43",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಿ. ಎಸ್. ಚಂದ್ರಶೇಖರಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಬಸವಣ್ಣನವರ ಕಾಯಕ ತತ್ವ",
+            "page": "0028-0036",
+            "relativePageNumber": 44,
+            "relativePageRange": "44-52",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಕೆ. ಪಿ. ಶಿವಲಿಂಗಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ವಚನಗಳು",
+            "page": "0037-0038",
+            "relativePageNumber": 53,
+            "relativePageRange": "53-54",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ವೀರಣ್ಣ ಜೀಮಾರಹಳ್ಳಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಬದಕು-ಸಾಹಿತ್ಯ (ಜಾನಪದ ಸಾಹಿತ್ಯವನ್ನು ಕುರಿತು)",
+            "page": "0039-0041",
+            "relativePageNumber": 55,
+            "relativePageRange": "55-57",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಬಿ. ಬಸವರಾಜು"
+                }
+            ]
+        },
+        {
+            "title": "ಕಿರಿಕುಲದ ಹರಳಯ್ಯ ವರಶರಣ ತಾನಾದ (ಸಂಗ್ರಹ)",
+            "page": "0042-0045",
+            "relativePageNumber": 58,
+            "relativePageRange": "58-61",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ||ಗದ್ದಿಗಿಮಠ ಅವರ ಕೃತಿಯಿಂದ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ವಿಜಯ (ನಾಟಕ)",
+            "page": "0046-0057",
+            "relativePageNumber": 62,
+            "relativePageRange": "62-73",
+            "fullText": [
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಿ. ಅಂಕಪ್ಪ"
+                }
+            ]
+        },
+        {
+            "title": "ಶಬರ ಲೀಲೆಯಲ್ಲಿ ಕಲಿಪಾರ್ಥ (ಕನ್ನಡ-ಸಂಸ್ಕೃತ ಕಾವ್ಯಗಳನ್ನು ಆದರಿಸಿ)",
+            "page": "0058-0060",
+            "relativePageNumber": 74,
+            "relativePageRange": "74-76",
+            "fullText": [
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
+                }
+            ]
+        },
+        {
+            "title": "ಅಶೃತರ್ಪಣ (ದಿ|| ಕಥೆಗಾರ ಸದಾಶಿವ ಆವರಿಗೆ)",
+            "page": "0061-0062",
+            "relativePageNumber": 77,
+            "relativePageRange": "77-78",
+            "fullText": [
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಿ. ಎಸ್. ಶಿವಕುಮಾರಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ವಾರ್ತಾ ವಿಹಾರ",
+            "page": "0063-0064",
+            "relativePageNumber": 79,
+            "relativePageRange": "79-80",
+            "fullText": [
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "title": "ಈ ಸಂಚಿಕೆಯ ಲೇಖಕರುಗಳ ಪರಿಚಯ",
+            "page": "0065-0065",
+            "relativePageNumber": 81,
+            "relativePageRange": "81-81",
+            "fullText": [
+                {
+                    "page": "0065",
+                    "text": ""
+                }
+            ]
+        }
+    ]
+}

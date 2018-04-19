@@ -22,12 +22,6 @@ $(document).ready(function(){
             }
         }
     });
-
-    // $('body').on('click', '.close-card i', function(){
-
-    //     $(this).parent('.close-card').parent('.post').remove();
-    //     buildMasonry();
-    // });
 });     
 </script>
 
@@ -43,7 +37,6 @@ $(document).ready(function(){
         </div>
 <?php foreach ($data as $row) { ?>
         <div class="post">
-            <!-- <p class="close-card"><i class="fa fa-close"></i></p> -->
             <a href="<?=BASE_URL?>describe/artefact/<?=$row['idURL']?>?<?=$auxiliary['filterString']?>" title="View Details" target="_blank">
                 <img src="<?=$row['thumbnailPath']?>">
                 <p class="image-desc"><?=$row['cardName']?></p>

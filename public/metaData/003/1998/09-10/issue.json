@@ -1,0 +1,371 @@
+{
+    "volume": "13",
+    "issue": "05",
+    "year": "1998",
+    "month": "09-10",
+    "mname": "ದ್ವೈಮಾಸಿಕ",
+    "id": "003/1998/09-10",
+    "toc": [
+        {
+            "title": "ಸಂಪಾದಕೀಯ",
+            "page": "000f"
+        },
+        {
+            "title": "ಗುರುವಾಣಿ",
+            "page": "000j"
+        },
+        {
+            "title": "ಮದರ್ಥೆರೆಸಾ-ಪ್ರೀತಿ-ಸೇವೆ-ತ್ಯಾಗಗಳ ಸಾಕಾರಮೂರ್ತಿ",
+            "page": "0002-0005",
+            "relativePageNumber": 16,
+            "relativePageRange": "16-19",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಸ್. ಆರ್. ಗುಂಜಾಳ"
+                }
+            ]
+        },
+        {
+            "title": "ಅಂತಃಸಾಕ್ಷಿ",
+            "page": "0006-0009",
+            "relativePageNumber": 20,
+            "relativePageRange": "20-23",
+            "fullText": [
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಜ. ಹೊ. ನಾರಾಯಣ ಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಸಂತ ನಾಮದೇವ",
+            "page": "0010-0015",
+            "relativePageNumber": 24,
+            "relativePageRange": "24-29",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಮ. ಸು. ಕೃಷ್ಣಮೂರ್ತಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಸರ್ವಜ್ಞ ತಿಳಿಸಿದ ದಾನದ ಹಿರಿಮೆ",
+            "page": "0016-0020",
+            "relativePageNumber": 30,
+            "relativePageRange": "30-34",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಬಸವರಾಜ ಹೂಗಾರ"
+                }
+            ]
+        },
+        {
+            "title": "ಮುಕ್ತಭೇದ-ಲಿಂಗಸ್ಥಲ (ಮುಂದುವರಿದುದು)",
+            "page": "0021-0031",
+            "relativePageNumber": 35,
+            "relativePageRange": "35-45",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಜಿ. ಎ. ಶಿವಲಿಂಗಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಇಂಗ್ಲೀಷ್ ಭಾಷೆಯಲ್ಲಿ ವೀರಶೈವ ಧರ್ಮವನ್ನು ಕುರಿತು ನಡೆದ ಸಂಶೋಧನೆ",
+            "page": "0032-0042",
+            "relativePageNumber": 46,
+            "relativePageRange": "46-56",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಸ್. ಆರ್. ಗುಂಜಾಳ"
+                }
+            ]
+        },
+        {
+            "title": "ಭಾರತೀಯ ಪರಂಪರೆಯಲ್ಲಿ ಗುರು ಶಿಷ್ಯ",
+            "page": "0043-0048",
+            "relativePageNumber": 57,
+            "relativePageRange": "57-62",
+            "fullText": [
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ|| ಎನ್. ರಾಧಾಕೃಷ್ಣ ಭಟ್"
+                }
+            ]
+        },
+        {
+            "title": "ಶರಣಸಾಹಿತ ಮತ್ತು ವಿಜ್ಞಾನ-ಕೃತಿ ಪರಿಚಯ",
+            "page": "0049-0053",
+            "relativePageNumber": 63,
+            "relativePageRange": "63-67",
+            "fullText": [
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
+                }
+            ]
+        },
+        {
+            "title": "ವಾರ್ತಾ ವಿಹಾರ",
+            "page": "0054-0058",
+            "relativePageNumber": 68,
+            "relativePageRange": "68-74",
+            "fullText": [
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0056a",
+                    "text": ""
+                },
+                {
+                    "page": "0056b",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಪ್ರೊ. ವೀರಭದ್ರ"
+                }
+            ]
+        }
+    ]
+}

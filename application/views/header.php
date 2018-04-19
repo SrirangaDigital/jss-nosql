@@ -21,7 +21,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/jquery-1.11.0.min.js"></script>
- 
+	<script src="<?=PUBLIC_URL?>js/main.js"></script>
+	
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/normalize.css">
@@ -40,6 +41,8 @@
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/social.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/journal.css?v=1.0">
+    <?php require_once('public/css/variables.css.php');?>
     <script type="text/javascript">var base_url = "<?= BASE_URL?>";</script>
    
     <!-- Favicon

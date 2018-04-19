@@ -1,0 +1,723 @@
+{
+    "volume": "03",
+    "issue": "04",
+    "year": "1970",
+    "month": "10",
+    "mname": "ಶಾಧಾರಣ ಸಂವತ್ಸರ (ದೀಪಾವಳಿ ಸಂಚಿಕೆ)",
+    "id": "003/1970/10",
+    "toc": [
+        {
+            "title": "ಪ್ರಸಾದ ವಿನಿಯೋಗಕ್ಕೆ ಮುನ್ನ",
+            "page": "0001-0003",
+            "relativePageNumber": 4,
+            "relativePageRange": "4-6",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಂಪಾದಕ"
+                }
+            ]
+        },
+        {
+            "title": "ಬಸವಾನಂದಲಹರಿಯ ಕೆಲವು ಪದ್ಯಗಳು",
+            "page": "0004-0004",
+            "relativePageNumber": 7,
+            "relativePageRange": "7-7",
+            "fullText": [
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಲಿಂ||ಶ್ರೀ ಗೌರೀಶಂಕರಸ್ವಾಮಿಗಳು"
+                }
+            ]
+        },
+        {
+            "title": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರಿರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರು ದಯಪಾಲಿಸಿದ ಸಂದೇಶ",
+            "page": "0005-0007",
+            "relativePageNumber": 8,
+            "relativePageRange": "8-10",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "title": "ಶಿವ-ಶಕ್ತಿ",
+            "page": "0008-0009",
+            "relativePageNumber": 11,
+            "relativePageRange": "11-12",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಸ್. ಅನಂತನಾರಾಯಣ"
+                }
+            ]
+        },
+        {
+            "title": "ಪ್ರಾರ್ಥನೆಯ ಪ್ರಭಾವ",
+            "page": "0009-0013",
+            "relativePageNumber": 12,
+            "relativePageRange": "12-16",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಜಿ. ವಿ. ನಾರಯಣಮೂರ್ತಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಸುಪ್ರಭಾತ",
+            "page": "0014-0019",
+            "relativePageNumber": 17,
+            "relativePageRange": "17-22",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "“ಸುಧಾಕರಶ್ರೀ”"
+                }
+            ]
+        },
+        {
+            "title": "ಅಮೃತವಾಣಿ-ಲರ್ತವ್ಯನಿಷ್ಠೆ",
+            "page": "0020-0021",
+            "relativePageNumber": 23,
+            "relativePageRange": "23-24",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಂ. ಜಿ. ನಂಜುಂಡಾರಾಧ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಕ್ರಾಂತಿವೀರ ಬಸವಣ್ಣ",
+            "page": "0022-0022",
+            "relativePageNumber": 25,
+            "relativePageRange": "25-25",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಚ್. ಎಮ್. ರಾಮಾರಾಧ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಶೂನ್ಯಸಂಪಾದನೆಯ ಒಂದು ನೋಟ",
+            "page": "0023-0031",
+            "relativePageNumber": 26,
+            "relativePageRange": "26-34",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "“ಶ್ರೀ ಜ. ಚ. ನಿ.”"
+                }
+            ]
+        },
+        {
+            "title": "ಹೊನಲು",
+            "page": "0036-0036",
+            "relativePageNumber": 39,
+            "relativePageRange": "39-39",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶಂಕರಮ್ಮ"
+                }
+            ]
+        },
+        {
+            "title": "ವೀರಭದ್ರ: ವಿಶ್ವಸಂಸ್ಕೃತಿಯ ಪ್ರತೀಕ",
+            "page": "0037-0048",
+            "relativePageNumber": 40,
+            "relativePageRange": "40-51",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
+                }
+            ]
+        },
+        {
+            "title": "ಸರ್ವದರ್ಶನ ಸಂಗ್ರಹ",
+            "page": "0049-0056",
+            "relativePageNumber": 52,
+            "relativePageRange": "52-59",
+            "fullText": [
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀ ಇಮ್ಮಡಿ ಶಿವಬಸವಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಶರಣಾದುವು ದಾನವ ಗುಣಗಳ್",
+            "page": "0057-0058",
+            "relativePageNumber": 60,
+            "relativePageRange": "60-61",
+            "fullText": [
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "“ಪುಲಿಕೇಶಿ”"
+                }
+            ]
+        },
+        {
+            "title": "ಸೋಲೋ ಗೆಲುವೋ?",
+            "page": "0059-0064",
+            "relativePageNumber": 62,
+            "relativePageRange": "62-67",
+            "fullText": [
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಂ. ಜಿ. ನಾಗರಾಜರಾವ್"
+                }
+            ]
+        },
+        {
+            "title": "ಅರಳಲಾರದ ಮೊಗ್ಗು",
+            "page": "0065-0065",
+            "relativePageNumber": 68,
+            "relativePageRange": "68-68",
+            "fullText": [
+                {
+                    "page": "0065",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಂ. ವಿ. ಸೀತಾರಾಮಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಕಮಲದ ಮಗು",
+            "page": "0066-0070",
+            "relativePageNumber": 69,
+            "relativePageRange": "69-73",
+            "fullText": [
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                },
+                {
+                    "page": "0070",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ವಸಂತಿ ಚಂದ್ರಶೇಖರ್"
+                }
+            ]
+        },
+        {
+            "title": "ಪರಿವರ್ತನ",
+            "page": "0071-0072",
+            "relativePageNumber": 74,
+            "relativePageRange": "74-75",
+            "fullText": [
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಪಿ. ವಿಜಯಕುಮಾರ್"
+                }
+            ]
+        },
+        {
+            "title": "ವಾತ್ಸಲ್ಯಮಯಿ",
+            "page": "0073-0080",
+            "relativePageNumber": 76,
+            "relativePageRange": "76-83",
+            "fullText": [
+                {
+                    "page": "0073",
+                    "text": ""
+                },
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                },
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                },
+                {
+                    "page": "0078",
+                    "text": ""
+                },
+                {
+                    "page": "0079",
+                    "text": ""
+                },
+                {
+                    "page": "0080",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "“ಕಲಿರಾಯ”"
+                }
+            ]
+        },
+        {
+            "title": "ಕರ್ಮಣ್ಯೇವಾಧಿಕಾರಸ್ತೇ",
+            "page": "0081-0082",
+            "relativePageNumber": 84,
+            "relativePageRange": "84-85",
+            "fullText": [
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಮ. ಗಂ. ರೇಣುಕಪ್ರಸನ್ನ"
+                }
+            ]
+        },
+        {
+            "title": "ಮಧುಮೇಹ",
+            "page": "0083-0088",
+            "relativePageNumber": 86,
+            "relativePageRange": "86-91",
+            "fullText": [
+                {
+                    "page": "0083",
+                    "text": ""
+                },
+                {
+                    "page": "0084",
+                    "text": ""
+                },
+                {
+                    "page": "0085",
+                    "text": ""
+                },
+                {
+                    "page": "0086",
+                    "text": ""
+                },
+                {
+                    "page": "0087",
+                    "text": ""
+                },
+                {
+                    "page": "0088",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ||ಬಿ. ಜಿ. ಚಂದ್ರಶೇಖರ್"
+                }
+            ]
+        },
+        {
+            "title": "ಸುಧಾರಣೆ",
+            "page": "0089-0090",
+            "relativePageNumber": 92,
+            "relativePageRange": "92-93",
+            "fullText": [
+                {
+                    "page": "0089",
+                    "text": ""
+                },
+                {
+                    "page": "0090",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಬಿ. ಸೋಮಶೇಖರ್"
+                }
+            ]
+        },
+        {
+            "title": "ಅಂತರ್ಮುಖಿ",
+            "page": "0091-0091",
+            "relativePageNumber": 94,
+            "relativePageRange": "94-94",
+            "fullText": [
+                {
+                    "page": "0091",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ತಿಮ್ಮರಾಜು"
+                }
+            ]
+        },
+        {
+            "title": "ಓ ಇರುಳೆ ಸ್ವಾಗತವು",
+            "page": "0092-0094",
+            "relativePageNumber": 95,
+            "relativePageRange": "95-97",
+            "fullText": [
+                {
+                    "page": "0092",
+                    "text": ""
+                },
+                {
+                    "page": "0093",
+                    "text": ""
+                },
+                {
+                    "page": "0094",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಚ್. ಎಸ್. ಶಿವಪ್ರಕಾಶ್"
+                }
+            ]
+        },
+        {
+            "title": "ಬಯಕೆ",
+            "page": "0095-0096",
+            "relativePageNumber": 98,
+            "relativePageRange": "98-99",
+            "fullText": [
+                {
+                    "page": "0095",
+                    "text": ""
+                },
+                {
+                    "page": "0096",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ||ವಿ. ನಾಗರತ್ನ"
+                }
+            ]
+        },
+        {
+            "title": "ಗಾಂಧೀಜಿಗೆ",
+            "page": "0097-0097",
+            "relativePageNumber": 100,
+            "relativePageRange": "100-100",
+            "fullText": [
+                {
+                    "page": "0097",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ||ಜಿ. ವರದರಾಜರಾವ್"
+                }
+            ]
+        },
+        {
+            "title": "ವಾರ್ತಾ ವಿಹಾರ",
+            "page": "0098-0098",
+            "relativePageNumber": 101,
+            "relativePageRange": "101-101",
+            "fullText": [
+                {
+                    "page": "0098",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಂ||"
+                }
+            ]
+        }
+    ]
+}

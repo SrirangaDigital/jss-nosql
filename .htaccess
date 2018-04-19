@@ -3,29 +3,36 @@ RewriteEngine On
 
 RewriteBase /jss-nosql
 
-RewriteCond %{REQUEST_URI}  artefact/.*build.*
-RewriteRule artefact/.*(build.*) public/pdfjs/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  (artefact|article)/.*build.*
+RewriteRule (artefact|article)/.*(build.*) public/pdfjs/$2 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  artefact/.*locale/.*
-RewriteRule artefact/.*locale/(.*) public/pdfjs/web/locale/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  (artefact|article)/.*locale/.*
+RewriteRule (artefact|article)/.*locale/(.*) public/pdfjs/web/locale/$2 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  artefact/.*cmaps/.*
-RewriteRule artefact/.*cmaps/(.*) public/pdfjs/web/cmaps/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  (artefact|article)/.*cmaps/.*
+RewriteRule (artefact|article)/.*cmaps/(.*) public/pdfjs/web/cmaps/$2 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  artefact/.*images/.*
-RewriteRule artefact/.*images/(.*) public/pdfjs/web/images/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  (artefact|article)/.*images/.*
+RewriteRule (artefact|article)/.*images/(.*) public/pdfjs/web/images/$2 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  artefact/.*viewer.*
-RewriteRule artefact/.*(viewer.*) public/pdfjs/web/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  (artefact|article)/.*viewer.*
+RewriteRule (artefact|article)/.*(viewer.*) public/pdfjs/web/$2 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  artefact/.*debugger.*
-RewriteRule artefact/.*(debugger.*) public/pdfjs/web/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  (artefact|article)/.*debugger.*
+RewriteRule (artefact|article)/.*(debugger.*) public/pdfjs/web/$2 [QSA,L]
 
 RewriteCond %{REQUEST_URI}  /artefact/pdf/.*
 RewriteRule artefact/pdf/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/index.pdf [QSA,L]
 
 RewriteCond %{REQUEST_URI}  /artefact/transcript/.*
 RewriteRule artefact/transcript/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/transcription.pdf [QSA,L]
+
+RewriteCond %{REQUEST_URI}  /article/text/.*
+RewriteRule article/text/(.*?)/(.*?)/(.*?) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/index.pdf [QSA,L]
+
+RewriteCond %{REQUEST_URI} /article/download/(\d\d\d)/(\d+|\d+-\d+)/(\d+|\d+-\d+)/(\d+-\d+)
+RewriteCond %{DOCUMENT_ROOT}/jss-nosql/public/downloads/%1_%2_%3_%4.pdf -f
+RewriteRule ^(.*)$ public/pdfjs/web/viewer.html?file=../../downloads/%1_%2_%3_%4.pdf [QSA]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f

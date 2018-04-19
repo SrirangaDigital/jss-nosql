@@ -18,6 +18,7 @@ class data extends Controller {
 
 		$foreignKeys = $this->model->getForeignKeyTypes($db);
 		ini_set('max_execution_time', 300);
+		
 		foreach ($jsonFiles as $jsonFile) {
 
 			$content = $this->model->getArtefactFromJsonPath($jsonFile);
@@ -120,6 +121,14 @@ class data extends Controller {
 			$gitcvs->checkoutFiles($affectedFiles);
 			$this->view('error/prompt',["msg"=>"Problem in writing data to file"]); return;
 		}
+	}
+
+	public function buildDBFromXml() {
+
+		$this->model->xml2Json();
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->createCollection($db, ARTICLES_COLLECTION);
+		$this->model->insertEntries($collection);
 	}
 
 	// Use this method for global changes in json files

@@ -12,5 +12,12 @@
 			"Event"
 		],
 		"sortKey" : {"Event" : 1}
+	},
+	"Journal" : {
+		"selectKey" : [
+			"year",
+			"month"
+		],
+		"sortKey" : "Default"
 	}
 }

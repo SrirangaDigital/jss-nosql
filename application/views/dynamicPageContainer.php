@@ -7,6 +7,8 @@
                 <li><a>·</a></li>
                 <li><a href="<?=BASE_URL?>listing/Categories/Photograph?select=EventType">Photographs</a></li>
                 <li><a>·</a></li>
+                <li><a href="<?=BASE_URL?>listing/structure/Journal/?select=year">Prasada</a></li>
+                <li><a>·</a></li>
                 <li id="searchForm">
                     <form class="navbar-form" role="search" action="<?=BASE_URL?>search/field/" method="get">
                         <div class="input-group add-on">
@@ -28,10 +30,7 @@
         </div>
     </div>
 </div>
-
-
 <?php
-
 if(file_exists('application/views/' . $actualPath . '.php')) {
     require_once 'application/views/' . $actualPath . '.php';
 }

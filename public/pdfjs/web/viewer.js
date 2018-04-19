@@ -1944,6 +1944,12 @@ function webViewerInitialized() {
   if(pdfURL.match('artefact/pdf')) {
 	file = pdfURL.replace(/(.*)\/artefact\/pdf\/(.*?)_(.*?)_(.*)/, '$1/public/data/$2/$3/$4/index.pdf');
   }
+  if(pdfURL.match('article/text')) {
+	file = pdfURL.replace(/(.*)\/article\/text\/(.*)\/(.*)\/(.*)\/#(.*)/, '$1/public/data/$2/$3/$4/index.pdf#$5');
+  }
+  if(pdfURL.match('article/download')) {
+	file = pdfURL.replace(/(.*)\/article\/download\/(.*)\/(.*)\/(.*)\/(.*)/, '$1/public/downloads/$2_$3_$4_$5.pdf');
+  }
 	
   validateFileURL(file);
   var waitForBeforeOpening = [];

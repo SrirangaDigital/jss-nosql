@@ -1,0 +1,867 @@
+{
+    "volume": "04",
+    "issue": "01",
+    "year": "1971",
+    "month": "01",
+    "mname": "ಜಯಂತಿ-ವಿಶೇಷಾಂಕ",
+    "id": "003/1971/01",
+    "toc": [
+        {
+            "title": "“ಪ್ರಸಾದ\" ವಿನಿಯೋಗಕ್ಕೆ ಮುನ್ನ",
+            "page": "i",
+            "author": [
+                {
+                    "name": "ಸಂಪಾದಕರು"
+                }
+            ]
+        },
+        {
+            "title": "ಅಭಿಪ್ರಾಯ",
+            "page": "iv",
+            "author": [
+                {
+                    "name": "ಸಂಯುಕ್ತ ಕರ್ನಾಟಕ"
+                }
+            ]
+        },
+        {
+            "title": "ಪ್ರಾರ್ಥನೆ",
+            "page": "0001-0001",
+            "relativePageNumber": 6,
+            "relativePageRange": "6-6",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಕೆ. ಪಿ. ಶಿವಲಿಂಗಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಜ್ಞಾನನಿಧಿ ಮುಕ್ತಾಯಕ್ಕ",
+            "page": "0002-0011",
+            "relativePageNumber": 7,
+            "relativePageRange": "7-20",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0008a",
+                    "text": ""
+                },
+                {
+                    "page": "0008b",
+                    "text": ""
+                },
+                {
+                    "page": "0008c",
+                    "text": ""
+                },
+                {
+                    "page": "0008d",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಂ. ವೀರಭದ್ರಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ನೀನು-ನಾನು (ಕವನ)",
+            "page": "0012-0012",
+            "relativePageNumber": 21,
+            "relativePageRange": "21-21",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "“ಮೈ. ವೆಂ. ಸೀ. ರಾಘವ”"
+                }
+            ]
+        },
+        {
+            "title": "ಷಡಕ್ಷರದೇವನ ರಸಚಿತ್ರಣ",
+            "page": "0013-0015",
+            "relativePageNumber": 22,
+            "relativePageRange": "22-24",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಮ. ಮಲ್ಲಪ್ಪ"
+                }
+            ]
+        },
+        {
+            "title": "ಹಿತೋಕ್ತಿಗಳು",
+            "page": "0016-0016",
+            "relativePageNumber": 25,
+            "relativePageRange": "25-25",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಮಾಧವಾಚಾರ್"
+                }
+            ]
+        },
+        {
+            "title": "ಸರ್ವದರ್ಶನ ಸಂಗ್ರಹ",
+            "page": "0017-0023",
+            "relativePageNumber": 26,
+            "relativePageRange": "26-32",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಇಮ್ಮಡಿ ಶಿವಬಸವಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ವೀರಭದ್ರ: ವಿಶ್ವಸಂಸ್ಕೃತಿಯ ಪ್ರತೀಕ",
+            "page": "0024-0040",
+            "relativePageNumber": 33,
+            "relativePageRange": "33-49",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
+                }
+            ]
+        },
+        {
+            "title": "ಜೋಗುಳದ ಹಾಡು (ಕವನ)",
+            "page": "0041-0041",
+            "relativePageNumber": 52,
+            "relativePageRange": "52-52",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಜಿ. ಎಸ್. ಸಿದ್ಧಲಿಂಗಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಮಧುಮೇಹ",
+            "page": "0042-0048",
+            "relativePageNumber": 53,
+            "relativePageRange": "53-59",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಬೆಂ. ಗು. ಚಂದ್ರಶೇಖರ್"
+                }
+            ]
+        },
+        {
+            "title": "ಜ್ಞಾನಗಂಗೋತ್ರಿ (ಕವನ)",
+            "page": "0049-0050",
+            "relativePageNumber": 60,
+            "relativePageRange": "60-61",
+            "fullText": [
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಕೊಟ್ರೇಶ್"
+                }
+            ]
+        },
+        {
+            "title": "ವಾತ್ಸಲ್ಯಮಯಿ (ನಾಟಕ)",
+            "page": "0051-0056",
+            "relativePageNumber": 62,
+            "relativePageRange": "62-67",
+            "fullText": [
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಿ. ಅಂಕಪ್ಪ"
+                }
+            ]
+        },
+        {
+            "title": "ನುಡಿ-ಜೋಗುಳ (ಕವನ)",
+            "page": "0057-0058",
+            "relativePageNumber": 68,
+            "relativePageRange": "68-69",
+            "fullText": [
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಪಿ. ಚನ್ನಗಂಗಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಗಾಂಧೀ ಜೀವನ ಮತ್ತು ವಿಚಾರಧಾರೆಯ ಬೆಳಕಿನಲ್ಲಿ ಮಾನವ ಇತಿಹಾಸದ ಧರ್ಮ",
+            "page": "0059-0063",
+            "relativePageNumber": 70,
+            "relativePageRange": "70-74",
+            "fullText": [
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಜಿ. ವಿ. ನಾರಾಯಣಮೂರ್ತಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಏನೊಸಗೆ ಎನಗೆ (ಕವನ)",
+            "page": "0064-0064",
+            "relativePageNumber": 75,
+            "relativePageRange": "75-75",
+            "fullText": [
+                {
+                    "page": "0064",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "“ಸಹನಾ”"
+                }
+            ]
+        },
+        {
+            "title": "ಹೆಣ್ಣಿಗೆ ಪಂಪನ ಹಿತನುಡಿ",
+            "page": "0065-0067",
+            "relativePageNumber": 76,
+            "relativePageRange": "76-78",
+            "fullText": [
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಕಮಲಾ ಹಂಪನಾ"
+                }
+            ]
+        },
+        {
+            "title": "ವಿವೇಕಾನಂದರ ವಿವೇಕವಾಣಿ (ಕವನ)",
+            "page": "0068-0069",
+            "relativePageNumber": 79,
+            "relativePageRange": "79-80",
+            "fullText": [
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಬಿ. ನಾಗಪ್ರಕಾಶ್ ಬಾಬು"
+                }
+            ]
+        },
+        {
+            "title": "ಭೀಮಕವಿಕೃತ ಬಸವಪುರಾಣ (ಸಈಕ್ಷೆ)",
+            "page": "0070-0072",
+            "relativePageNumber": 81,
+            "relativePageRange": "81-83",
+            "fullText": [
+                {
+                    "page": "0070",
+                    "text": ""
+                },
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಬಿ. ಶ್ರೀ. ಪಾಂಡುರಂಗರಾವ್"
+                }
+            ]
+        },
+        {
+            "title": "ಸಂಬಂಧಪಟ್ಟವರಿಗೆ (ಕವನ)",
+            "page": "0073-0074",
+            "relativePageNumber": 84,
+            "relativePageRange": "84-85",
+            "fullText": [
+                {
+                    "page": "0073",
+                    "text": ""
+                },
+                {
+                    "page": "0074",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಂ. ಜಿ. ರೇಣುಕಪ್ರಸನ್ನ"
+                }
+            ]
+        },
+        {
+            "title": "ದೈವೀ-ಸಂಪತ್ತು",
+            "page": "0075-0077",
+            "relativePageNumber": 86,
+            "relativePageRange": "86-88",
+            "fullText": [
+                {
+                    "page": "0075",
+                    "text": ""
+                },
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಟಿ. ವಿ. ರಾಚಪ್ಪ"
+                }
+            ]
+        },
+        {
+            "title": "ಪ್ರತೀಕ್ಷೆ (ಕವನ)",
+            "page": "0078-0079",
+            "relativePageNumber": 89,
+            "relativePageRange": "89-90",
+            "fullText": [
+                {
+                    "page": "0078",
+                    "text": ""
+                },
+                {
+                    "page": "0079",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಂ. ಜಿ. ನಾಗರಾಜ"
+                }
+            ]
+        },
+        {
+            "title": "ಸಂತ-ಕವಿ ತುಲಸೀದಾಸರು",
+            "page": "0080-0082",
+            "relativePageNumber": 91,
+            "relativePageRange": "91-93",
+            "fullText": [
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸುಶೀಲಾ ಕೃಷ್ಣರಾಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಕವನ (ಕವಿತೆ)",
+            "page": "0083-0083",
+            "relativePageNumber": 94,
+            "relativePageRange": "94-94",
+            "fullText": [
+                {
+                    "page": "0083",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀ “ಜ. ಚ. ನಿ.”"
+                }
+            ]
+        },
+        {
+            "title": "ಅನುಭವಗತೆ-(೧)-ಕಾರ್ಯದಕ್ಷತೆ",
+            "page": "0084-0084",
+            "relativePageNumber": 95,
+            "relativePageRange": "95-95",
+            "fullText": [
+                {
+                    "page": "0084",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಪಿ. ವಿಜಯಕುಮಾರ್"
+                }
+            ]
+        },
+        {
+            "title": "ಬೆಳುದಿಂಗಳು (ಕವನ)",
+            "page": "0085-0085",
+            "relativePageNumber": 96,
+            "relativePageRange": "96-96",
+            "fullText": [
+                {
+                    "page": "0085",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಚ್. ಎಂ. ಸುಲೋಚನ ಶಾಸ್ತ್ರಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಹೀಗೂ ಉಂಟೆ ? (ಹಾಸ್ಯಲೇಖನ)",
+            "page": "0086-0087",
+            "relativePageNumber": 97,
+            "relativePageRange": "97-98",
+            "fullText": [
+                {
+                    "page": "0086",
+                    "text": ""
+                },
+                {
+                    "page": "0087",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಹೊ. ಶಿ. ಸುಬ್ರಹ್ಮಣ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಗಾಂಧಿ-ತಾತ (ಕವನ)",
+            "page": "0088-0088",
+            "relativePageNumber": 99,
+            "relativePageRange": "99-99",
+            "fullText": [
+                {
+                    "page": "0088",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "“ವಾಣಿ”"
+                }
+            ]
+        },
+        {
+            "title": "ಸೌಂದರ್ಯ ಲೋಕ (ಕವನ)",
+            "page": "0089-0090",
+            "relativePageNumber": 100,
+            "relativePageRange": "100-101",
+            "fullText": [
+                {
+                    "page": "0089",
+                    "text": ""
+                },
+                {
+                    "page": "0090",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ನಿರ್ಮಾಯಾನಂದ"
+                }
+            ]
+        },
+        {
+            "title": "ಪಂಪ ಚಿತ್ರಿಸಿರುವ ಲೌಕಿಕ ಚಿತ್ರ",
+            "page": "0091-0092",
+            "relativePageNumber": 102,
+            "relativePageRange": "102-103",
+            "fullText": [
+                {
+                    "page": "0091",
+                    "text": ""
+                },
+                {
+                    "page": "0092",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎನ್. ಚಂದ್ರಪ್ಪ"
+                }
+            ]
+        },
+        {
+            "title": "ಭೇದ ಬೇಡ (ಕವನ)",
+            "page": "0093-0093",
+            "relativePageNumber": 104,
+            "relativePageRange": "104-104",
+            "fullText": [
+                {
+                    "page": "0093",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಸ್. ನಂಜುಂಡಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಗುರು ನಾನಕ",
+            "page": "0094-0098",
+            "relativePageNumber": 105,
+            "relativePageRange": "105-109",
+            "fullText": [
+                {
+                    "page": "0094",
+                    "text": ""
+                },
+                {
+                    "page": "0095",
+                    "text": ""
+                },
+                {
+                    "page": "0096",
+                    "text": ""
+                },
+                {
+                    "page": "0097",
+                    "text": ""
+                },
+                {
+                    "page": "0098",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಜಯಪಾಲ"
+                }
+            ]
+        },
+        {
+            "title": "ವಾರ್ತಾವಿಹಾರ",
+            "page": "0099-0102",
+            "relativePageNumber": 110,
+            "relativePageRange": "110-113",
+            "fullText": [
+                {
+                    "page": "0099",
+                    "text": ""
+                },
+                {
+                    "page": "0100",
+                    "text": ""
+                },
+                {
+                    "page": "0101",
+                    "text": ""
+                },
+                {
+                    "page": "0102",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಂ."
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಜಯಂತಿ ಕಾರ್ಯಕಲಾಪ-ಉತ್ಸವ ಸಮಿತಿ",
+            "page": "0105-0105",
+            "relativePageNumber": 119,
+            "relativePageRange": "119-119",
+            "fullText": [
+                {
+                    "page": "0105",
+                    "text": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,345 @@
+{
+    "volume": "13",
+    "issue": "06",
+    "year": "1998",
+    "month": "11-12",
+    "mname": "ದ್ವೈಮಾಸಿಕ",
+    "id": "003/1998/11-12",
+    "toc": [
+        {
+            "title": "ಸಂಪಾದಕೀಯ",
+            "page": "000e"
+        },
+        {
+            "title": "ಗುರುವಾಣಿ",
+            "page": "000h"
+        },
+        {
+            "title": "ಸತ್ಯದ ಬೆಳಕಿನಲ್ಲಿ ತತ್ತ್ವಶಾಸ್ತ್ರ:ಒಂದು ವಿವೇಚನೆ",
+            "page": "0002-0010",
+            "relativePageNumber": 11,
+            "relativePageRange": "11-19",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ. ಕೆ. ವೈ. ಬಾಲರಾಜ್"
+                }
+            ]
+        },
+        {
+            "title": "ನಾಗಾರ್ಜುನ್:ಹುಟ್ಟುಹೋರಾಟಗಾರ, ಕವಿ, ಕಾದಂಬರಿಕಾರ",
+            "page": "0011-0017",
+            "relativePageNumber": 20,
+            "relativePageRange": "20-26",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ. ತಿಪ್ಪೇಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಕನಕದಾಸರ ಜೀವನಸಿದ್ಧಿ",
+            "page": "0018-0025",
+            "relativePageNumber": 27,
+            "relativePageRange": "27-34",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಮನು ಬಳಿಗಾರ್"
+                }
+            ]
+        },
+        {
+            "title": "ಶೈವಾಗಮ ಸಾಹಿತ್ಯ",
+            "page": "0026-0043",
+            "relativePageNumber": 35,
+            "relativePageRange": "35-52",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ. ಅನಂತ ನಾಗೇಂದ್ರ ಭಟ್ಟ"
+                }
+            ]
+        },
+        {
+            "title": "ಬಿಲ್ವ ವೃಕ್ಷ",
+            "page": "0044-0046",
+            "relativePageNumber": 53,
+            "relativePageRange": "53-55",
+            "fullText": [
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ. ಚೆನ್ನಬಸಪ್ಪ"
+                }
+            ]
+        },
+        {
+            "title": "ಕಂಬನಿ",
+            "page": "0047-0047",
+            "relativePageNumber": 56,
+            "relativePageRange": "56-56",
+            "fullText": [
+                {
+                    "page": "0047",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಿ. ಎಸ್. ಸದಾಶಿವಮೂರ್ತಿ"
+                }
+            ]
+        },
+        {
+            "title": "ವಾರ್ತಾವಿಹಾರ",
+            "page": "0048-0056",
+            "relativePageNumber": 57,
+            "relativePageRange": "57-69",
+            "fullText": [
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0048a",
+                    "text": ""
+                },
+                {
+                    "page": "0048b",
+                    "text": ""
+                },
+                {
+                    "page": "0048c",
+                    "text": ""
+                },
+                {
+                    "page": "0048d",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಪ್ರೊ. ಕೆ. ವೀರಭದ್ರ"
+                }
+            ]
+        }
+    ]
+}

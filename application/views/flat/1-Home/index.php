@@ -31,7 +31,7 @@
             <ul class="list-inline">
                 <li class="stat-elem">
                     <a href="<?=BASE_URL?>listing/Categories/Letter?select=BoxTitle">
-                        <h2><i class="fa fa-image"></i></h2>
+                        <h2><i class="fa fa-envelope"></i></h2>
                         <p>Letters</p>
                     </a>
                 </li>
@@ -39,6 +39,12 @@
                     <a href="<?=BASE_URL?>listing/Categories/Photograph?select=EventType">
                         <h2><i class="fa fa-image"></i></h2>
                         <p>Photographs</p>
+                    </a>
+                </li>
+                <li class="stat-elem">
+                    <a href="<?=BASE_URL?>listing/structure/Journal/?select=year">
+                        <h2><i class="fa fa-archive"></i></h2>
+                        <p>Prasada</p>
                     </a>
                 </li>
                 <li class="stat-elem">

@@ -1,0 +1,426 @@
+{
+    "volume": "00",
+    "issue": "00",
+    "year": "1980",
+    "month": "12",
+    "mname": "",
+    "id": "003/1980/12",
+    "toc": [
+        {
+            "title": "ಪ್ರಸಾದವಿನಿಯೋಗಕ್ಕೆ ಮುನ್ನ",
+            "page": "",
+            "author": [
+                {
+                    "name": "ಸಂಪಾದಕೀಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರದ್ಧೆ",
+            "page": "",
+            "author": [
+                {
+                    "name": "ಪೂಜ್ಯ ಸುತ್ತೂರು ಜಗದ್ಗುರುಗಳವರು"
+                }
+            ]
+        },
+        {
+            "title": "ನಾ ಕಂಡಂತೆ ಪೂಜ್ಯಪಾದರು",
+            "page": "0001-0003",
+            "relativePageNumber": 10,
+            "relativePageRange": "10-12",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ವೀರಭದ್ರ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರುಗಳವರ ವ್ಯಕ್ತಿತ್ವ-ಕರ್ತೃತ್ವಶಕ್ತಿ",
+            "page": "0004-0009",
+            "relativePageNumber": 13,
+            "relativePageRange": "13-18",
+            "fullText": [
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಿ. ಎಸ್. ಚಂದ್ರಶೇಖರಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀಗಳವರ ಸಮಾಜ ಸೇವೆ",
+            "page": "0010-0013",
+            "relativePageNumber": 19,
+            "relativePageRange": "19-22",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ"
+                }
+            ]
+        },
+        {
+            "title": "ಜಗದ್ಗುರುಗಳವರು ಮತ್ತು ಆರೋಗ್ಯ ಸೇವೆ",
+            "page": "0014-0017",
+            "relativePageNumber": 23,
+            "relativePageRange": "23-26",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಿ. ಎಸ್. ದೇವರಾಜಮೂರ್ತಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀ ಸ್ವಾಈಜಿಯವರು ಮತ್ತು ತಾಂತ್ರಿಕ ಶಿಕ್ಷಣ",
+            "page": "0018-0021",
+            "relativePageNumber": 27,
+            "relativePageRange": "27-30",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ||ಕೆ. ಚಿದಾನಂದಗೌಡ"
+                }
+            ]
+        },
+        {
+            "title": "ಜಗದ್ಗುರುಗಳು ಹಾಗೂ ಮಹಿಳೆಯರು",
+            "page": "0022-0026",
+            "relativePageNumber": 31,
+            "relativePageRange": "31-35",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀಮತಿ ಜಗದಾಂಬ ಮಲ್ಲೇದೇವರು"
+                }
+            ]
+        },
+        {
+            "title": "ಪೂಜ್ಯಪಾದರು ಮತು ವಿದ್ಯಾರ್ಥಿಗಳು",
+            "page": "0027-0032",
+            "relativePageNumber": 36,
+            "relativePageRange": "36-41",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ||ಎಂ. ನಂಜುಂಡಪ್ಪ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀಮತಿ ಗಿರಿಬಾಲೆ ಅವರ “ಕೀರ್ತನಮಾಲೆ”",
+            "page": "0033-0039",
+            "relativePageNumber": 42,
+            "relativePageRange": "42-48",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ|| ವರದರಾಜರಾವ್"
+                }
+            ]
+        },
+        {
+            "title": "ವಚನಕಾರ ಬಹುರೂಪಿ ಚೌಡಯ್ಯ",
+            "page": "0040-0044",
+            "relativePageNumber": 49,
+            "relativePageRange": "49-53",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಎಸ್. ಎಸ್. ಭೂಸರೆಡ್ಡಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಮಾಹೇಶ್ವರ ಸ್ಥಳ",
+            "page": "0045-0062",
+            "relativePageNumber": 54,
+            "relativePageRange": "54-71",
+            "fullText": [
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಜಿ. ಎ. ಶಿವಲಿಂಗಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಪರಮಪೂಜ್ಯ ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಶಿವರಾತ್ರಿರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರ ಅರವತ್ತೈದನೆಯ ಹುಟ್ಟುಹಬ್ಬದ ಸಮಾರಂಭದ ವಾರ್ತೆ",
+            "page": "0063-0065",
+            "relativePageNumber": 72,
+            "relativePageRange": "72-74",
+            "fullText": [
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                }
+            ]
+        }
+    ]
+}

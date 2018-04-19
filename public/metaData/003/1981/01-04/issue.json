@@ -1,0 +1,481 @@
+{
+    "volume": "11",
+    "issue": "07",
+    "year": "1981",
+    "month": "01-04",
+    "mname": "ಜನವರಿ-ಏಪ್ರಿಲ್",
+    "id": "003/1981/01-04",
+    "toc": [
+        {
+            "title": "ಪ್ರಸಾದವಿನಿಯೋಗಕ್ಕೆ ಮುನ್ನ",
+            "page": "",
+            "author": [
+                {
+                    "name": "ಸಂಪಾದಕೀಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀ ಬಸವಜಯಂತಿ ಕುರಿತು",
+            "page": "",
+            "author": [
+                {
+                    "name": "ಸಂಪಾದಕೀಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಜಯಂತಿ ಮಹೋತ್ಸವದಂದು ಪೂಜ್ಯ ಶ್ರೀಗಳವರ ಆಶೀರ್ವಚನ",
+            "page": "",
+            "author": [
+                {
+                    "name": "ಜಗದ್ಗುರುಗಳವರಿಂದ"
+                }
+            ]
+        },
+        {
+            "title": "ಕೃತಜ್ಞತೆ (ಸುಭಾಷಿತ)",
+            "page": "0001-0002",
+            "relativePageNumber": 11,
+            "relativePageRange": "11-12",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಪೂಜ್ಯ ಶ್ರೀಗಳವರಿಂದ"
+                }
+            ]
+        },
+        {
+            "title": "ಯುಗಾದಿ-ಒಂದು ಚಿಂತನ",
+            "page": "0003-0004",
+            "relativePageNumber": 13,
+            "relativePageRange": "13-14",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀ ಡಿ. ಎಸ್. ದೇವರಾಜಮೂರ್ತಿ"
+                }
+            ]
+        },
+        {
+            "title": "ವಿಚಾರವಾದಿ ಶರಣೆ ಲಕ್ಕಮ್ಮ",
+            "page": "0005-0009",
+            "relativePageNumber": 15,
+            "relativePageRange": "15-19",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀಮತಿ ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ"
+                }
+            ]
+        },
+        {
+            "title": "ಷಟ್ಸ್ಥಲ ಧ್ವಜ ಸಂದೇಶ",
+            "page": "0010-0011",
+            "relativePageNumber": 20,
+            "relativePageRange": "20-21",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀ ಎಂ. ಜಿ. ನಂಜುಂಡಾರಾಧ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಇಮ್ಮಡಿ ಗುರುಸಿದ್ಧನ ಕೈವಲ್ಯ ಸೋಪಾನ ನಾಮೈಕೋತ್ತರ ಶತಸ್ಥಲ (ಮುಂದುವರೆದುದು)",
+            "page": "0012-0021",
+            "relativePageNumber": 22,
+            "relativePageRange": "22-31",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಗು. ಅ. ಶಿವಲಿಂಗಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಬಸವಣ್ಣನವರ ದೃಷ್ಟಿಯಲ್ಲಿ ಧರ್ಮ ಮತ್ತು ಸಮಾಜ",
+            "page": "0022-0025",
+            "relativePageNumber": 32,
+            "relativePageRange": "32-35",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀ ಸಿ. ಎಸ್. ಚಂದ್ರಶೇಖರಯ್ಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಪವಾಡ ಪುರುಷ ಶ್ರೀ ಮಲೆಮಹದೇಶ್ವರ",
+            "page": "0026-0039",
+            "relativePageNumber": 36,
+            "relativePageRange": "36-49",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀ ಪಿ. ಆರ್. ತಿಪ್ಪೇಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಸವಿನುಡಿ (ಅನುವಾದ)",
+            "page": "0040-0068",
+            "relativePageNumber": 50,
+            "relativePageRange": "50-78",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀ ಕೆ. ಪಿ. ಜೆ. ದೇವರು"
+                }
+            ]
+        },
+        {
+            "title": "ನಮಿಸೋಣ ಬನ್ನಿ",
+            "page": "0069-0069",
+            "relativePageNumber": 79,
+            "relativePageRange": "79-79",
+            "fullText": [
+                {
+                    "page": "0069",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರೀ ಕಲಿರಾಯ"
+                }
+            ]
+        },
+        {
+            "title": "ತೃಪ್ತ ಜೀವಿ",
+            "page": "0070-0070",
+            "relativePageNumber": 80,
+            "relativePageRange": "80-80",
+            "fullText": [
+                {
+                    "page": "0070",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಡಾ. ಕೆ. ಎಸ್. ಶಿವಣ್ಣ"
+                }
+            ]
+        },
+        {
+            "title": "ವಿಶೇಷ ವಾರ್ತೆ",
+            "page": "0071-0071",
+            "relativePageNumber": 81,
+            "relativePageRange": "81-81",
+            "fullText": [
+                {
+                    "page": "0071",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಂಪಾದಕೀಯ"
+                }
+            ]
+        },
+        {
+            "title": "ಆದಿಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಭಗವತ್ಪಾದರ ೧೦೨೧ನೇ ಜಯಂತ್ಯುತ್ಸವದ ಸಮಾರಂಭದ ವರದಿ",
+            "page": "0072-0072",
+            "relativePageNumber": 82,
+            "relativePageRange": "82-82",
+            "fullText": [
+                {
+                    "page": "0072",
+                    "text": ""
+                }
+            ],
+            "author": [
+                {
+                    "name": "ಸಂಪಾದಕೀಯ"
+                }
+            ]
+        }
+    ]
+}
