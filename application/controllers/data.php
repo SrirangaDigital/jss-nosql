@@ -31,6 +31,7 @@ class data extends Controller {
 
 		// Insert fulltext
 		$this->insertFulltext();
+		$this->buildDBFromXml();
 	}
 	
 	private function insertForeignKeys() {
