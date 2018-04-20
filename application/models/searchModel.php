@@ -30,7 +30,7 @@ class searchModel extends Model {
 
 			foreach ($data as $key => $value) {
 
-				$dataFilter[$key] = ['$regex'=>$value];
+				$dataFilter[$key] = ['$regex' => $value, '$options' => 'i'];
 				$displayString .= $key . ': ' . $value . '<br />';
 			}
 
@@ -121,7 +121,7 @@ class searchModel extends Model {
 
 			foreach ($row['pages'] as $page) {
 				
-				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'artefact/transcript/' . $row['idURL'] . '/#' . $page  : 'javascript:void()';
+				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'artefact/transcript/' . $row['idURL'] . '/#page=' . preg_replace('/^0+/', '', $page)  : 'javascript:void()';
 				$row['cardName'] .= '<span><a href="' . $pdfPath . '" target="_blank">' . preg_replace('/^0+/', '', $page) . '</a></span>';
 			}
 
