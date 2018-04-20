@@ -257,6 +257,10 @@ a.moretag {
 .image-desc > small:empty{
     display: none;
 }
+.image-desc .fulltextSnippet > span:not(:last-of-type):after{
+
+  content: ', ';
+}
 
 #grid.container .post img { padding: 0; }
 
