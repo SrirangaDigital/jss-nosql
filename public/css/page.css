@@ -181,10 +181,10 @@ a.moretag {
     text-decoration: none;
 }
 .input-group-btn{
-    margin-bottom: 2px; 
+  margin-bottom: 2px;
 }
 #searchForm .input-group-btn input[type="checkbox"]{
-    padding-top: 10px;
+  padding-top: 10px;
 }
 .sub-nav > li > a.active,
 .sub-nav > li > a:hover{
@@ -241,16 +241,6 @@ a.moretag {
     padding: 15px;
     margin-bottom: 0;
 }
-.post .close-card{
-  color: red;
-  font-size: 1.25em;
-  text-align: right;
-}
-.post .close-card i{
-  display: block;
-  padding: 5px 5px 0 0;
-  cursor: pointer;
-}
 .image-desc > strong:empty{
     display: none;
 }
@@ -261,7 +251,6 @@ a.moretag {
 
   content: ', ';
 }
-
 #grid.container .post img { padding: 0; }
 
 /* Small devices */
@@ -375,13 +364,15 @@ a.moretag {
     float: left;
     text-transform: capitalize;
 }
-
-
 /*Image overlays*/
 .fixOverlayDiv{
     position: relative;
     width:100%; 
     padding:0px;
+}
+.fixOverlayDiv img{
+    margin-left: auto;
+    margin-right: auto;
 }
 .OverlayText, .OverlayTextMain{
     bottom: 0;
@@ -566,7 +557,6 @@ a.moretag {
 .stats h1{
     font-size: 24px;
     margin-bottom: 60px;
-    
 }
 .stats .stat-elem a{
     display: inline-block;
@@ -583,7 +573,6 @@ a.moretag {
 .stats .stat-elem p{
     font-size: 15px;
 }
-
 /*Physical space*/
 .physical{
     background-color: #FFF;
@@ -734,7 +723,23 @@ button.toggle-button{
   line-height: 18px;
   color: #999;
 }
-.letter_thumbnails{
+.iframeHolder{
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  min-height: 500px;
+  padding: 30px;
+}
+.iframeHolder iframe{
+  min-width: 80%;
+  min-height: 450px;
+}
+.iframeHolder i{
+  color: #E0E0E0;
+  font-size: 72px;
+}
+.iframeHolder .noExternalResource{
+  font-weight: 300;
 }
 img.img-small{
   height: 200px;
@@ -795,7 +800,7 @@ img.img-center{
 .albumTitle.Photograph{
   background-color: #0091EA;
 }
-.albumTitle.Brochure{
+.albumTitle.Brochure, .albumTitle.Multimedia{
   background-color: #F57C00;
 }
 .albumTitle.Miscellaneous{
@@ -934,6 +939,18 @@ img.img-center{
 }
 .main .general-list li{
   margin-bottom: 10px;
+}
+.main .strip {
+  margin: 65px 0 30px;
+  font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+.main .strip p{
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;  
+}
+.main .strip a, .main .strip a:hover{
+  color: #3F51B5;
 }
 .sidebar{
   padding: 30px 0 0 30px;

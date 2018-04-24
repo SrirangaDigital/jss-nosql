@@ -124,15 +124,3 @@ a {
 	color: #DDD;
 	text-align: center;
 }
-.trans_col1{
-	width: 100%;
-	min-height: 1000px;
-}
-.trans_col2{
-	width: 100%;
-}
-img.trans-img-small{
-  height: 200px;
-  display: inline-block;
-  margin: 5px;
-}
