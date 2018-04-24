@@ -24,8 +24,8 @@ RewriteRule (artefact|article)/.*(debugger.*) public/pdfjs/web/$2 [QSA,L]
 RewriteCond %{REQUEST_URI}  /artefact/pdf/.*
 RewriteRule artefact/pdf/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/index.pdf [QSA,L]
 
-RewriteCond %{REQUEST_URI}  /artefact/transcript/.*
-RewriteRule artefact/transcript/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/transcription.pdf [QSA,L]
+RewriteCond %{REQUEST_URI}  /artefact/fulltext/.*
+RewriteRule artefact/fulltext/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/transcription.pdf [QSA,L]
 
 RewriteCond %{REQUEST_URI}  /article/text/.*
 RewriteRule article/text/(.*?)/(.*?)/(.*?) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/index.pdf [QSA,L]
