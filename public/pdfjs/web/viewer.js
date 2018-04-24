@@ -1937,9 +1937,9 @@ function webViewerInitialized() {
   // This snippet was added to handle htaccess redirected URLs
   var pdfURL = document.location.href;
   
-  if(pdfURL.match('artefact/transcript')) {
+  if(pdfURL.match('artefact/fulltext')) {
 	//~ file = pdfURL.replace(/(.*)\/article\/text\/(.*)\/(.*)\/#(.*)/, '$1/public/data/$2/$3/index.pdf#$4');
-	file = pdfURL.replace(/(.*)\/artefact\/transcript\/(.*?)_(.*?)_(.*)\/#(.*)/, '$1/public/data/$2/$3/$4/transcription.pdf#$4');
+	file = pdfURL.replace(/(.*)\/artefact\/fulltext\/(.*?)_(.*?)_(.*)\/#(.*)/, '$1/public/data/$2/$3/$4/transcription.pdf#$4');
   }
   if(pdfURL.match('artefact/pdf')) {
 	file = pdfURL.replace(/(.*)\/artefact\/pdf\/(.*?)_(.*?)_(.*)/, '$1/public/data/$2/$3/$4/index.pdf');
@@ -1950,7 +1950,7 @@ function webViewerInitialized() {
   if(pdfURL.match('article/download')) {
 	file = pdfURL.replace(/(.*)\/article\/download\/(.*)\/(.*)\/(.*)\/(.*)/, '$1/public/downloads/$2_$3_$4_$5.pdf');
   }
-	
+
   validateFileURL(file);
   var waitForBeforeOpening = [];
   var fileInput = document.createElement('input');
