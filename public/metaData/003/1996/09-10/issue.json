@@ -17,42 +17,9 @@
         {
             "title": "ಹೈದ್ರಾಬಾದ ಕರ್ನಾಟಕದಲ್ಲಿನ ವೀರಶೈವ ಮಠಗಳು",
             "page": "0004-0011",
-            "relativePageNumber": 24,
-            "relativePageRange": "24-31",
-            "fullText": [
-                {
-                    "page": "0004",
-                    "text": ""
-                },
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                },
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ವ್ಹಿ. ಜಿ. ಪೂಜಾರ"
@@ -62,30 +29,9 @@
         {
             "title": "ವಚನಕಾರ್ತಿ ಸೋಮಮ್ಮ",
             "page": "0012-0016",
-            "relativePageNumber": 32,
-            "relativePageRange": "32-36",
-            "fullText": [
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರೊ. ಜಿ. ಅಬ್ದುಲ್ ಬಷೀರ್"
@@ -95,62 +41,9 @@
         {
             "title": "ಸಂತರು ಮತ್ತು ಶರಣರು-೩",
             "page": "0017-0029",
-            "relativePageNumber": 37,
-            "relativePageRange": "37-49",
-            "fullText": [
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                },
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರೊ. ತಿಪ್ಪೇಸ್ವಾಮಿ"
@@ -160,66 +53,9 @@
         {
             "title": "ರಾಜಶೇಖರಸೂರಿಯ ಷಡ್ದರ್ಶನಸಮುಚ್ಚಯ",
             "page": "0030-0043",
-            "relativePageNumber": 50,
-            "relativePageRange": "50-63",
-            "fullText": [
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                },
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ವಿದ್ವಾನ್ ಹೆಚ್. ವಿ. ನಾಗರಾಜರಾವ್"
@@ -229,18 +65,9 @@
         {
             "title": "ಮುಮ್ಮಡಿ ಚಿಕ್ಕ ಭೂಪಾಲ:ಅಭಿನವಭರತ ಸಾರ ಸಂಗ್ರಹ",
             "page": "0044-0045",
-            "relativePageNumber": 64,
-            "relativePageRange": "64-65",
-            "fullText": [
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ವಿದ್ವಾನ್ ಡಾ. ಶ್ರೀ ಇಮ್ಮಡಿ ಶಿವಬಸವ ಸ್ವಾಮಿಗಳು"
@@ -250,22 +77,9 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0046-0048",
-            "relativePageNumber": 66,
-            "relativePageRange": "66-68",
-            "fullText": [
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                },
-                {
-                    "page": "0048",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"

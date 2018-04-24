@@ -9,18 +9,9 @@
         {
             "title": "ವೈದಿಕ ಸುಪ್ರಭಾತ",
             "page": "0001-0002",
-            "relativePageNumber": 11,
-            "relativePageRange": "11-12",
-            "fullText": [
-                {
-                    "page": "0001",
-                    "text": ""
-                },
-                {
-                    "page": "0002",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ಎಂ. ಜಿ. ನಂಜುಂಡಾರಾಧ್ಯ"
@@ -30,122 +21,9 @@
         {
             "title": "ಕವಿಯಾಗಿ ಬಸವಣ್ಣನವರು",
             "page": "0003-0030",
-            "relativePageNumber": 13,
-            "relativePageRange": "13-40",
-            "fullText": [
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                },
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                },
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                },
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸಿ. ಪಿ. ಕೃಷ್ಣಕುಮಾರ್"
@@ -155,30 +33,9 @@
         {
             "title": "ಕನ್ನಡ ಗಾದೆಗಳು",
             "page": "0031-0035",
-            "relativePageNumber": 41,
-            "relativePageRange": "41-45",
-            "fullText": [
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಚ್. ಎಂ. ರಾಮಾರಾಧ್ಯ"
@@ -188,34 +45,9 @@
         {
             "title": "ಕನ್ನಡದ ಪ್ರತಿಭಾವಂತ ಕವಿ",
             "page": "0036-0041",
-            "relativePageNumber": 46,
-            "relativePageRange": "46-51",
-            "fullText": [
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                },
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಪ್ರಭುಶಂಕರ"
@@ -225,22 +57,9 @@
         {
             "title": "ಕಲೆಯ ಬಲೆ ಲೇಪಾಕ್ಷಿ",
             "page": "0042-0044",
-            "relativePageNumber": 52,
-            "relativePageRange": "52-54",
-            "fullText": [
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸೀತಾಗೋವಿಂದ"
@@ -250,42 +69,9 @@
         {
             "title": "ನಿಮಗೆ ಹಣಬೇಕೆ?",
             "page": "0045-0052",
-            "relativePageNumber": 55,
-            "relativePageRange": "55-62",
-            "fullText": [
-                {
-                    "page": "0045",
-                    "text": ""
-                },
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                },
-                {
-                    "page": "0048",
-                    "text": ""
-                },
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಚ್ಚೆಸ್ಕೆ"
@@ -295,38 +81,9 @@
         {
             "title": "ಉಪನಿಷತ್ತುಗಳ ಸಂದೇಶ",
             "page": "0053-0059",
-            "relativePageNumber": 63,
-            "relativePageRange": "63-69",
-            "fullText": [
-                {
-                    "page": "0053",
-                    "text": ""
-                },
-                {
-                    "page": "0054",
-                    "text": ""
-                },
-                {
-                    "page": "0055",
-                    "text": ""
-                },
-                {
-                    "page": "0056",
-                    "text": ""
-                },
-                {
-                    "page": "0057",
-                    "text": ""
-                },
-                {
-                    "page": "0058",
-                    "text": ""
-                },
-                {
-                    "page": "0059",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಎಚ್. ತಿಪ್ಪೇರುದ್ರಸ್ವಾಮಿ"
@@ -336,34 +93,9 @@
         {
             "title": "ಪಂಪನ ಶಫರೋಚ್ಚಳಿತ ತರತ್ತರಂಗೆ",
             "page": "0060-0065",
-            "relativePageNumber": 70,
-            "relativePageRange": "70-75",
-            "fullText": [
-                {
-                    "page": "0060",
-                    "text": ""
-                },
-                {
-                    "page": "0061",
-                    "text": ""
-                },
-                {
-                    "page": "0062",
-                    "text": ""
-                },
-                {
-                    "page": "0063",
-                    "text": ""
-                },
-                {
-                    "page": "0064",
-                    "text": ""
-                },
-                {
-                    "page": "0065",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಂ. ಎಸ್. ಜಯರಾಂ"
@@ -373,30 +105,9 @@
         {
             "title": "ಗಿಣಿ ಪಾಠ",
             "page": "0066-0070",
-            "relativePageNumber": 76,
-            "relativePageRange": "76-80",
-            "fullText": [
-                {
-                    "page": "0066",
-                    "text": ""
-                },
-                {
-                    "page": "0067",
-                    "text": ""
-                },
-                {
-                    "page": "0068",
-                    "text": ""
-                },
-                {
-                    "page": "0069",
-                    "text": ""
-                },
-                {
-                    "page": "0070",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸ. ರ. ಮಾಧೂರಾವ್"
@@ -406,38 +117,9 @@
         {
             "title": "ಆಚಾರ್ಯ ಭಗರ್ವಾ ಅಗ್ನಿದೇವ",
             "page": "0071-0077",
-            "relativePageNumber": 81,
-            "relativePageRange": "81-87",
-            "fullText": [
-                {
-                    "page": "0071",
-                    "text": ""
-                },
-                {
-                    "page": "0072",
-                    "text": ""
-                },
-                {
-                    "page": "0073",
-                    "text": ""
-                },
-                {
-                    "page": "0074",
-                    "text": ""
-                },
-                {
-                    "page": "0075",
-                    "text": ""
-                },
-                {
-                    "page": "0076",
-                    "text": ""
-                },
-                {
-                    "page": "0077",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸವ್ಯಸಾಚಿ"
@@ -447,38 +129,9 @@
         {
             "title": "ಶಾಕುಂತಲಾ (ಕಾವ್ಯ)",
             "page": "0078-0084",
-            "relativePageNumber": 88,
-            "relativePageRange": "88-94",
-            "fullText": [
-                {
-                    "page": "0078",
-                    "text": ""
-                },
-                {
-                    "page": "0079",
-                    "text": ""
-                },
-                {
-                    "page": "0080",
-                    "text": ""
-                },
-                {
-                    "page": "0081",
-                    "text": ""
-                },
-                {
-                    "page": "0082",
-                    "text": ""
-                },
-                {
-                    "page": "0083",
-                    "text": ""
-                },
-                {
-                    "page": "0084",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸಮೇತನ ಹಳ್ಳಿ ರಾಮರಾವ್"
@@ -488,18 +141,9 @@
         {
             "title": "ಗುಲಾಮರು (ಕವನ)",
             "page": "0085-0086",
-            "relativePageNumber": 95,
-            "relativePageRange": "95-96",
-            "fullText": [
-                {
-                    "page": "0085",
-                    "text": ""
-                },
-                {
-                    "page": "0086",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಜಿ. ಎಸ್. ಶಿವರುದ್ರಪ್ಪ"
@@ -509,14 +153,9 @@
         {
             "title": "ಹಂಪೆ (ಕವನ)",
             "page": "0087-0087",
-            "relativePageNumber": 97,
-            "relativePageRange": "97-97",
-            "fullText": [
-                {
-                    "page": "0087",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಬಿ. ಕೃಷ್ಣಪ್ಪ"
@@ -526,14 +165,9 @@
         {
             "title": "ಜವಾನ (ಕವನ)",
             "page": "0088-0088",
-            "relativePageNumber": 98,
-            "relativePageRange": "98-98",
-            "fullText": [
-                {
-                    "page": "0088",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಕೆ. ಜಿ. ನಾಗರಾಜಪ್ಪ"
@@ -543,14 +177,9 @@
         {
             "title": "ಪೌರುಷದ ನೆಲೆ (ಕವನ)",
             "page": "0089-0089",
-            "relativePageNumber": 99,
-            "relativePageRange": "99-99",
-            "fullText": [
-                {
-                    "page": "0089",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪರಮೇಶ"
@@ -560,14 +189,9 @@
         {
             "title": "ಓ, ಇವಳು ಹೆಣ್ಣಲ್ಲ (ಕವನ)",
             "page": "0090-0090",
-            "relativePageNumber": 100,
-            "relativePageRange": "100-100",
-            "fullText": [
-                {
-                    "page": "0090",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ವಿಹಂಗಮ"
@@ -577,26 +201,9 @@
         {
             "title": "ಹೊಲಿದು ಬಿಡು ತಡವೇಕೆ (ಕವನ)",
             "page": "0091-0094",
-            "relativePageNumber": 101,
-            "relativePageRange": "101-104",
-            "fullText": [
-                {
-                    "page": "0091",
-                    "text": ""
-                },
-                {
-                    "page": "0092",
-                    "text": ""
-                },
-                {
-                    "page": "0093",
-                    "text": ""
-                },
-                {
-                    "page": "0094",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶಾಂತರಸ"
@@ -606,14 +213,9 @@
         {
             "title": "ಆಸೆ ಹೃದಯದಿ ತಂಗಿ (ಕವನ)",
             "page": "0095-0095",
-            "relativePageNumber": 105,
-            "relativePageRange": "105-105",
-            "fullText": [
-                {
-                    "page": "0095",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಸ್. ಅನಂತನಾರಾಯಣ"
@@ -623,34 +225,9 @@
         {
             "title": "ಭಿತ್ತಿಚಿತ್ರ, ನಮ್ಮ ಪ್ರಾಚೀನರ ಅಪೂರ್ವಸಿದ್ಧಿ",
             "page": "0096-0101",
-            "relativePageNumber": 106,
-            "relativePageRange": "106-111",
-            "fullText": [
-                {
-                    "page": "0096",
-                    "text": ""
-                },
-                {
-                    "page": "0097",
-                    "text": ""
-                },
-                {
-                    "page": "0098",
-                    "text": ""
-                },
-                {
-                    "page": "0099",
-                    "text": ""
-                },
-                {
-                    "page": "0100",
-                    "text": ""
-                },
-                {
-                    "page": "0101",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪಿ. ಆರ್. ತಿಪ್ಪೇಸ್ವಾಮಿ"
@@ -660,46 +237,9 @@
         {
             "title": "ಆ ಸಂಸಾರ",
             "page": "0102-0110",
-            "relativePageNumber": 112,
-            "relativePageRange": "112-120",
-            "fullText": [
-                {
-                    "page": "0102",
-                    "text": ""
-                },
-                {
-                    "page": "0103",
-                    "text": ""
-                },
-                {
-                    "page": "0104",
-                    "text": ""
-                },
-                {
-                    "page": "0105",
-                    "text": ""
-                },
-                {
-                    "page": "0106",
-                    "text": ""
-                },
-                {
-                    "page": "0107",
-                    "text": ""
-                },
-                {
-                    "page": "0108",
-                    "text": ""
-                },
-                {
-                    "page": "0109",
-                    "text": ""
-                },
-                {
-                    "page": "0110",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಚ್. ಎಲ್. ನಾಗೇಗೌಡ"
@@ -709,30 +249,9 @@
         {
             "title": "ಕನ್ನಡ ಸಣ್ಣ ಕಥೆ ತುಳಿದ ಹೊಸದಾರಿ",
             "page": "0111-0115",
-            "relativePageNumber": 121,
-            "relativePageRange": "121-125",
-            "fullText": [
-                {
-                    "page": "0111",
-                    "text": ""
-                },
-                {
-                    "page": "0112",
-                    "text": ""
-                },
-                {
-                    "page": "0113",
-                    "text": ""
-                },
-                {
-                    "page": "0114",
-                    "text": ""
-                },
-                {
-                    "page": "0115",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಬೆಸಗರಹಳ್ಳಿ ರಾಮಣ್ಣ"
@@ -742,22 +261,9 @@
         {
             "title": "ಬಸ್ಸು",
             "page": "0116-0118",
-            "relativePageNumber": 126,
-            "relativePageRange": "126-128",
-            "fullText": [
-                {
-                    "page": "0116",
-                    "text": ""
-                },
-                {
-                    "page": "0117",
-                    "text": ""
-                },
-                {
-                    "page": "0118",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಂ. ಎಸ್. ರಾಮಶೇರ್ಷ"
@@ -767,14 +273,9 @@
         {
             "title": "ತಮೋರಾಶಿ",
             "page": "0119-0119",
-            "relativePageNumber": 129,
-            "relativePageRange": "129-129",
-            "fullText": [
-                {
-                    "page": "0119",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಹೊ. ಮ. ರೇಣುಕಯ್ಯ"
@@ -784,22 +285,9 @@
         {
             "title": "ನಮ್ಮ ವಿದ್ಯಾರ್ಥಿಗಳು",
             "page": "0120-0122",
-            "relativePageNumber": 130,
-            "relativePageRange": "130-132",
-            "fullText": [
-                {
-                    "page": "0120",
-                    "text": ""
-                },
-                {
-                    "page": "0121",
-                    "text": ""
-                },
-                {
-                    "page": "0122",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಕೆ. ವಿ. ಲಕ್ಷ್ಮೀದೇವಿ"
@@ -809,14 +297,9 @@
         {
             "title": "ಉಷೆ-ನಿಶೆ",
             "page": "0123-0123",
-            "relativePageNumber": 133,
-            "relativePageRange": "133-133",
-            "fullText": [
-                {
-                    "page": "0123",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಮಾಯಿ, ಗಯ್ಯ"
@@ -826,26 +309,9 @@
         {
             "title": "ಶ್ರೀ ಸುತ್ತೂರು ವೀರಸಿಂಹಾಸನ ಮಠ",
             "page": "0124-0127",
-            "relativePageNumber": 134,
-            "relativePageRange": "134-137",
-            "fullText": [
-                {
-                    "page": "0124",
-                    "text": ""
-                },
-                {
-                    "page": "0125",
-                    "text": ""
-                },
-                {
-                    "page": "0126",
-                    "text": ""
-                },
-                {
-                    "page": "0127",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಚ್. ಗಂಗಾಧರ್ರ"
@@ -855,38 +321,16 @@
         {
             "title": "ವಿದ್ಯಾ ಪೀಠದ ವಿವಿಧ ಶಾಖೆಗಳಿಂದ",
             "page": "0128-0131",
-            "relativePageNumber": 138,
-            "relativePageRange": "138-141",
-            "fullText": [
-                {
-                    "page": "0128",
-                    "text": ""
-                },
-                {
-                    "page": "0129",
-                    "text": ""
-                },
-                {
-                    "page": "0130",
-                    "text": ""
-                },
-                {
-                    "page": "0131",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಸಾದರ ಸ್ವೀಕಾರ",
             "page": "0132-0132",
-            "relativePageNumber": 142,
-            "relativePageRange": "142-142",
-            "fullText": [
-                {
-                    "page": "0132",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         }
     ]
 }

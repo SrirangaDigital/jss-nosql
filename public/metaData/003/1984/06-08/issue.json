@@ -27,18 +27,9 @@
         {
             "title": "ದಾನ",
             "page": "0001-0002",
-            "relativePageNumber": 10,
-            "relativePageRange": "10-11",
-            "fullText": [
-                {
-                    "page": "0001",
-                    "text": ""
-                },
-                {
-                    "page": "0002",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪೂಜ್ಯ ಜಗದ್ಗುರುಗಳವರು ಆಕಾಶವಾಣಿಯಲ್ಲಿ ಬಿತ್ತರಿಸಿದ ಸುಭಾಷಿತ"
@@ -48,14 +39,9 @@
         {
             "title": "ಶರಣೆನ್ನು ಬಂದು",
             "page": "0003-0003",
-            "relativePageNumber": 12,
-            "relativePageRange": "12-12",
-            "fullText": [
-                {
-                    "page": "0003",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಕಲಿರಾಯ"
@@ -65,34 +51,9 @@
         {
             "title": "ಜ್ಞಾನಾನ್ನದಾಸೋಹಿ",
             "page": "0004-0009",
-            "relativePageNumber": 13,
-            "relativePageRange": "13-18",
-            "fullText": [
-                {
-                    "page": "0004",
-                    "text": ""
-                },
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀಮತಿ ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ"
@@ -102,46 +63,9 @@
         {
             "title": "ವಚನಸಾಹಿತ್ಯದಲ್ಲಿ ಸಂಸ್ಕೃತಿ",
             "page": "0010-0018",
-            "relativePageNumber": 19,
-            "relativePageRange": "19-27",
-            "fullText": [
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಕೆ ವೈ. ಶಿವಕುಮಾರ್"
@@ -151,14 +75,9 @@
         {
             "title": "ಕೊಂಡಾಡ ಬನ್ನಿರೊ",
             "page": "0019-0019",
-            "relativePageNumber": 28,
-            "relativePageRange": "28-28",
-            "fullText": [
-                {
-                    "page": "0019",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀಮತಿ ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ"
@@ -168,42 +87,9 @@
         {
             "title": "ಭಾರವಿಯ ಶಿವಸ್ತುತಿ",
             "page": "0020-0027",
-            "relativePageNumber": 29,
-            "relativePageRange": "29-36",
-            "fullText": [
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                },
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ವಿ. ಡಿ. ಹೆಗ್ಗಡೆ"
@@ -213,34 +99,9 @@
         {
             "title": "ಈ ಸನ್ನಿವೇಶ ಶರಣರ ಪರಸ್ಪರ ವಿಚಾರ ಮಂಥನದ ಜ್ಞಾನಮಾರ್ಗಕ್ಕೆ ಒಳ್ಳೆಯ ಉದಾಹರಣೆ-ಪರಿಶೀಲನೆ",
             "page": "0028-0033",
-            "relativePageNumber": 37,
-            "relativePageRange": "37-42",
-            "fullText": [
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ವಿ. ಎಸ್. ಕಂಬಿ"
@@ -250,30 +111,9 @@
         {
             "title": "ಶರಣರು ಮತ್ತು ಪವಾಡಗಳು",
             "page": "0034-0038",
-            "relativePageNumber": 43,
-            "relativePageRange": "43-47",
-            "fullText": [
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಜಗಲೂರು ವೀರಭದ್ರಯ್ಯನವರು"
@@ -283,26 +123,9 @@
         {
             "title": "ಇಮ್ಮಡಿ ಗುರುಸಿದ್ಧಸ್ವಾಮಿಗಳು ನಿರೂಪಿಸಿದ ಶೋಭಾನದ ಪದಗಳು",
             "page": "0039-0042",
-            "relativePageNumber": 48,
-            "relativePageRange": "48-51",
-            "fullText": [
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸಂ. ಎಸ್. ಶಿವಣ್ಣ"
@@ -312,90 +135,9 @@
         {
             "title": "ಅಕ್ಕಮಹಾದೇವಿ ಮತ್ತು ಮೀರಾ (ಮುಂದುವರಿದುದು)",
             "page": "0043-0062",
-            "relativePageNumber": 52,
-            "relativePageRange": "52-71",
-            "fullText": [
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                },
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                },
-                {
-                    "page": "0048",
-                    "text": ""
-                },
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                },
-                {
-                    "page": "0053",
-                    "text": ""
-                },
-                {
-                    "page": "0054",
-                    "text": ""
-                },
-                {
-                    "page": "0055",
-                    "text": ""
-                },
-                {
-                    "page": "0056",
-                    "text": ""
-                },
-                {
-                    "page": "0057",
-                    "text": ""
-                },
-                {
-                    "page": "0058",
-                    "text": ""
-                },
-                {
-                    "page": "0059",
-                    "text": ""
-                },
-                {
-                    "page": "0060",
-                    "text": ""
-                },
-                {
-                    "page": "0061",
-                    "text": ""
-                },
-                {
-                    "page": "0062",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ|| ಎಂ. ಎಸ್. ಕೃಷ್ಣಮೂರ್ತಿ"
@@ -405,14 +147,9 @@
         {
             "title": "ತೇನ ತೃಣಮಪಿ ನ ಚಲತಿ",
             "page": "0063-0063",
-            "relativePageNumber": 72,
-            "relativePageRange": "72-72",
-            "fullText": [
-                {
-                    "page": "0063",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಜೀಮಾರಳ್ಳಿ ಗುರುಸಿದ್ದಪ್ಪ"
@@ -422,18 +159,9 @@
         {
             "title": "ಜಯತು ಶಿವರಾತ್ರಿ ರಾಜೇಂದ್ರ ಗುರುವೆ",
             "page": "0064-0065",
-            "relativePageNumber": 73,
-            "relativePageRange": "73-74",
-            "fullText": [
-                {
-                    "page": "0064",
-                    "text": ""
-                },
-                {
-                    "page": "0065",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎಲೆತೋಟದಹಳ್ಳಿ ಪ್ರಭುಸ್ವಾಮಿ"
@@ -443,50 +171,23 @@
         {
             "title": "ವಾರ್ತೆಗಳು",
             "page": "0066-0067",
-            "relativePageNumber": 75,
-            "relativePageRange": "75-76",
-            "fullText": [
-                {
-                    "page": "0066",
-                    "text": ""
-                },
-                {
-                    "page": "0067",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರರ ಶ್ರೀ ಮಠದಲ್ಲಿ ಶರಣತತ್ವ ಪ್ರಚಾರ ಸಮಿತಿಯ ವತಿಯಿಂದ ನಡೆದ ಧಾರ್ಮಿಕ ಕಾರ್ಯಕ್ರಮಗಳ ವಿವರಗಳು",
             "page": "0068-0070",
-            "relativePageNumber": 77,
-            "relativePageRange": "77-79",
-            "fullText": [
-                {
-                    "page": "0068",
-                    "text": ""
-                },
-                {
-                    "page": "0069",
-                    "text": ""
-                },
-                {
-                    "page": "0070",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಗ್ರಂಥಾಂತರಂಗ",
             "page": "0071-0071",
-            "relativePageNumber": 80,
-            "relativePageRange": "80-80",
-            "fullText": [
-                {
-                    "page": "0071",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         }
     ]
 }

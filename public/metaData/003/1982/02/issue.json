@@ -18,14 +18,9 @@
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "page": "0001-0001",
-            "relativePageNumber": 12,
-            "relativePageRange": "12-12",
-            "fullText": [
-                {
-                    "page": "0001",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ. ಜಿ. ನಾರಾಯಣಮೂರ್ತಿ"
@@ -35,22 +30,9 @@
         {
             "title": "ಸಂದೇಶ",
             "page": "0002-0004",
-            "relativePageNumber": 13,
-            "relativePageRange": "13-15",
-            "fullText": [
-                {
-                    "page": "0002",
-                    "text": ""
-                },
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪೂಜ್ಯ ಶ್ರೀ ಶ್ರೀಗಳವರಿಂದ"
@@ -60,14 +42,9 @@
         {
             "title": "ಶ್ರೀಗುರು",
             "page": "0005-0005",
-            "relativePageNumber": 16,
-            "relativePageRange": "16-16",
-            "fullText": [
-                {
-                    "page": "0005",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಬಿ. ಪಂಚಾಕ್ಷರಿಸ್ವಾಮಿ"
@@ -77,42 +54,9 @@
         {
             "title": "ಬಸವಣ್ಣ ಮತ್ತು ದಲಿತಪ್ರಜ್ಞೆ",
             "page": "0006-0013",
-            "relativePageNumber": 17,
-            "relativePageRange": "17-24",
-            "fullText": [
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                },
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಡಿ. ಎಂ. ಮಹದೇವಮೂರ್ತಿ"
@@ -122,54 +66,9 @@
         {
             "title": "ಶರಣರ ಶಿವಯೋಗ ಮತ್ತು ಅರವಿಂದರ ಪೂರ್ಣಯೋಗ",
             "page": "0014-0024",
-            "relativePageNumber": 25,
-            "relativePageRange": "25-35",
-            "fullText": [
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಹೆಚ್. ತಿಪ್ಪೇರುದ್ರಸ್ವಾಮಿ"
@@ -179,22 +78,9 @@
         {
             "title": "ಜಗದ್ಗುರು (ಲಾವಣಿ)",
             "page": "0025-0027",
-            "relativePageNumber": 36,
-            "relativePageRange": "36-38",
-            "fullText": [
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀಮತಿ ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ"
@@ -204,38 +90,9 @@
         {
             "title": "ದೇವರದಾಸಿಮಯ್ಯನ ವಚನಗಳು",
             "page": "0028-0034",
-            "relativePageNumber": 39,
-            "relativePageRange": "39-45",
-            "fullText": [
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಸಿ. ಎಸ್. ಶಿವಕುಮಾರಸ್ವಾಮಿ"
@@ -245,26 +102,9 @@
         {
             "title": "ಬೆಡಗಿನ ವಚನಕಾರರು ಹಾಗೂ ಅವರ ಅಂಕಿತಗಳು",
             "page": "0035-0038",
-            "relativePageNumber": 46,
-            "relativePageRange": "46-49",
-            "fullText": [
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರೋ||ಎಸ್. ಎಸ್. ಭೂಸರೆಡ್ಡಿ"
@@ -274,38 +114,9 @@
         {
             "title": "ಶರಣ ಧರ್ಮ",
             "page": "0039-0045",
-            "relativePageNumber": 50,
-            "relativePageRange": "50-56",
-            "fullText": [
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪಂ||ಕೆ. ಪಿ. ಶಿವಲಿಂಗಯ್ಯ"
@@ -315,50 +126,9 @@
         {
             "title": "ಹರಿಹರನ ಭಕ್ತಿಲೋಕ",
             "page": "0046-0055",
-            "relativePageNumber": 57,
-            "relativePageRange": "57-66",
-            "fullText": [
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                },
-                {
-                    "page": "0048",
-                    "text": ""
-                },
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                },
-                {
-                    "page": "0053",
-                    "text": ""
-                },
-                {
-                    "page": "0054",
-                    "text": ""
-                },
-                {
-                    "page": "0055",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಶಿ. ಕುಮಾರಸ್ವಾಮಿ"
@@ -368,30 +138,9 @@
         {
             "title": "ವಿಶೇಷ ವರದಿ",
             "page": "0056-0060",
-            "relativePageNumber": 67,
-            "relativePageRange": "67-71",
-            "fullText": [
-                {
-                    "page": "0056",
-                    "text": ""
-                },
-                {
-                    "page": "0057",
-                    "text": ""
-                },
-                {
-                    "page": "0058",
-                    "text": ""
-                },
-                {
-                    "page": "0059",
-                    "text": ""
-                },
-                {
-                    "page": "0060",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರಿಂದ"
@@ -401,14 +150,9 @@
         {
             "title": "ಜಾತ್ರಾ ಮಹೋತ್ಸವ",
             "page": "0061-0061",
-            "relativePageNumber": 72,
-            "relativePageRange": "72-72",
-            "fullText": [
-                {
-                    "page": "0061",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರಿಂದ"
@@ -418,14 +162,9 @@
         {
             "title": "ವಾರ್ತೆಗಳು",
             "page": "0062-0062",
-            "relativePageNumber": 73,
-            "relativePageRange": "73-73",
-            "fullText": [
-                {
-                    "page": "0062",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರಿಂದ"
@@ -435,26 +174,16 @@
         {
             "title": "ಈ ಸಂಚಿಕೆಯ ಲೇಖಕರು",
             "page": "0063-0063",
-            "relativePageNumber": 74,
-            "relativePageRange": "74-74",
-            "fullText": [
-                {
-                    "page": "0063",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಸಾದರ ಸ್ವೀಕಾರ",
             "page": "0064-0064",
-            "relativePageNumber": 75,
-            "relativePageRange": "75-75",
-            "fullText": [
-                {
-                    "page": "0064",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         }
     ]
 }

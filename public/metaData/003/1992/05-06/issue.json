@@ -9,38 +9,9 @@
         {
             "title": "ವಿಜನಗರ ಕಾಲದ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಿಂಚಿದ ಮಹಿಳೆಯರು",
             "page": "0002-0008",
-            "relativePageNumber": 16,
-            "relativePageRange": "16-22",
-            "fullText": [
-                {
-                    "page": "0002",
-                    "text": ""
-                },
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                },
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ|| ಎನ್. ಸರಸ್ವತಿ"
@@ -50,14 +21,9 @@
         {
             "title": "ಸೋಮನಾಥಸ್ತೋತ್ರ ಷಟ್ಪದ-ಒಂದು ಟಿಪ್ಪಣಿ",
             "page": "0009-0009",
-            "relativePageNumber": 23,
-            "relativePageRange": "23-23",
-            "fullText": [
-                {
-                    "page": "0009",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಸ್. ಶಿವಣ್ಣ"
@@ -67,14 +33,9 @@
         {
             "title": "ಶಬ್ದಮಣಿ ತೋಂಟದದೇವರ ವೀರಭದ್ರಸಹಸ್ರನಾಮ-ಒಂದು ಟಿಪ್ಪಣಿ",
             "page": "0010-0010",
-            "relativePageNumber": 24,
-            "relativePageRange": "24-24",
-            "fullText": [
-                {
-                    "page": "0010",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಸ್. ಶಿವಣ್ಣ"
@@ -84,190 +45,9 @@
         {
             "title": "ಶ್ರೀಗುರು ಗೌರೀಶಂಕರ ದರ್ಶನ",
             "page": "0011-0055",
-            "relativePageNumber": 25,
-            "relativePageRange": "25-69",
-            "fullText": [
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                },
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                },
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                },
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                },
-                {
-                    "page": "0048",
-                    "text": ""
-                },
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                },
-                {
-                    "page": "0053",
-                    "text": ""
-                },
-                {
-                    "page": "0054",
-                    "text": ""
-                },
-                {
-                    "page": "0055",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -277,22 +57,9 @@
         {
             "title": "ವಾರ್ತಾ ವಿಹಾರ",
             "page": "0056-0058",
-            "relativePageNumber": 70,
-            "relativePageRange": "70-72",
-            "fullText": [
-                {
-                    "page": "0056",
-                    "text": ""
-                },
-                {
-                    "page": "0057",
-                    "text": ""
-                },
-                {
-                    "page": "0058",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"

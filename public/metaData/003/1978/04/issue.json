@@ -22,42 +22,9 @@
         {
             "title": "ಅಲ್ಲಮ ಮತ್ತು ಮುಕ್ತಾಯಿ (ಒಂದು ಅಪೂರ್ವ ಸಂಗಮ)",
             "page": "0001-0008",
-            "relativePageNumber": 11,
-            "relativePageRange": "11-18",
-            "fullText": [
-                {
-                    "page": "0001",
-                    "text": ""
-                },
-                {
-                    "page": "0002",
-                    "text": ""
-                },
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                },
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಿ. ಎಂ. ಮಹದೇವಮೂರ್ತಿ"
@@ -67,14 +34,9 @@
         {
             "title": "ಶಬ್ದಾಂಜಲಿ",
             "page": "0009-0009",
-            "relativePageNumber": 19,
-            "relativePageRange": "19-19",
-            "fullText": [
-                {
-                    "page": "0009",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಸ್. ಎಸ್. ಭೂಸರೆಡ್ಡಿ"
@@ -84,34 +46,9 @@
         {
             "title": "ಮಹಾಪ್ರಸಾದಿ",
             "page": "0010-0015",
-            "relativePageNumber": 20,
-            "relativePageRange": "20-25",
-            "fullText": [
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ"
@@ -121,38 +58,9 @@
         {
             "title": "“ಪ್ರಕೃತಿ-ಶೈತ್ಯಾಲಯಗಳ ಬಗ್ಗೆ ಕೇಳಿದ್ದೀರಾ”",
             "page": "0016-0022",
-            "relativePageNumber": 26,
-            "relativePageRange": "26-32",
-            "fullText": [
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಸಿ. ಬಿ. ಪ್ರಭುದೇವಸ್ವಾಮಿ"
@@ -162,18 +70,9 @@
         {
             "title": "ವಚನಗಳು",
             "page": "0023-0024",
-            "relativePageNumber": 33,
-            "relativePageRange": "33-34",
-            "fullText": [
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಜೀಮಾರಹಳ್ಳಿ ವೀರಣ್ಣ"
@@ -183,98 +82,9 @@
         {
             "title": "ಶಬರಲೀಲೆಯಲ್ಲಿ ಕಲಿಪಾರ್ಥಾ",
             "page": "0025-0046",
-            "relativePageNumber": 35,
-            "relativePageRange": "35-56",
-            "fullText": [
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                },
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                },
-                {
-                    "page": "0046",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರ್ರ"
@@ -284,78 +94,30 @@
         {
             "title": "ಮೈಸೂರು ಜಿಲ್ಲಾ ವೀರಶೈವ ಮಠಾದೀಶ್ವರರುಗಳ ಸಮ್ಮೇಳನ",
             "page": "0047-0048",
-            "relativePageNumber": 57,
-            "relativePageRange": "57-58",
-            "fullText": [
-                {
-                    "page": "0047",
-                    "text": ""
-                },
-                {
-                    "page": "0048",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ವಾರ್ತಾ ವಿಹಾರ",
             "page": "0049-0053",
-            "relativePageNumber": 59,
-            "relativePageRange": "59-63",
-            "fullText": [
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                },
-                {
-                    "page": "0053",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಸಾದರ ಸ್ವೀಕಾರ",
             "page": "0054-0056",
-            "relativePageNumber": 64,
-            "relativePageRange": "64-66",
-            "fullText": [
-                {
-                    "page": "0054",
-                    "text": ""
-                },
-                {
-                    "page": "0055",
-                    "text": ""
-                },
-                {
-                    "page": "0056",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಈ ಸಂಚಿಕೆಯ ಲೇಖಕರು",
             "page": "0057-0057",
-            "relativePageNumber": 67,
-            "relativePageRange": "67-67",
-            "fullText": [
-                {
-                    "page": "0057",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         }
     ]
 }

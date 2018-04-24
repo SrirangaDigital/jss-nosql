@@ -13,34 +13,16 @@
         {
             "title": "ಗುರುವಾಣಿ",
             "page": "0001-0002",
-            "relativePageNumber": 10,
-            "relativePageRange": "10-11",
-            "fullText": [
-                {
-                    "page": "0001",
-                    "text": ""
-                },
-                {
-                    "page": "0002",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಪದ್ಯ ಮಾಲಿಕ",
             "page": "0003-0004",
-            "relativePageNumber": 12,
-            "relativePageRange": "12-13",
-            "fullText": [
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಟಿ. ಜಿ. ಸಿದ್ದಪ್ಪಾರಾಧ್ಯ"
@@ -50,14 +32,9 @@
         {
             "title": "ಸುತ್ತೂರು",
             "page": "0005-0005",
-            "relativePageNumber": 14,
-            "relativePageRange": "14-14",
-            "fullText": [
-                {
-                    "page": "0005",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಸ. ಶಿ. ಮರುಳಯ್ಯ"
@@ -67,14 +44,9 @@
         {
             "title": "ನೀ ತಂತ್ರಸಿದ್ಧ ನಾ ಮಂತ್ರಮುಗ್ಧ",
             "page": "0006-0006",
-            "relativePageNumber": 15,
-            "relativePageRange": "15-15",
-            "fullText": [
-                {
-                    "page": "0006",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಕೆ. ಚಿದಾನಂದಗೌಡ"
@@ -84,26 +56,9 @@
         {
             "title": "ತ್ರಿವಿಧ ದಾಸೋಹ ಜಗದ್ಗುರುಗಳವರು",
             "page": "0007-0010",
-            "relativePageNumber": 16,
-            "relativePageRange": "16-19",
-            "fullText": [
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                },
-                {
-                    "page": "0010",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಸಿ. ಎಸ್. ಚಂದ್ರಶೇಖರಯ್ಯ"
@@ -113,34 +68,9 @@
         {
             "title": "ಶ್ರೀ ಸಾಮಾನ್ಯ ಒಂದು ತಾತ್ವಿಕ ಸಮೀಕ್ಷೆ",
             "page": "0011-0016",
-            "relativePageNumber": 20,
-            "relativePageRange": "20-25",
-            "fullText": [
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಎ. ಎ. ಶಿವರುದ್ರಪ್ಪ"
@@ -150,26 +80,9 @@
         {
             "title": "ಅಮೆರಿಕಾದಲ್ಲಿ ಬಾಲವಿಹಾರ ಮತ್ತು ಕಿಂಟರ್ ಗಾರ್ಟನ್",
             "page": "0017-0020",
-            "relativePageNumber": 26,
-            "relativePageRange": "26-29",
-            "fullText": [
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಉ. ಕ. ಸುಬ್ಬರಾಯಾಚಾರ್"
@@ -179,26 +92,9 @@
         {
             "title": "ವೀರಶೈವದಲ್ಲಿ ಸ್ಥಲತತ್ವ",
             "page": "0021-0024",
-            "relativePageNumber": 30,
-            "relativePageRange": "30-33",
-            "fullText": [
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಂ. ಜಿ. ನಂಜುಂಡಾರಾಧ್ಯ"
@@ -208,26 +104,9 @@
         {
             "title": "ಜರ್ಮನಿಯಲ್ಲಿ ಸಂಸ್ಕೃತ ಅಧ್ಯಯನ",
             "page": "0025-0028",
-            "relativePageNumber": 34,
-            "relativePageRange": "34-37",
-            "fullText": [
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಬಿ. ಪಾಂಡುರಂಗಯ್ಯ"
@@ -237,54 +116,9 @@
         {
             "title": "ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ-ಜೀವನ ಮತ್ತು ಕೃತಿಗಳು",
             "page": "0029-0039",
-            "relativePageNumber": 38,
-            "relativePageRange": "38-48",
-            "fullText": [
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                },
-                {
-                    "page": "0039",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಜಿ. ಜಿ. ಮಂಜುನಾಥನ್"
@@ -294,42 +128,9 @@
         {
             "title": "ಅಂಬಿಗರ ಚೌಡಯ್ಯನ ವಚನಗಳು",
             "page": "0040-0047",
-            "relativePageNumber": 49,
-            "relativePageRange": "49-56",
-            "fullText": [
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                },
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಸಿ. ಪಿ. ಕೃಷ್ಣಕುಮಾರ್"
@@ -339,42 +140,9 @@
         {
             "title": "ಶ್ರೀ ಶಿವಯೋಗಿ ಸಿದ್ಧರಾಮೇಶ್ವರರು",
             "page": "0048-0055",
-            "relativePageNumber": 57,
-            "relativePageRange": "57-64",
-            "fullText": [
-                {
-                    "page": "0048",
-                    "text": ""
-                },
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                },
-                {
-                    "page": "0053",
-                    "text": ""
-                },
-                {
-                    "page": "0054",
-                    "text": ""
-                },
-                {
-                    "page": "0055",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -384,34 +152,9 @@
         {
             "title": "ಅಂಕಾತ್ಮಕ ಪ್ರೇಷಣ ಪ್ರವೇಶ",
             "page": "0056-0061",
-            "relativePageNumber": 65,
-            "relativePageRange": "65-70",
-            "fullText": [
-                {
-                    "page": "0056",
-                    "text": ""
-                },
-                {
-                    "page": "0057",
-                    "text": ""
-                },
-                {
-                    "page": "0058",
-                    "text": ""
-                },
-                {
-                    "page": "0059",
-                    "text": ""
-                },
-                {
-                    "page": "0060",
-                    "text": ""
-                },
-                {
-                    "page": "0061",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಅನು. ಮಳಲಿ ವಸಂತಕುಮಾರ್"
@@ -421,34 +164,9 @@
         {
             "title": "ಗಾಂಧೀಜಿ ಕಂಡ ಸರ್ವೊದಯದ ಕನಸು",
             "page": "0062-0067",
-            "relativePageNumber": 71,
-            "relativePageRange": "71-76",
-            "fullText": [
-                {
-                    "page": "0062",
-                    "text": ""
-                },
-                {
-                    "page": "0063",
-                    "text": ""
-                },
-                {
-                    "page": "0064",
-                    "text": ""
-                },
-                {
-                    "page": "0065",
-                    "text": ""
-                },
-                {
-                    "page": "0066",
-                    "text": ""
-                },
-                {
-                    "page": "0067",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಬಿ. ಆರ್. ಪ್ರಾಣೇಶರಾವ್"
@@ -458,42 +176,9 @@
         {
             "title": "ಹರಿಹರನ ಮೂವರು ಮುಗ್ಧಭಕ್ತರು",
             "page": "0068-0075",
-            "relativePageNumber": 77,
-            "relativePageRange": "77-84",
-            "fullText": [
-                {
-                    "page": "0068",
-                    "text": ""
-                },
-                {
-                    "page": "0069",
-                    "text": ""
-                },
-                {
-                    "page": "0070",
-                    "text": ""
-                },
-                {
-                    "page": "0071",
-                    "text": ""
-                },
-                {
-                    "page": "0072",
-                    "text": ""
-                },
-                {
-                    "page": "0073",
-                    "text": ""
-                },
-                {
-                    "page": "0074",
-                    "text": ""
-                },
-                {
-                    "page": "0075",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎಂ. ವೀರಭದ್ರಯ್ಯ"
@@ -503,30 +188,9 @@
         {
             "title": "ಆಗಮ ಶಬ್ದ ನಿರ್ವಚನ",
             "page": "0076-0080",
-            "relativePageNumber": 85,
-            "relativePageRange": "85-89",
-            "fullText": [
-                {
-                    "page": "0076",
-                    "text": ""
-                },
-                {
-                    "page": "0077",
-                    "text": ""
-                },
-                {
-                    "page": "0078",
-                    "text": ""
-                },
-                {
-                    "page": "0079",
-                    "text": ""
-                },
-                {
-                    "page": "0080",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಹೆಚ್. ಪಿ. ಮಲ್ಲೇದೇವರು"
@@ -536,34 +200,9 @@
         {
             "title": "ಪೂಜ್ಯಪಾದ",
             "page": "0081-0086",
-            "relativePageNumber": 90,
-            "relativePageRange": "90-95",
-            "fullText": [
-                {
-                    "page": "0081",
-                    "text": ""
-                },
-                {
-                    "page": "0082",
-                    "text": ""
-                },
-                {
-                    "page": "0083",
-                    "text": ""
-                },
-                {
-                    "page": "0084",
-                    "text": ""
-                },
-                {
-                    "page": "0085",
-                    "text": ""
-                },
-                {
-                    "page": "0086",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎನ್. ಬಸವಾರಾಧ್ಯ"
@@ -573,34 +212,9 @@
         {
             "title": "ಪುಸ್ತಕ ವಿಮರ್ಶೆ",
             "page": "0087-0092",
-            "relativePageNumber": 96,
-            "relativePageRange": "96-101",
-            "fullText": [
-                {
-                    "page": "0087",
-                    "text": ""
-                },
-                {
-                    "page": "0088",
-                    "text": ""
-                },
-                {
-                    "page": "0089",
-                    "text": ""
-                },
-                {
-                    "page": "0090",
-                    "text": ""
-                },
-                {
-                    "page": "0091",
-                    "text": ""
-                },
-                {
-                    "page": "0092",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಬಿ. ನಂ. ಚಂದ್ರಯ್ಯ-ಕೆ. ಬಿ. ಪ್ರಭುಪ್ರಸಾದ್"
@@ -610,14 +224,9 @@
         {
             "title": "ವಾರ್ತಾಪತ್ರ",
             "page": "0093-0093",
-            "relativePageNumber": 102,
-            "relativePageRange": "102-102",
-            "fullText": [
-                {
-                    "page": "0093",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಟಿ. ಪ್ರಭುಸ್ವಾಮಿ"

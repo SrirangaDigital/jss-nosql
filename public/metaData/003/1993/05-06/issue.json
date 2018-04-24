@@ -9,46 +9,9 @@
         {
             "title": "ಬಸವೇಶ್ವರ ಮತ್ತು ಪುರಂದರದಾಸ-ಒಂದು ವಿವೇಚನೆ",
             "page": "0002-0010",
-            "relativePageNumber": 18,
-            "relativePageRange": "18-26",
-            "fullText": [
-                {
-                    "page": "0002",
-                    "text": ""
-                },
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                },
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                },
-                {
-                    "page": "0010",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಬಸವರಾಜ ಸಬರದ"
@@ -58,26 +21,9 @@
         {
             "title": "ವಚನ ಶಾಸ್ತ್ರದಲ್ಲಿ ದೇವರ ಪರಿಕಲ್ಪನೆ",
             "page": "0011-0014",
-            "relativePageNumber": 27,
-            "relativePageRange": "27-30",
-            "fullText": [
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರೊ. ಬಿ. ವಿರೂಪಾಕ್ಷಪ್ಪ"
@@ -87,38 +33,9 @@
         {
             "title": "ಶಿವಯೋಗದ ದಾರ್ಶನಿಕ ಹಿನ್ನೆಲೆ",
             "page": "0015-0021",
-            "relativePageNumber": 31,
-            "relativePageRange": "31-37",
-            "fullText": [
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಎ. ಎಲ್. ಶಿವರುದ್ರಪ್ಪ"
@@ -128,134 +45,9 @@
         {
             "title": "ತೋಂಟದ ಸಿದ್ಧಲಿಂಗ ಶಿವಯೋಗಿ:ವೀರಶೈವ ತತ್ವಶಾಸ್ತ್ರದ ಹಿನ್ನೆಲೆಯಲ್ಲಿ",
             "page": "0022-0052",
-            "relativePageNumber": 38,
-            "relativePageRange": "38-68",
-            "fullText": [
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                },
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                },
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                },
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                },
-                {
-                    "page": "0048",
-                    "text": ""
-                },
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಬಿ. ನಂ. ಚಂದ್ರಯ್ಯ"
@@ -265,26 +57,9 @@
         {
             "title": "ವಾರ್ತಾ ವಿಹಾರ",
             "page": "0053-0056",
-            "relativePageNumber": 69,
-            "relativePageRange": "69-72",
-            "fullText": [
-                {
-                    "page": "0053",
-                    "text": ""
-                },
-                {
-                    "page": "0054",
-                    "text": ""
-                },
-                {
-                    "page": "0055",
-                    "text": ""
-                },
-                {
-                    "page": "0056",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"

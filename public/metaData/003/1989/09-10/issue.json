@@ -17,62 +17,16 @@
         {
             "title": "ಮಂತ್ರರಾಜನ ಮಹಾತ್ಮೆ",
             "page": "0001-0001",
-            "relativePageNumber": 13,
-            "relativePageRange": "13-13",
-            "fullText": [
-                {
-                    "page": "0001",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಅಲ್ಲಮಪ್ರಭು ಮತ್ತು ಶೂನ್ಯತತ್ವ",
             "page": "0002-0011",
-            "relativePageNumber": 14,
-            "relativePageRange": "14-23",
-            "fullText": [
-                {
-                    "page": "0002",
-                    "text": ""
-                },
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                },
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                },
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ||ಎ. ಎಲ್. ಶಿವರುದ್ರಪ್ಪ"
@@ -82,18 +36,9 @@
         {
             "title": "ಅಣ್ಣನವರ ಮಹಾಮಣಿಹ",
             "page": "0012-0013",
-            "relativePageNumber": 24,
-            "relativePageRange": "24-25",
-            "fullText": [
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಬಿ. ನರಸಪ್ಪ"
@@ -103,42 +48,9 @@
         {
             "title": "ಮೈಸೂರು ರಾಜವಂಶದ ಕೊನೆಯ ಅರಸರು ಶ್ರೀ ಜಯಚಾಮರಾಜ ಒಡೆಯರ್ ಅವರು",
             "page": "0014-0021",
-            "relativePageNumber": 26,
-            "relativePageRange": "26-33",
-            "fullText": [
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ||ಸರ್ಜಾ ಚಂದ್ರಶೇಖರಯ್ಯ"
@@ -148,14 +60,9 @@
         {
             "title": "ಹನಿಗವನಗಳು",
             "page": "0022-0022",
-            "relativePageNumber": 34,
-            "relativePageRange": "34-34",
-            "fullText": [
-                {
-                    "page": "0022",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಸ್. ಅನಂತ (ಚಿರಂಜೀವಿ)"
@@ -165,46 +72,9 @@
         {
             "title": "ಇಸ್ಲಾಂಧರ್ಮ",
             "page": "0023-0031",
-            "relativePageNumber": 35,
-            "relativePageRange": "35-43",
-            "fullText": [
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                },
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -214,14 +84,9 @@
         {
             "title": "ವಚನರೂಪದ ಅನಿಸಿಕೆಗಳು",
             "page": "0033-0033",
-            "relativePageNumber": 45,
-            "relativePageRange": "45-45",
-            "fullText": [
-                {
-                    "page": "0033",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಚಿ. ಮ. ಹೆಸರೂರ, ಸಂತಿಕೆಲೂರ"
@@ -231,18 +96,9 @@
         {
             "title": "ನುಡಿಸೊಡರು",
             "page": "0034-0035",
-            "relativePageNumber": 46,
-            "relativePageRange": "46-47",
-            "fullText": [
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರಮಥ"
@@ -252,14 +108,9 @@
         {
             "title": "ಮುಂಡಕೋಪನಿಷತ್ತು",
             "page": "0036-0036",
-            "relativePageNumber": 48,
-            "relativePageRange": "48-48",
-            "fullText": [
-                {
-                    "page": "0036",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -269,14 +120,9 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0037-0037",
-            "relativePageNumber": 49,
-            "relativePageRange": "49-49",
-            "fullText": [
-                {
-                    "page": "0037",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರಭುಸ್ವಾಮಿ"

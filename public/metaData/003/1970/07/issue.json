@@ -9,26 +9,9 @@
         {
             "title": "ವಿದ್ಯಾರ್ಥಿಯನ್ನು ಕುರಿತ ವೇದೋಪದೇಶ",
             "page": "0001-0004",
-            "relativePageNumber": 7,
-            "relativePageRange": "7-10",
-            "fullText": [
-                {
-                    "page": "0001",
-                    "text": ""
-                },
-                {
-                    "page": "0002",
-                    "text": ""
-                },
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಎಂ. ಜಿ. ನಂಜುಂಡಾರಾಧ್ಯ"
@@ -38,166 +21,23 @@
         {
             "title": "ಸೌಂದರ್ಯಲಹರಿ",
             "page": "0005-0009",
-            "relativePageNumber": 11,
-            "relativePageRange": "11-15",
-            "fullText": [
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಕೇನೋಪನಿಷತ್ತು",
             "page": "0010-0038",
-            "relativePageNumber": 16,
-            "relativePageRange": "16-44",
-            "fullText": [
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                },
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಮುಗ್ಧವಾಣಿ",
             "page": "0039-0039",
-            "relativePageNumber": 45,
-            "relativePageRange": "45-45",
-            "fullText": [
-                {
-                    "page": "0039",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಕೆ. ಎಸ್. ಗುರುಮಲ್ಲಯ್ಯ"
@@ -207,198 +47,16 @@
         {
             "title": "ಅರವಿಂದ ಮಹರ್ಷಿಗಳು ಮತ್ತು ಈಶೋಪನಿಷತ್ತು",
             "page": "0040-0069",
-            "relativePageNumber": 46,
-            "relativePageRange": "46-75",
-            "fullText": [
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                },
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                },
-                {
-                    "page": "0048",
-                    "text": ""
-                },
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                },
-                {
-                    "page": "0053",
-                    "text": ""
-                },
-                {
-                    "page": "0054",
-                    "text": ""
-                },
-                {
-                    "page": "0055",
-                    "text": ""
-                },
-                {
-                    "page": "0056",
-                    "text": ""
-                },
-                {
-                    "page": "0057",
-                    "text": ""
-                },
-                {
-                    "page": "0058",
-                    "text": ""
-                },
-                {
-                    "page": "0059",
-                    "text": ""
-                },
-                {
-                    "page": "0060",
-                    "text": ""
-                },
-                {
-                    "page": "0061",
-                    "text": ""
-                },
-                {
-                    "page": "0062",
-                    "text": ""
-                },
-                {
-                    "page": "0063",
-                    "text": ""
-                },
-                {
-                    "page": "0064",
-                    "text": ""
-                },
-                {
-                    "page": "0065",
-                    "text": ""
-                },
-                {
-                    "page": "0066",
-                    "text": ""
-                },
-                {
-                    "page": "0067",
-                    "text": ""
-                },
-                {
-                    "page": "0068",
-                    "text": ""
-                },
-                {
-                    "page": "0069",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಪ್ರಾಚೀನ ಭಾರತದಲ್ಲಿ ವಿದ್ಯಾಭ್ಯಾಸ",
             "page": "0070-0084",
-            "relativePageNumber": 76,
-            "relativePageRange": "76-90",
-            "fullText": [
-                {
-                    "page": "0070",
-                    "text": ""
-                },
-                {
-                    "page": "0071",
-                    "text": ""
-                },
-                {
-                    "page": "0072",
-                    "text": ""
-                },
-                {
-                    "page": "0073",
-                    "text": ""
-                },
-                {
-                    "page": "0074",
-                    "text": ""
-                },
-                {
-                    "page": "0075",
-                    "text": ""
-                },
-                {
-                    "page": "0076",
-                    "text": ""
-                },
-                {
-                    "page": "0077",
-                    "text": ""
-                },
-                {
-                    "page": "0078",
-                    "text": ""
-                },
-                {
-                    "page": "0079",
-                    "text": ""
-                },
-                {
-                    "page": "0080",
-                    "text": ""
-                },
-                {
-                    "page": "0081",
-                    "text": ""
-                },
-                {
-                    "page": "0082",
-                    "text": ""
-                },
-                {
-                    "page": "0083",
-                    "text": ""
-                },
-                {
-                    "page": "0084",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "(ಮೂಲ:-ಶ್ರೀಮನ್ಮಹಾರಾಜ ಶ್ರೀ ಜಯಚಾಮರಾಜೇಂದ್ರ ಓಡೆಯರ್ ಬಹದ್ದೂರ್, ಮೈಸೂರು) ಎಸ್. ವನಮಾಲಾ, ಎಂ. ಎ.,"
@@ -408,94 +66,23 @@
         {
             "title": "ಜಗದ್ಗುರುಗಳವರಿಗೆ ಭಕ್ತಿ ಸಮರ್ಪಣೆ",
             "page": "0085-0097",
-            "relativePageNumber": 91,
-            "relativePageRange": "91-103",
-            "fullText": [
-                {
-                    "page": "0085",
-                    "text": ""
-                },
-                {
-                    "page": "0086",
-                    "text": ""
-                },
-                {
-                    "page": "0087",
-                    "text": ""
-                },
-                {
-                    "page": "0088",
-                    "text": ""
-                },
-                {
-                    "page": "0089",
-                    "text": ""
-                },
-                {
-                    "page": "0090",
-                    "text": ""
-                },
-                {
-                    "page": "0091",
-                    "text": ""
-                },
-                {
-                    "page": "0092",
-                    "text": ""
-                },
-                {
-                    "page": "0093",
-                    "text": ""
-                },
-                {
-                    "page": "0094",
-                    "text": ""
-                },
-                {
-                    "page": "0095",
-                    "text": ""
-                },
-                {
-                    "page": "0096",
-                    "text": ""
-                },
-                {
-                    "page": "0097",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ವಾರ್ತಾವಾಹಿನಿ",
             "page": "0098-0100",
-            "relativePageNumber": 104,
-            "relativePageRange": "104-106",
-            "fullText": [
-                {
-                    "page": "0098",
-                    "text": ""
-                },
-                {
-                    "page": "0099",
-                    "text": ""
-                },
-                {
-                    "page": "0100",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         },
         {
             "title": "ಗಂಗಾಭರಣ",
             "page": "0101-0101",
-            "relativePageNumber": 107,
-            "relativePageRange": "107-107",
-            "fullText": [
-                {
-                    "page": "0101",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "(ಸಾಹಿತ್ಯ) ಸುಧಾಕರಶ್ರೀ (ಸಂಗೀತ ಸಂಯೋಜಕರು: ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ಮರಿಯಪ್ಪನವರು)"

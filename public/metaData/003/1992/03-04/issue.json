@@ -9,38 +9,9 @@
         {
             "title": "ದಳವಾಯಿ ಸಹೋದರರು",
             "page": "0002-0008",
-            "relativePageNumber": 22,
-            "relativePageRange": "22-28",
-            "fullText": [
-                {
-                    "page": "0002",
-                    "text": ""
-                },
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                },
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಎಂ. ವಿ. ಶ್ರೀನಿವಾಸ್"
@@ -50,22 +21,9 @@
         {
             "title": "ಶಿವಪೂಜಾಪದ್ಧತಿ",
             "page": "0009-0011",
-            "relativePageNumber": 29,
-            "relativePageRange": "29-31",
-            "fullText": [
-                {
-                    "page": "0009",
-                    "text": ""
-                },
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "(ಸಂ) ಜಿ. ಜಿ. ಮಂಜುನಾಥನ್"
@@ -75,30 +33,9 @@
         {
             "title": "ಅಲ್ಲಮಪ್ರಭು-ಕರ್ನಾಟಕ ಸಂಗೀತದ ಉದಯ",
             "page": "0012-0016",
-            "relativePageNumber": 32,
-            "relativePageRange": "32-36",
-            "fullText": [
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                },
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -108,18 +45,9 @@
         {
             "title": "ವಚನ ಸುಮನ",
             "page": "0017-0018",
-            "relativePageNumber": 37,
-            "relativePageRange": "37-38",
-            "fullText": [
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರೊ. ಸಂಗಮೇಶ ಹಂಡಿಗಿ"
@@ -129,26 +57,9 @@
         {
             "title": "ದಲಿತೋದ್ಧಾರಕ ಬಸವಣ್ಣನವರು",
             "page": "0019-0022",
-            "relativePageNumber": 39,
-            "relativePageRange": "39-42",
-            "fullText": [
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಕ. ಚ. ಪಾಟೀಲ"
@@ -158,54 +69,9 @@
         {
             "title": "ಶಿವತತ್ವ",
             "page": "0023-0033",
-            "relativePageNumber": 43,
-            "relativePageRange": "43-53",
-            "fullText": [
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                },
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                },
-                {
-                    "page": "0033",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ವೀರನಗೌಡ ವೀರಬಸಪ್ಪ ತಿಪ್ಪನಗೌಡರ"
@@ -215,46 +81,9 @@
         {
             "title": "ಅಥರ್ವವೇದ-ಒಂದು ವಿವೇಚನೆ",
             "page": "0034-0042",
-            "relativePageNumber": 54,
-            "relativePageRange": "54-62",
-            "fullText": [
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                },
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ವಿದ್ವಾನ್ ಎಂ. ಸಿ. ಶಾಂತಮೂರ್ತಿ"
@@ -264,30 +93,9 @@
         {
             "title": "“ಸಿರಿಗರ\"-ಶರಣರ ದೃಷ್ಟಿಯಲ್ಲಿ",
             "page": "0043-0047",
-            "relativePageNumber": 63,
-            "relativePageRange": "63-67",
-            "fullText": [
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                },
-                {
-                    "page": "0046",
-                    "text": ""
-                },
-                {
-                    "page": "0047",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ರಾಜೇಂದ್ರಶಿಶು"
@@ -297,30 +105,9 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0048-0052",
-            "relativePageNumber": 68,
-            "relativePageRange": "68-72",
-            "fullText": [
-                {
-                    "page": "0048",
-                    "text": ""
-                },
-                {
-                    "page": "0049",
-                    "text": ""
-                },
-                {
-                    "page": "0050",
-                    "text": ""
-                },
-                {
-                    "page": "0051",
-                    "text": ""
-                },
-                {
-                    "page": "0052",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"

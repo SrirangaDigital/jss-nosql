@@ -17,22 +17,9 @@
         {
             "title": "ದಯಾಧರ್ಮ ಪ್ರವಾದಿ",
             "page": "0002-0004",
-            "relativePageNumber": 15,
-            "relativePageRange": "15-17",
-            "fullText": [
-                {
-                    "page": "0002",
-                    "text": ""
-                },
-                {
-                    "page": "0003",
-                    "text": ""
-                },
-                {
-                    "page": "0004",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಗೌ. ಮ. ಉಮಾಪತಿಶಾಸ್ತ್ರೀ"
@@ -42,50 +29,9 @@
         {
             "title": "ಸ್ವರಸಾಹಿತ್ಯದ ರಸಿಕ ಚಕ್ರಿ ಕವಿಲಿಂಗ",
             "page": "0005-0014",
-            "relativePageNumber": 18,
-            "relativePageRange": "18-27",
-            "fullText": [
-                {
-                    "page": "0005",
-                    "text": ""
-                },
-                {
-                    "page": "0006",
-                    "text": ""
-                },
-                {
-                    "page": "0007",
-                    "text": ""
-                },
-                {
-                    "page": "0008",
-                    "text": ""
-                },
-                {
-                    "page": "0009",
-                    "text": ""
-                },
-                {
-                    "page": "0010",
-                    "text": ""
-                },
-                {
-                    "page": "0011",
-                    "text": ""
-                },
-                {
-                    "page": "0012",
-                    "text": ""
-                },
-                {
-                    "page": "0013",
-                    "text": ""
-                },
-                {
-                    "page": "0014",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಿ. ಎಂ. ಮಹಾದೇವಮೂರ್ತಿ"
@@ -95,50 +41,9 @@
         {
             "title": "ಅಂಬಿಗರ ಚೌಡಯ್ಯ",
             "page": "0015-0024",
-            "relativePageNumber": 28,
-            "relativePageRange": "28-37",
-            "fullText": [
-                {
-                    "page": "0015",
-                    "text": ""
-                },
-                {
-                    "page": "0016",
-                    "text": ""
-                },
-                {
-                    "page": "0017",
-                    "text": ""
-                },
-                {
-                    "page": "0018",
-                    "text": ""
-                },
-                {
-                    "page": "0019",
-                    "text": ""
-                },
-                {
-                    "page": "0020",
-                    "text": ""
-                },
-                {
-                    "page": "0021",
-                    "text": ""
-                },
-                {
-                    "page": "0022",
-                    "text": ""
-                },
-                {
-                    "page": "0023",
-                    "text": ""
-                },
-                {
-                    "page": "0024",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರೊ. ಬಿ. ಸೋಮಶೇಖರಪ್ಪ"
@@ -148,42 +53,9 @@
         {
             "title": "ಬಸವಣ್ಣನವರ ರಾಜಕೀಯ ಜೀವನ",
             "page": "0025-0032",
-            "relativePageNumber": 38,
-            "relativePageRange": "38-45",
-            "fullText": [
-                {
-                    "page": "0025",
-                    "text": ""
-                },
-                {
-                    "page": "0026",
-                    "text": ""
-                },
-                {
-                    "page": "0027",
-                    "text": ""
-                },
-                {
-                    "page": "0028",
-                    "text": ""
-                },
-                {
-                    "page": "0029",
-                    "text": ""
-                },
-                {
-                    "page": "0030",
-                    "text": ""
-                },
-                {
-                    "page": "0031",
-                    "text": ""
-                },
-                {
-                    "page": "0032",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ|| ಸಿ. ಕೆ. ನಾವಲಗಿ"
@@ -193,62 +65,9 @@
         {
             "title": "ಕಾರೋನರಿ ಹೃದ್ರೋಗ (ಒಂದು ಅವಲೋಕನ)",
             "page": "0033-0045",
-            "relativePageNumber": 46,
-            "relativePageRange": "46-58",
-            "fullText": [
-                {
-                    "page": "0033",
-                    "text": ""
-                },
-                {
-                    "page": "0034",
-                    "text": ""
-                },
-                {
-                    "page": "0035",
-                    "text": ""
-                },
-                {
-                    "page": "0036",
-                    "text": ""
-                },
-                {
-                    "page": "0037",
-                    "text": ""
-                },
-                {
-                    "page": "0038",
-                    "text": ""
-                },
-                {
-                    "page": "0039",
-                    "text": ""
-                },
-                {
-                    "page": "0040",
-                    "text": ""
-                },
-                {
-                    "page": "0041",
-                    "text": ""
-                },
-                {
-                    "page": "0042",
-                    "text": ""
-                },
-                {
-                    "page": "0043",
-                    "text": ""
-                },
-                {
-                    "page": "0044",
-                    "text": ""
-                },
-                {
-                    "page": "0045",
-                    "text": ""
-                }
-            ],
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ. ಎಚ್. ಡಿ. ಚಂದ್ರಪ್ಪಗೌಡ"
@@ -258,14 +77,9 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0046-0046",
-            "relativePageNumber": 59,
-            "relativePageRange": "59-59",
-            "fullText": [
-                {
-                    "page": "0046",
-                    "text": ""
-                }
-            ]
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
         }
     ]
 }

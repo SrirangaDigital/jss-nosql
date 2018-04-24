@@ -20,9 +20,7 @@
             "page": "0001-0003",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ],
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪೂಜ್ಯ ಶ್ರೀಗಳವರಿಂದ"
@@ -34,9 +32,7 @@
             "page": "0004-0013",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ],
+            "fullText": [],
             "author": [
                 {
                     "name": "ಡಾ||ಸಾ. ಶಿ. ಮರುಳಯ್ಯ"
@@ -48,9 +44,7 @@
             "page": "0014-0019",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ],
+            "fullText": [],
             "author": [
                 {
                     "name": "ಪ್ರೊ||ಎಸ್. ಎಸ್. ಭೂಸರೆಡ್ಡಿ"
@@ -62,9 +56,7 @@
             "page": "0020-0028",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ],
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎನ್. ಸಿದ್ಧಲಿಂಗಯ್ಯ"
@@ -76,9 +68,7 @@
             "page": "0029-0033",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ],
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಸಿ. ಎಸ್. ಶಿವಕುಮಾರಸ್ವಾಮಿ"
@@ -90,9 +80,7 @@
             "page": "0034-0035",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ],
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎಸ್. ಶಿವಣ್ಣ"
@@ -104,9 +92,7 @@
             "page": "0036-0036",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ],
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಜಿ. ವಿ. ನಾರಾಯಣಮೂರ್ತಿ"
@@ -118,9 +104,7 @@
             "page": "0044-0051",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ],
+            "fullText": [],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಗು. ಅ. ಶಿವಲಿಂಗಯ್ಯ"
@@ -132,18 +116,14 @@
             "page": "0052-0053",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ]
+            "fullText": []
         },
         {
             "title": "ವಾರ್ತೆಗಳು",
             "page": "0054-0054",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [
-
-            ]
+            "fullText": []
         }
     ]
 }
