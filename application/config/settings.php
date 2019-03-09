@@ -33,7 +33,7 @@ define('EXTERNAL_RESOURCE_NOT_EXISTS', 'application/views/error/noExternalResour
 define('REQUIRE_EMAIL_VALIDATION', False);//Set these values to True only
 define('REQUIRE_RESET_PASSWORD', False);//if outbound mails can be sent from the server
 define('REQUIRE_GIT_TRACKING', True);
-define('REQUIRE_GITHUB_SYNC', False);
+define('REQUIRE_GITHUB_SYNC', True);
 
 
 // archive variables
