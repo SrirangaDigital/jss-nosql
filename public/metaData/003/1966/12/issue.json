@@ -9,9 +9,26 @@
         {
             "title": "ಸಹೃದಯತೆ",
             "page": "0005-0008",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 7,
+            "relativePageRange": "7-10",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ಎಂ. ಜಿ. ನಂಜುಂಡಾರಾಧ್ಯ"
@@ -21,9 +38,34 @@
         {
             "title": "ಕಲೆ ಮತ್ತು ನೀತಿ",
             "page": "0009-0014",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 11,
+            "relativePageRange": "11-16",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಜಯಚಾಮರಾಜ ಒಡೆಯರು"
@@ -33,9 +75,50 @@
         {
             "title": "ಭಾರತ ವೀರನಾರಿಯರು",
             "page": "0015-0024",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 17,
+            "relativePageRange": "17-26",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜಿ. ವೆಂಕಟಯ್ಯ"
@@ -45,9 +128,42 @@
         {
             "title": "ಮಹಾಯೋಗಿ ವೇಮಣ್ಣ",
             "page": "0025-0032",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 27,
+            "relativePageRange": "27-34",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸೀತಾಗೋವಿಂದ"
@@ -57,9 +173,14 @@
         {
             "title": "ಸ್ವಪ್ನಭೀತಿ",
             "page": "0033-0033",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 35,
+            "relativePageRange": "35-35",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ಆರ್. ರಾಧಾಕೃಷ್ಣ"
@@ -69,9 +190,14 @@
         {
             "title": "ಅಜ್ಜನತಲೆ ಬಿಳಿ",
             "page": "0034-0034",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 36,
+            "relativePageRange": "36-36",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪಿ. ಕೆ. ರಾಜಶೇಖರ್"
@@ -81,9 +207,14 @@
         {
             "title": "ಅನಾಥಶಿಶು",
             "page": "0035-0035",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 37,
+            "relativePageRange": "37-37",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ಜಿ. ನಾಗರಾಜಪ್ಪ"
@@ -93,9 +224,14 @@
         {
             "title": "ನಿನಗಾರು ಸಮನಿಹರು",
             "page": "0036-0036",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 38,
+            "relativePageRange": "38-38",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಆಯನೂರುನಾರಣಪ್ಪ"
@@ -105,9 +241,14 @@
         {
             "title": "ವಿವೇಕಾನಂದ",
             "page": "0037-0037",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 39,
+            "relativePageRange": "39-39",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ನ. ಶಿವತೀರ್ಥ"
@@ -117,9 +258,14 @@
         {
             "title": "ಭವಿಷ್ಯತ್",
             "page": "0038-0038",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 40,
+            "relativePageRange": "40-40",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ಎನ್. ಶಿವಪ್ಪ"
@@ -129,9 +275,66 @@
         {
             "title": "ಮುಕ್ತಾಯಕ್ಕನ ಮುಕ್ತಿದರ್ಶನ",
             "page": "0039-0052",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 41,
+            "relativePageRange": "41-54",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -141,9 +344,34 @@
         {
             "title": "ವೈದ್ಯಜನಿತ ಬೇನೆಗಳು",
             "page": "0053-0058",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 55,
+            "relativePageRange": "55-60",
+            "fullText": [
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಡಿ. ಎಸ್. ಶಿವಪ್ಪ"
@@ -153,9 +381,26 @@
         {
             "title": "ಉರ್ದುಸಾಹಿತ್ಯ",
             "page": "0059-0062",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 61,
+            "relativePageRange": "61-64",
+            "fullText": [
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕರೀಮುದ್ದೀನ್"
@@ -165,9 +410,26 @@
         {
             "title": "ವರ್ಣಶಿಲ್ಪಿ ಶ್ರೀ ರುಮಾಲೆ ಚನ್ನಬಸವಯ್ಯ",
             "page": "0063-0066",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 65,
+            "relativePageRange": "65-68",
+            "fullText": [
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪಿ. ಆರ್. ತಿಪ್ಪೇಸ್ವಾಮಿ"
@@ -177,9 +439,90 @@
         {
             "title": "ಕೊಂತಿಪೂಜೆ",
             "page": "0067-0086",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 69,
+            "relativePageRange": "69-88",
+            "fullText": [
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                },
+                {
+                    "page": "0070",
+                    "text": ""
+                },
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                },
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                },
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                },
+                {
+                    "page": "0078",
+                    "text": ""
+                },
+                {
+                    "page": "0079",
+                    "text": ""
+                },
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                },
+                {
+                    "page": "0083",
+                    "text": ""
+                },
+                {
+                    "page": "0084",
+                    "text": ""
+                },
+                {
+                    "page": "0085",
+                    "text": ""
+                },
+                {
+                    "page": "0086",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಿ. ಲಿಂಗಯ್ಯ"
@@ -189,9 +532,50 @@
         {
             "title": "ಕೊಂತಿಪದಗಳು",
             "page": "0087-0096",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 91,
+            "relativePageRange": "91-100",
+            "fullText": [
+                {
+                    "page": "0087",
+                    "text": ""
+                },
+                {
+                    "page": "0088",
+                    "text": ""
+                },
+                {
+                    "page": "0089",
+                    "text": ""
+                },
+                {
+                    "page": "0090",
+                    "text": ""
+                },
+                {
+                    "page": "0091",
+                    "text": ""
+                },
+                {
+                    "page": "0092",
+                    "text": ""
+                },
+                {
+                    "page": "0093",
+                    "text": ""
+                },
+                {
+                    "page": "0094",
+                    "text": ""
+                },
+                {
+                    "page": "0095",
+                    "text": ""
+                },
+                {
+                    "page": "0096",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಿ. ಲಿಂಗಯ್ಯ"
@@ -201,9 +585,14 @@
         {
             "title": "ಶರಣೆನ್ನು",
             "page": "0097-0097",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 101,
+            "relativePageRange": "101-101",
+            "fullText": [
+                {
+                    "page": "0097",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕಲಿರಾಯ"
@@ -213,9 +602,14 @@
         {
             "title": "ನಮಿಸು ಬಾ",
             "page": "0098-0098",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 102,
+            "relativePageRange": "102-102",
+            "fullText": [
+                {
+                    "page": "0098",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕಲಿರಾಯ"
@@ -225,9 +619,14 @@
         {
             "title": "ನಾನಿರುಳು ಕಂಡೆ ಕನಾಸೀಲಿ",
             "page": "0099-0099",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 103,
+            "relativePageRange": "103-103",
+            "fullText": [
+                {
+                    "page": "0099",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ಎಸ್. ಭಟ್"
@@ -237,9 +636,22 @@
         {
             "title": "ಉಚ್ಚಸ್ತನಿ ಯಾರು",
             "page": "0100-0102",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 104,
+            "relativePageRange": "104-106",
+            "fullText": [
+                {
+                    "page": "0100",
+                    "text": ""
+                },
+                {
+                    "page": "0101",
+                    "text": ""
+                },
+                {
+                    "page": "0102",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸಿ. ಪಿ. ಕೆ."
@@ -249,9 +661,34 @@
         {
             "title": "ಶ್ರೀ ಸುತ್ತೂರು ವೀರ ಸಿಂಹಾಸನ ಮಠ",
             "page": "0103-0108",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 107,
+            "relativePageRange": "107-112",
+            "fullText": [
+                {
+                    "page": "0103",
+                    "text": ""
+                },
+                {
+                    "page": "0104",
+                    "text": ""
+                },
+                {
+                    "page": "0105",
+                    "text": ""
+                },
+                {
+                    "page": "0106",
+                    "text": ""
+                },
+                {
+                    "page": "0107",
+                    "text": ""
+                },
+                {
+                    "page": "0108",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -261,9 +698,26 @@
         {
             "title": "ವಿದ್ಯಾಪೀಠದ ವಿವಿಧ ಶಾಖೆಗಳಿಂದ",
             "page": "0109-0112",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 113,
+            "relativePageRange": "113-116",
+            "fullText": [
+                {
+                    "page": "0109",
+                    "text": ""
+                },
+                {
+                    "page": "0110",
+                    "text": ""
+                },
+                {
+                    "page": "0111",
+                    "text": ""
+                },
+                {
+                    "page": "0112",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ಎಸ್. ಚಿಕ್ಕಪುಟ್ಟಯ್ಯ"
@@ -273,9 +727,26 @@
         {
             "title": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಜಯಂತಿ",
             "page": "0113-0116",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 119,
+            "relativePageRange": "119-122",
+            "fullText": [
+                {
+                    "page": "0113",
+                    "text": ""
+                },
+                {
+                    "page": "0114",
+                    "text": ""
+                },
+                {
+                    "page": "0115",
+                    "text": ""
+                },
+                {
+                    "page": "0116",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಸ್. ಎಂ. ಮಲ್ಲೇಶಪ್ಪ"
@@ -285,9 +756,14 @@
         {
             "title": "ಸಮಾಲೋಚನೆ",
             "page": "0117-0117",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 123,
+            "relativePageRange": "123-123",
+            "fullText": [
+                {
+                    "page": "0117",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

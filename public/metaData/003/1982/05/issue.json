@@ -18,9 +18,18 @@
         {
             "title": "ಭಕ್ತಿ",
             "page": "0001-0002",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 9,
+            "relativePageRange": "9-10",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪೂಜ್ಯ ಶ್ರೀಗಳವರು, ಮೈಸೂರು ಆಕಾಶವಾಣಿಯಿಂದ ಬಿತ್ತರಿಸಿದ ಸುಭಾಷಿತ"
@@ -30,9 +39,30 @@
         {
             "title": "ಧರ್ಮಕ್ರಾಂತಿಯನೇತಾರ ಬಸವಣ್ಣ",
             "page": "0003-0007",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 11,
+            "relativePageRange": "11-15",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪೂಜ್ಯ ಶ್ರೀಗಳವರು ಬಸವಜಯಂತಿಯಂದು ಮೈಸೂರು ಆಕಾಶವಾಣಿಯಲ್ಲಿ ಬಿತ್ತರಿಸಿದ ಭಾಷಣ"
@@ -42,9 +72,18 @@
         {
             "title": "ಅವನ ಪ್ರಸಾದವೇ",
             "page": "0008-0009",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 16,
+            "relativePageRange": "16-17",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜಿ. ವಿ. ನಾರಾಯಣಮೂರ್ತಿ"
@@ -54,9 +93,58 @@
         {
             "title": "ಬಸವ ಯುಗವು ಮಹಿಳೆಯರು",
             "page": "0010-0021",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 18,
+            "relativePageRange": "18-29",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀಮತಿ ಶಾಂತಾದೇವಿ ಮಾಳವಾಡ"
@@ -66,9 +154,38 @@
         {
             "title": "ಲಿಂಗೋಪಾಸನೆಯ ಮಹತ್ವ",
             "page": "0022-0028",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 30,
+            "relativePageRange": "30-36",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ವಿದ್ವಾನ್ ಜಿ. ವಿ. ಶಿವಸ್ವಾಮಿ"
@@ -78,9 +195,58 @@
         {
             "title": "ಶಿವಶರಣೆ ಸತ್ಯಕ್ಕ",
             "page": "0029-0040",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 37,
+            "relativePageRange": "37-48",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರೊ. ಎಸ್. ಎಸ್. ಭೂಸರೆಡ್ಡಿ"
@@ -90,9 +256,38 @@
         {
             "title": "ವಿಚಾರವಾದಿ ಶರಣೆ ಕಾಳವ್ವ",
             "page": "0041-0047",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 49,
+            "relativePageRange": "49-55",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ"
@@ -102,37 +297,94 @@
         {
             "title": "ಹರಿಹರನ `ಕಣ್ಣಪ್ಪದೇವರ'ರಗಳೆ",
             "page": "0048-0053",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 56,
+            "relativePageRange": "56-61",
+            "fullText": [
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ವಾರ್ತೆಗಳು",
             "page": "0054-0055",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 62,
+            "relativePageRange": "62-63",
+            "fullText": [
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಈ ಸಂಚಿಕೆಯ ಲೇಖಕರು",
             "page": "0056-0056",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 64,
+            "relativePageRange": "64-64",
+            "fullText": [
+                {
+                    "page": "0056",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಗ್ರಂಥಾಂತರಂಗ",
             "page": "0057-0059",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 65,
+            "relativePageRange": "65-67",
+            "fullText": [
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಅಖಿಲ ಭಾರತ ಶರಣ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು (ರಿ)",
             "page": "0060-0060",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 68,
+            "relativePageRange": "68-68",
+            "fullText": [
+                {
+                    "page": "0060",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ||ಎಚ್. ತಿಪ್ಪೇರುದ್ರಸ್ವಾಮಿ"

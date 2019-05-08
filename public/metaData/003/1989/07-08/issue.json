@@ -17,16 +17,38 @@
         {
             "title": "ಶ್ರೀ ಬಸವೋದಾಹರಣಂ",
             "page": "0001-0001",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 12,
+            "relativePageRange": "12-12",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಠಾಕೂರರ ಮಾನವತಾ ಸಿದ್ಧಾಂತ",
             "page": "0002-0005",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 13,
+            "relativePageRange": "13-16",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕ. ಚ. ಪಾಟೀಲ"
@@ -36,9 +58,38 @@
         {
             "title": "ರಾಮಾನುಜರ ವಿಶಿಷ್ಟಾದ್ವೈತ ದರ್ಶನ",
             "page": "0006-0012",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 17,
+            "relativePageRange": "17-23",
+            "fullText": [
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ವಿ. ಎನ್. ಶೇಷಗಿರಿರಾವ್"
@@ -48,9 +99,102 @@
         {
             "title": "ಶಿವಯೋಗ ಮತ್ತು ಪೂರ್ಣಯೋಗ",
             "page": "0013-0035",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 24,
+            "relativePageRange": "24-46",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೋ. ಚೆನ್ನಬಸಪ್ಪ"
@@ -60,9 +204,26 @@
         {
             "title": "ಕರ್ಮಯೋಗಿ",
             "page": "0036-0039",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 47,
+            "relativePageRange": "47-50",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ವೀರಣ್ಣ, ಜೀಮಾರಹಳ್ಳಿ"
@@ -72,9 +233,14 @@
         {
             "title": "ಮುಂಡಕೋಪನಿಷತ್ತು",
             "page": "0040-0040",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 51,
+            "relativePageRange": "51-51",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -84,9 +250,22 @@
         {
             "title": "ಮೂರು ಅವಸ್ಥೆಗಳು",
             "page": "0041-0043",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 52,
+            "relativePageRange": "52-54",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಮಥ"
@@ -96,9 +275,14 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0044-0044",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 55,
+            "relativePageRange": "55-55",
+            "fullText": [
+                {
+                    "page": "0044",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಭುಸ್ವಾಮಿ"

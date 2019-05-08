@@ -17,9 +17,42 @@
         {
             "title": "ಶ್ರೀ ಅರವಿಂದಾಶ್ರಮದ ಶ್ರೀಮಾತೆಯವರು",
             "page": "0002-0009",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 11,
+            "relativePageRange": "11-18",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶಾಂತಾದೇವಿ ಮಾಳವಾಡ"
@@ -29,9 +62,26 @@
         {
             "title": "ಇಪ್ಪತ್ತೊಂದನೆಯ ಶತಮಾನದಲ್ಲಿ ಶರಣ ಬಾಳು ಬಾಳಲು ಸಾಧ್ಯವೇ?",
             "page": "0010-0013",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 19,
+            "relativePageRange": "19-22",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸಿದ್ಧರಾಜ ಪೂಜಾರಿ"
@@ -41,9 +91,38 @@
         {
             "title": "ನೊಂದವರ ಅಣ್ಣ (ಏಕಾಂಕ ನಾಟಕ)",
             "page": "0014-0020",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 23,
+            "relativePageRange": "23-29",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ರಾಜೇಂದ್ರ ಶಿಶು"
@@ -53,9 +132,38 @@
         {
             "title": "ಕೆಲವು ಸ್ವರವಚನಗಳು",
             "page": "0021-0027",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 30,
+            "relativePageRange": "30-36",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜಿ. ಎ. ಶಿವಲಿಂಗಯ್ಯ"
@@ -65,9 +173,34 @@
         {
             "title": "ಹಿಂದಿಯಲ್ಲಿ ವೀರಶೈವ ಸಾಹಿತ್ಯ ಕುರಿತ ಸಂಶೋಧನೆ",
             "page": "0028-0033",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 37,
+            "relativePageRange": "37-42",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಸ್. ಆರ್. ಗುಂಜಾಳ"
@@ -77,9 +210,54 @@
         {
             "title": "ಕೆಲ ಅಪ್ರಸಿದ್ಧ ಶರಣೆಯರು",
             "page": "0034-0044",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 43,
+            "relativePageRange": "43-53",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸ. ನ. ಗಾಯತ್ರಿ"
@@ -89,9 +267,26 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0045-0048",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 56,
+            "relativePageRange": "56-59",
+            "fullText": [
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರೊ. ಕೆ. ವೀರಭದ್ರ"

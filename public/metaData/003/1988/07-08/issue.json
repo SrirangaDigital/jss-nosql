@@ -17,9 +17,14 @@
         {
             "title": "ಸುತ್ತೂರು ಸಿರಿಪಾದ",
             "page": "0001-0001",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 12,
+            "relativePageRange": "12-12",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪಿ. ಬಸವಣ್ಣ"
@@ -29,9 +34,14 @@
         {
             "title": "ಅಂದು ವರ್ಧಂತಿ ಇಂದು ಜಯಂತಿ",
             "page": "0002-0002",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 13,
+            "relativePageRange": "13-13",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜೀಮಾರಹಳ್ಳಿ ಗುರುಸಿದ್ಧಪ್ಪ"
@@ -41,9 +51,14 @@
         {
             "title": "ಅಳಿಸಿಹೋಗದ ಚಿತ್ರ",
             "page": "0003-0003",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 14,
+            "relativePageRange": "14-14",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಲೆತೋಟದಹಳ್ಳಿ ಪ್ರಭುಸ್ವಾಮಿ"
@@ -53,9 +68,14 @@
         {
             "title": "ಜಗದ್ಗುರುಗಳವರ ದೃಷ್ಟಿಯಲ್ಲಿ ಶಿಕ್ಷಕರ ಕರ್ತವ್ಯ",
             "page": "0004-0004",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 15,
+            "relativePageRange": "15-15",
+            "fullText": [
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಬಿ. ಕೆ. ಮಲ್ಲಾರಾಧ್ಯ"
@@ -65,9 +85,22 @@
         {
             "title": "ನಾ ಕಂಡ ಜಗದ್ಗುರುಗಳವರ ಮಹಿಮೆ",
             "page": "0005-0007",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 16,
+            "relativePageRange": "16-18",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಏಂ. ರಾಜೆಂದ್ರಪ್ರಸಾದ್"
@@ -77,9 +110,22 @@
         {
             "title": "ಮಂತ್ರಮಹಿಮೆ",
             "page": "0008-0010",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 19,
+            "relativePageRange": "19-21",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಶ್ರೀ ಸದಾಶಿವಸ್ವಾಮಿಗಳು"
@@ -89,9 +135,54 @@
         {
             "title": "ಅಲ್ಲಮನ ಚರಿತ್ರೆ",
             "page": "0011-0021",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 22,
+            "relativePageRange": "22-32",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಂ. ಆರ್. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ (ಸಂಗ್ರಹ: ನಗುವನಹಳ್ಳಿ ಪಿ. ರತ್ನ)"
@@ -101,9 +192,18 @@
         {
             "title": "ಮಾರ್ಗದರ್ಶಕರು",
             "page": "0022-0023",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 33,
+            "relativePageRange": "33-34",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ಶಾಮಸುಂದರ್"
@@ -113,9 +213,22 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಕಿರುಪರಿಚಯ",
             "page": "0024-0026",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 35,
+            "relativePageRange": "35-37",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ಬಿ. ಬಸವರಾಜ್"
@@ -125,9 +238,30 @@
         {
             "title": "ನಾವು ಮತ್ತು ಪರಿಸರಮಾಲಿನ್ಯ",
             "page": "0027-0031",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 38,
+            "relativePageRange": "38-42",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ವಿ. ಚಂದ್ರಣ್ಣಗೌಡ"
@@ -137,9 +271,18 @@
         {
             "title": "ದೀನಬಂಧು",
             "page": "0032-0033",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 43,
+            "relativePageRange": "43-44",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶಾಮೂ"
@@ -149,9 +292,26 @@
         {
             "title": "ಸಮದರ್ಶಿಗಳು",
             "page": "0034-0037",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 45,
+            "relativePageRange": "45-48",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಂ. ಸಿ. ಶಾಂತಮೂರ್ತಿ"
@@ -161,9 +321,18 @@
         {
             "title": "ವೈಜ್ಞಾನಿಕದೃಷ್ಟಿಯಲ್ಲಿ ಪುರಸ್ಕರ್ತರು",
             "page": "0038-0039",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 49,
+            "relativePageRange": "49-50",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸಿ. ಪಿ. ಕೆ."
@@ -173,9 +342,26 @@
         {
             "title": "ಕೈ ಹಿಡಿದು ನಡೆಸಿರುವೆ",
             "page": "0040-0043",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 51,
+            "relativePageRange": "51-54",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಸೋಮಶೇಖರಸ್ವಾಮಿ"
@@ -185,9 +371,18 @@
         {
             "title": "ನುಡಿ ಸೊಡರು",
             "page": "0044-0045",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 55,
+            "relativePageRange": "55-56",
+            "fullText": [
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಮಥ"
@@ -197,9 +392,14 @@
         {
             "title": "ವಾರ್ತಾಪತ್ರ",
             "page": "0046-0046",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 57,
+            "relativePageRange": "57-57",
+            "fullText": [
+                {
+                    "page": "0046",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಭುಸ್ವಾಮಿ"

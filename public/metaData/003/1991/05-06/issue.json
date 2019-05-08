@@ -9,9 +9,54 @@
         {
             "title": "ಶರಣರ ತಾತ್ತ್ವಿಕ ವಿವೇಚನೆ",
             "page": "0002-0012",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 16,
+            "relativePageRange": "16-26",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ಜಿ. ಎನ್. ಕುಂದರಗಿ"
@@ -21,9 +66,14 @@
         {
             "title": "ಏನ ಬರೆಯಲಿ ಗುರುವೆ?",
             "page": "0013-0013",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 27,
+            "relativePageRange": "27-27",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಆರ್. ರವಿಶಂಕರ್"
@@ -33,9 +83,26 @@
         {
             "title": "ಬಿಲ್ವ ಮಹಿಮೆ",
             "page": "0014-0017",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 28,
+            "relativePageRange": "28-31",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ದೇವೇಂದ್ರಪ್ಪ, ಮ. ಬಡಿಗೇರ"
@@ -45,9 +112,14 @@
         {
             "title": "ಬಸವ ಪ್ರಣತೆ!",
             "page": "0018-0018",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 32,
+            "relativePageRange": "32-32",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ರಾಜೇಂದ್ರಶಿಶು (ನೀಲಾಂಬಿಕಾದೇವಿ,)"
@@ -57,9 +129,38 @@
         {
             "title": "ಮದುವೆ-ಮಹತ್ವ ಕಳೆದುಕೊಳ್ಳುತ್ತಿರುವ ಮಂಗಲಕಾರ್ಯ",
             "page": "0019-0025",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 33,
+            "relativePageRange": "33-39",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಚಿಂತಕ"
@@ -69,9 +170,30 @@
         {
             "title": "ಕನ್ನಡ ವಚನರೂಪ ತೈತ್ತಿರೀಯ ಉಪನಿಷತ್ತು",
             "page": "0026-0030",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 40,
+            "relativePageRange": "40-44",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -81,9 +203,54 @@
         {
             "title": "ಕ್ರಾಂತಿ ಮತ್ತು ಬಸವ",
             "page": "0031-0041",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 45,
+            "relativePageRange": "45-55",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರೊ|| ಸ. ಸ. ಮಾಳವಾಡ"
@@ -93,9 +260,46 @@
         {
             "title": "ಗಿರಿಧಾಮದಲ್ಲಿ ಒಂದು ಧಾರ್ಮಿಕ ಶಿಕ್ಷಣ ಶಿಬಿರ",
             "page": "0042-0050",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 56,
+            "relativePageRange": "56-64",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಸಿದ್ಧಲಿಂಗ ಶಿವಾನಂದ ಸ್ವಾಮಿಗಳು"
@@ -105,9 +309,18 @@
         {
             "title": "ವಾರ್ತಾ ವಿಹಾರ",
             "page": "0051-0052",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 65,
+            "relativePageRange": "65-66",
+            "fullText": [
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"

@@ -17,9 +17,22 @@
         {
             "title": "ನುಡಿಸೊಡರು",
             "page": "0001-0003",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 22,
+            "relativePageRange": "22-24",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಮಥ"
@@ -29,9 +42,38 @@
         {
             "title": "ಪ್ರಣವೋಪಾಸನೆ",
             "page": "0001-0007",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 22,
+            "relativePageRange": "22-28",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ವೀರನಗೌಡ ವೀರಬಸಪ್ಪತಿಪ್ಪನಗೌಡ"
@@ -41,9 +83,30 @@
         {
             "title": "ಭಾರತೀಯ ಸಂಸ್ಕೃತಿ",
             "page": "0008-0012",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 29,
+            "relativePageRange": "29-33",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಡಿ. ಎಂ. ಬಡಿಗೇರ"
@@ -53,9 +116,58 @@
         {
             "title": "ದಾರ್ಶನಿಕರ ದೃಷ್ಟಿಯಲ್ಲಿ ಮಾನವೀಯ ಮೌಲ್ಯಗಳು",
             "page": "0013-0024",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 34,
+            "relativePageRange": "34-45",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಬಸವರಾಜಭೂಸರೆಡ್ಡಿ"
@@ -65,9 +177,30 @@
         {
             "title": "ಮನವ ಶೋಧಿಸಬೇಕು",
             "page": "0025-0029",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 46,
+            "relativePageRange": "46-50",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಡಿ. ಎಂ. ಬಡಿಗೇರ"
@@ -77,9 +210,18 @@
         {
             "title": "ಬೆಳಗು ಬಾ ಈ ಜಗವ",
             "page": "0030-0031",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 51,
+            "relativePageRange": "51-52",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಸೋಮಶೇಖರಸ್ವಾಮಿ"
@@ -89,9 +231,14 @@
         {
             "title": "ಜಗದುಸ್ತುವಾರದಾರ",
             "page": "0032-0032",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 53,
+            "relativePageRange": "53-53",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಜೀ ಮಾರಹಳ್ಳಿ ಗುರುಸಿದ್ಧಪ್ಪ"
@@ -101,9 +248,42 @@
         {
             "title": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ",
             "page": "0033-0040",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 54,
+            "relativePageRange": "54-61",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎನ್. ಅನಂತ"
@@ -113,9 +293,34 @@
         {
             "title": "ಶರಣ ಸಾಹಿತ್ಯದ ಅಪ್ರಕಟಿತ ಕೃತಿಗಳು",
             "page": "0041-0046",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 62,
+            "relativePageRange": "62-67",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಚ್. ಗಂಗಾಧರನ್"
@@ -125,9 +330,14 @@
         {
             "title": "ವಾರ್ತಾಪತ್ರ",
             "page": "0047-0047",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 68,
+            "relativePageRange": "68-68",
+            "fullText": [
+                {
+                    "page": "0047",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"

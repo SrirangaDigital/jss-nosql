@@ -17,9 +17,14 @@
         {
             "title": "ನೀವು",
             "page": "0001-0001",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 12,
+            "relativePageRange": "12-12",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಮಲೆಯೂರು ಗುರುಸ್ವಾಮಿ"
@@ -29,9 +34,14 @@
         {
             "title": "ನಿನ್ನಸೇವಾಕ್ಷೇತ್ರ ಹಿರಿದಾಗಲಿ",
             "page": "0002-0002",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 13,
+            "relativePageRange": "13-13",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಚಂದ್ರಶೇಖರಯ್ಯ"
@@ -41,9 +51,22 @@
         {
             "title": "ಧರ್ಮ ಹಕ್ಕು ಆಚರಣೆ",
             "page": "0003-0005",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 14,
+            "relativePageRange": "14-16",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ವಿ. ಚಂದ್ರಣ್ಣಗೌಡ"
@@ -53,9 +76,50 @@
         {
             "title": "ಕಾಯಕವೇ ಕೈಲಾಸ",
             "page": "0006-0015",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 17,
+            "relativePageRange": "17-26",
+            "fullText": [
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -65,9 +129,46 @@
         {
             "title": "ಬಾಲಲೀಲಾ ಮಹಾಂತ ಶಿವಯೋಗಿಗಳು",
             "page": "0016-0024",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 27,
+            "relativePageRange": "27-35",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ಸರ್ಜಾ ಚಂದ್ರ ಶೇಖರಯ್ಯ"
@@ -77,9 +178,38 @@
         {
             "title": "ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮನ ವಚನಗಳು",
             "page": "0025-0031",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 36,
+            "relativePageRange": "36-42",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರೊ|| ಎಸ್. ಎಸ್. ಭೂಸರೆಡ್ಡಿ"
@@ -89,9 +219,50 @@
         {
             "title": "ಬಸವಣ್ಣನವರ ಜನತಾಧರ್ಮ",
             "page": "0032-0041",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 43,
+            "relativePageRange": "43-52",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀನಿವಾಸಉಡುಪ"
@@ -101,9 +272,26 @@
         {
             "title": "ನಾವೇಕೆ ಯಜ್ಞ ಮಾಡಬೇಕು",
             "page": "0042-0045",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 53,
+            "relativePageRange": "53-56",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ. ರಾಮಕೃಷ್ಣಶಾಸ್ತ್ರಿ"
@@ -113,9 +301,62 @@
         {
             "title": "ಪರಿಸರ ಮಾಲಿನ್ಯತೆ",
             "page": "0046-0058",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 57,
+            "relativePageRange": "57-69",
+            "fullText": [
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ಎ. ಶಿವನಗೌಡ ಕಡಬಗೆರೆ"
@@ -125,9 +366,26 @@
         {
             "title": "ಶ್ರೋತೃಸ್ವಭಾವ",
             "page": "0059-0062",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 70,
+            "relativePageRange": "70-73",
+            "fullText": [
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಮಥ"

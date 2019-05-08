@@ -17,9 +17,22 @@
         {
             "title": "ಶರಣೆಯರ ನೂರೆಂಟು ನಾಮಗಳು",
             "page": "0001-0003",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 17,
+            "relativePageRange": "17-19",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸಂ. ವೈ. ಸಿ. ಭಾನುಮತಿ"
@@ -29,9 +42,54 @@
         {
             "title": "ವಚನ ಧರ್ಮವು-ವಿಚಾರವಾದವು",
             "page": "0004-0014",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 20,
+            "relativePageRange": "20-30",
+            "fullText": [
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಬಿ. ಸೋಮಶೇಖರ"
@@ -41,9 +99,50 @@
         {
             "title": "ವೀರಶೈವಾಂಧ್ರಕವಿಗಳ ಬಸವ ಸಾಹಿತ್ಯ ಸಮೀಕ್ಷೆ",
             "page": "0015-0024",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 31,
+            "relativePageRange": "31-40",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸಿ. ಟಿ. ಎಂ. ಕೂಟ್ರಯ್ಯ"
@@ -53,9 +152,30 @@
         {
             "title": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಬೆಳವಣಿಗೆಯ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ವಚನ ಸಾಹಿತ್ಯದ ಪಾತ್ರ",
             "page": "0025-0029",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 41,
+            "relativePageRange": "41-45",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ವಿ. ಚಂದ್ರಣ್ಣಗೌಡ"
@@ -65,9 +185,14 @@
         {
             "title": "ಚುಟುಕಗಳು",
             "page": "0030-0030",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 46,
+            "relativePageRange": "46-46",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎನ್. ಅನಂತ"
@@ -77,9 +202,42 @@
         {
             "title": "ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿ ಬುದ್ಧ",
             "page": "0031-0038",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 47,
+            "relativePageRange": "47-54",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ||ಸಿ. ಪಿ. ಕೃಷ್ಣಕುಮಾರ್"
@@ -89,9 +247,18 @@
         {
             "title": "ಕಲ್ಪವೃಕ್ಷವೇ ಆದೆ",
             "page": "0039-0040",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 55,
+            "relativePageRange": "55-56",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಸೋಮಶೇಖರಸ್ವಾಮಿ"
@@ -101,9 +268,54 @@
         {
             "title": "ಇದು ಬರಿ-ಬೆಳಗಲ್ಲೋ ಅಣ್ಣಾ!",
             "page": "0041-0049",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 57,
+            "relativePageRange": "57-67",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0048a",
+                    "text": ""
+                },
+                {
+                    "page": "0048b",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಸ್. ನಂಜುಂಡಯ್ಯ"
@@ -113,9 +325,14 @@
         {
             "title": "ಮುಂಡಕೋಪನಿಷತ್ತು",
             "page": "0050-0050",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 68,
+            "relativePageRange": "68-68",
+            "fullText": [
+                {
+                    "page": "0050",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -125,9 +342,18 @@
         {
             "title": "ನುಡಿಸೊಡರು",
             "page": "0051-0052",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 69,
+            "relativePageRange": "69-70",
+            "fullText": [
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಮಥ"
@@ -137,9 +363,14 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0053-0053",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 71,
+            "relativePageRange": "71-71",
+            "fullText": [
+                {
+                    "page": "0053",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಭುಸ್ವಾಮಿ"

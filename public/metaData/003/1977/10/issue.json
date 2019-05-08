@@ -27,9 +27,14 @@
         {
             "title": "ಸದ್ಗುರುವೆ ಬಾಳಿ",
             "page": "0001-0001",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 10,
+            "relativePageRange": "10-10",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪಿ. ಬಸವಣ್ಣ"
@@ -39,9 +44,38 @@
         {
             "title": "ಕವಿರಾಜಮಾರ್ಗಕಾರನು ಕಂಡ ಕರ್ನಾಟಕ",
             "page": "0002-0008",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 11,
+            "relativePageRange": "11-17",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಿ. ಎಂ. ಮಹದೇವಮೂರ್ತಿ"
@@ -51,9 +85,14 @@
         {
             "title": "“ಎಲ್ಲ ಸುಗಮ, ಎಲ್ಲ ಹಗುರವು”",
             "page": "0009-0009",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 18,
+            "relativePageRange": "18-18",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜಿ. ವಿ. ನಾರಾಯಣಮೂರ್ತಿ"
@@ -63,9 +102,66 @@
         {
             "title": "ಹರದಿ ಹಳ್ಳಿಯ ನಂಜಣಾರ್ಯ ವಿರಚಿತ “ಶಾಂತಿ ರತ್ನಾಭರಣ\" (ಸಂಪಾದಿತಕೃತಿ)",
             "page": "0010-0023",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 19,
+            "relativePageRange": "19-32",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸಂ; ಡಿ. ಸಿದ್ದಗಂಗಯ್ಯ"
@@ -75,9 +171,34 @@
         {
             "title": "ನೀಲಕಂಠದೀಕ್ಷಿತರ ಕೃತಿಗಳಲ್ಲಿ ಸಾಹಿತ್ಯವಿಮರ್ಶೆ",
             "page": "0024-0029",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 33,
+            "relativePageRange": "33-38",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ವಿ. ನಾಗರಾಜರಾವ್"
@@ -87,9 +208,38 @@
         {
             "title": "ಬಸವಣ್ಣನವರ ವಚನಗಳಲ್ಲಿ ರಸಪ್ರತಿಪಾದನೆ",
             "page": "0030-0036",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 39,
+            "relativePageRange": "39-45",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ"
@@ -99,9 +249,18 @@
         {
             "title": "ವಚನಗಳು",
             "page": "0037-0038",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 46,
+            "relativePageRange": "46-47",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜೀಮಾರಹಳ್ಳಿ ವೀರಣ್ಣ"
@@ -111,9 +270,66 @@
         {
             "title": "ಚನ್ನಬಸವಣ್ಣನವರ ವಚನಗಳಲ್ಲಿ ಷಟಸ್ಥಲ ಸ್ವರೂಪ",
             "page": "0039-0052",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 48,
+            "relativePageRange": "48-61",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಬಿ. ವಿ. ಯಕ್ಕುಂಡಿಮಠ"
@@ -123,9 +339,42 @@
         {
             "title": "ಶಬರಲೀಲೆಯಲ್ಲಿ ಕಲಿಪಾರ್ಥ (ಮುಂದುವರಿದುದು)",
             "page": "0053-0060",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 62,
+            "relativePageRange": "62-69",
+            "fullText": [
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -135,9 +384,46 @@
         {
             "title": "ಏಕಾಂಗಿ ಪರವಸ್ತು ಮಾದೇಶ್ವರನಿಗೆ ಎಸಗಿದ ಅಪಚಾರ",
             "page": "0061-0069",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 70,
+            "relativePageRange": "70-78",
+            "fullText": [
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹ. ಜ. ಶಿವಶಂಕರಪ್ಪ"
@@ -147,16 +433,42 @@
         {
             "title": "ವಾರ್ತಾ ವಿಹಾರ",
             "page": "0071-0075",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 80,
+            "relativePageRange": "80-84",
+            "fullText": [
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                },
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಈ ಸಂಚಿಕೆಯ ಲೇಖಕರುಗಳು",
             "page": "0076-0076",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 85,
+            "relativePageRange": "85-85",
+            "fullText": [
+                {
+                    "page": "0076",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

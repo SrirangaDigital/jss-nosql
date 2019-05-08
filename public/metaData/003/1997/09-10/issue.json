@@ -17,9 +17,26 @@
         {
             "title": "ಶ್ರೀ ಸಿದ್ಧೇಶ್ವರಸ್ವಾಮಿಗಳವರ ಒಂದು ಪ್ರವಚನ",
             "page": "0002-0005",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 15,
+            "relativePageRange": "15-18",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎಸ್. ನಂಜುಂಡಯ್ಯ"
@@ -29,9 +46,34 @@
         {
             "title": "ಸತ್ಯಕ್ಕ",
             "page": "0006-0011",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 19,
+            "relativePageRange": "19-24",
+            "fullText": [
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ತಿಪ್ಪೇಸ್ವಾಮಿ"
@@ -41,9 +83,18 @@
         {
             "title": "ನೂರೆಂಟು ಶರಣೆಯರ ಮಂಗಳಾಷ್ಟಕ",
             "page": "0012-0013",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 25,
+            "relativePageRange": "25-26",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಬಿ. ಪಿ. ಪಾಟೀಲ"
@@ -53,9 +104,54 @@
         {
             "title": "ಉಪನಿಷತ್ತು ಮತ್ತು ವಚನಶಾಸ್ತ್ರ",
             "page": "0014-0024",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 27,
+            "relativePageRange": "27-37",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎಂ. ಡಿ. ಬಸಪ್ಪ"
@@ -65,9 +161,14 @@
         {
             "title": "ದೃಢ ನಿಶ್ಚಯ",
             "page": "0024-0024",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 37,
+            "relativePageRange": "37-37",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ಎಸ್."
@@ -77,9 +178,38 @@
         {
             "title": "ರಮಣ ಮಹರ್ಷಿ ಮತ್ತು ಪಾಲ್ಬ್ರಂಟನ್",
             "page": "0025-0031",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 38,
+            "relativePageRange": "38-44",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ಶಾಂತಾಮಣಿ"
@@ -89,9 +219,22 @@
         {
             "title": "ಬೋಧಪ್ರದ ಕಥೆಗಳು",
             "page": "0032-0034",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 45,
+            "relativePageRange": "45-47",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ಎಸ್."
@@ -101,9 +244,18 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0035-0036",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 48,
+            "relativePageRange": "48-49",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

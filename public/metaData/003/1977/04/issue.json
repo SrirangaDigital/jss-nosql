@@ -27,9 +27,26 @@
         {
             "title": "ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಧಾರ್ಮಿಕ ಮತ್ತು ನೈತಿಕ ಶಿಕ್ಷಣದ ಅವಶ್ಯಕತೆ",
             "page": "0001-0004",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 11,
+            "relativePageRange": "11-14",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪರಮಪೂಜ್ಯ ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಶಿವರಾತ್ರಿರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರು"
@@ -39,9 +56,30 @@
         {
             "title": "ಅಣ್ಣನ ಸಂದೇಶ",
             "page": "0005-0009",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 15,
+            "relativePageRange": "15-19",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಕೆ. ಎಂ. ರೇವಣಸಿದ್ದಯ್ಯ, ಎಂ. ಎ.,"
@@ -51,9 +89,18 @@
         {
             "title": "ಕಲ್ಯಾಣ ಬಸವಯ್ಯ",
             "page": "0010-0011",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 20,
+            "relativePageRange": "20-21",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸಂಗ್ರಹ"
@@ -63,9 +110,30 @@
         {
             "title": "ಚನ್ನಚಸವಣ್ಣನವರ ನುಡಿಯಲ್ಲಿ ಶರಣರು",
             "page": "0012-0016",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 22,
+            "relativePageRange": "22-26",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಬಸವರಾಜ್ ಯಕ್ಕುಂಡಿಮಠ, ಎಂ. ಎ; ಬಿ. ಲಿಟ್; ಡಿಪ್-ಇ-ರಿಲಿರ್ಜ"
@@ -75,9 +143,50 @@
         {
             "title": "ಟೀಕಾಸಾಹಿತ್ಯ: ಬಸವಣ್ಣನವರ ವಚನಗಳ ಟೀಕಾಕೃತಿಗಳು [ಒಂದು ನೋಟ]",
             "page": "0017-0026",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 27,
+            "relativePageRange": "27-36",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎಸ್. ವಿ. ಅಯ್ಯನಗೌಡರ್ ಎಂ. ಎ; ಡಿಪ್-ಇ-ರಿಲಿರ್ಜ"
@@ -87,9 +196,30 @@
         {
             "title": "ಬಸವಾದಿ ಪ್ರಮಥರು ಮತ್ತು ಸ್ತ್ರೀ",
             "page": "0027-0031",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 37,
+            "relativePageRange": "37-41",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕು||ಎಂ. ಎ. ನೀಲಾಂಬಿಕಾ, ಎಂ. ಎ;"
@@ -99,9 +229,30 @@
         {
             "title": "ಶರಣರ ಸಾಮಾಜಿಕ ಪ್ರಜ್ಞೆ",
             "page": "0032-0036",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 42,
+            "relativePageRange": "42-46",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಡಿ. ಎಂ. ಮಹದೇವಮೂರ್ತಿ, ಎಂ. ಎ; ಬಿ. ಇಡಿ; ಡಿಪ್-ಇ-ರಿಲಿರ್ಜ"
@@ -111,9 +262,34 @@
         {
             "title": "ನಿಜಭಕ್ತಿಯ ನೀಲಾಂಬಿಕೆ",
             "page": "0037-0042",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 47,
+            "relativePageRange": "47-52",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀಮತಿ ಜಗದಾಂಬ ಮಲ್ಲೇದೇವರು, ಎಂ. ಎ;"
@@ -123,9 +299,34 @@
         {
             "title": "ಅಲ್ಲಮನ ವಚನ ವೈಭವ",
             "page": "0043-0048",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 53,
+            "relativePageRange": "53-58",
+            "fullText": [
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎಂ. ವೀರಭದ್ರಯ್ಯ, ಎಂ. ಎ;"
@@ -135,9 +336,38 @@
         {
             "title": "ಶಿವಯೋಗ ಸಾರ್ವಭೌಮ ಎಡೆಯೂರು ಶ್ರೀ ಸಿದ್ಧಲಿಂಗೇಶ್ವರರು",
             "page": "0049-0055",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 59,
+            "relativePageRange": "59-65",
+            "fullText": [
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಹೆಚ್. ಎಂ. ಕುಮಾರಸ್ವಾಮಿ ಬಿ. ಎ; ಬಿ ಎಡ್;"
@@ -147,9 +377,54 @@
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "page": "0056-0066",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 66,
+            "relativePageRange": "66-76",
+            "fullText": [
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಕೆ. ಪಿ. ಶಿವಲಿಂಗಯ್ಯ, ಎಂ. ಎ; ಬಿ. ಇಡಿ;"
@@ -159,9 +434,26 @@
         {
             "title": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ವಿಜಯ (ನಾಟಕ)",
             "page": "0067-0070",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 77,
+            "relativePageRange": "77-80",
+            "fullText": [
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                },
+                {
+                    "page": "0070",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಸಿ. ಅಂಕಪ್ಪ, ಬಿ. ಎ; “ಕಲಿರಾಯ”"
@@ -171,9 +463,22 @@
         {
             "title": "ವಿಚಾರ ಲಹರಿ",
             "page": "0071-0073",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 81,
+            "relativePageRange": "81-83",
+            "fullText": [
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಮತ್ಯುಂಜಯ ಅರಳಗುಪ್ಪಿ, ಎಂ. ಎಸ್ಸಿ"
@@ -183,16 +488,30 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0074-0075",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 84,
+            "relativePageRange": "84-85",
+            "fullText": [
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಈ ಸಂಚಿಕೆಯ ಲೇಖಕರ ಪರಿಚಯ",
             "page": "0076-0076",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 86,
+            "relativePageRange": "86-86",
+            "fullText": [
+                {
+                    "page": "0076",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

@@ -26,9 +26,38 @@
         {
             "title": "ಕ್ಷಮೆ ಒಂದು ವಿವೇಚನೆ",
             "page": "0001-0007",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 18,
+            "relativePageRange": "18-24",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                },
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ವ್ಹಿ. ಜಿ. ಪೂಜಾರ್"
@@ -38,9 +67,70 @@
         {
             "title": "ಸತ್ಯಸಾಧಕ ಹರಿಶ್ಚಂದ್ರ",
             "page": "0008-0022",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 25,
+            "relativePageRange": "25-39",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ಜಿ. ಎಸ್. ಶಿವರುದ್ರಪ್ಪ"
@@ -50,9 +140,46 @@
         {
             "title": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದ ದಿಗ್ಗಜ ಶ್ರೀ ಹೆಚ್. ದೇವೀರಪ್ಪನವರ ಕಣ್ಮರೆ",
             "page": "0023-0031",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 40,
+            "relativePageRange": "40-48",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಚನ್ನಪ್ಪ ಎರೆಸೀಮೆ"
@@ -62,9 +189,62 @@
         {
             "title": "ಅಕ್ಕ ಮಹಾದೇವಿ ಒಂದು ವಿವೇಚನೆ",
             "page": "0032-0044",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 49,
+            "relativePageRange": "49-61",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ಪದ್ಮಶೇಖರ್"
@@ -74,9 +254,14 @@
         {
             "title": "ವಾರ್ತಾಪತ್ರ",
             "page": "0045-0045",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 62,
+            "relativePageRange": "62-62",
+            "fullText": [
+                {
+                    "page": "0045",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಭುಸ್ವಾಮಿ"

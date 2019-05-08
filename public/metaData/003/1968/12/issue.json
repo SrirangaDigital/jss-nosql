@@ -9,9 +9,46 @@
         {
             "title": "ಗಣಪತ್ಯುಪನಿಷತ್ತು",
             "page": "0005-0013",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 7,
+            "relativePageRange": "7-15",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸುಧಾಕರ"
@@ -21,9 +58,34 @@
         {
             "title": "ಒಂದೇ ವೃತ್ತದ ಎರಡು ಬಿಂದುಗಳು",
             "page": "0014-0019",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 16,
+            "relativePageRange": "16-21",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಂ. ಬಿ. ನಟರಾಜ"
@@ -33,9 +95,90 @@
         {
             "title": "ಶಿವಯೋಗ ಶಿವಾಚಾರ್ಯರ ವಿಚಾರದರ್ಶನ",
             "page": "0020-0039",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 22,
+            "relativePageRange": "22-41",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸುಧಾಕರ"
@@ -45,9 +188,58 @@
         {
             "title": "ಮಾನವ ಕಲ್ಯಾಣದ ಕುಲದೀಪ ಬಸವಣ್ಣ",
             "page": "0040-0051",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 42,
+            "relativePageRange": "42-53",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜ||ಶ್ರೀ ಶಿವರಾತ್ರಿರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳು"
@@ -57,16 +249,50 @@
         {
             "title": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರರ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಲಿಃ",
             "page": "0052-0055",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 54,
+            "relativePageRange": "54-57",
+            "fullText": [
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "“ವೀರಶೈವಾಗಮ ಪ್ರಯೋಗರತ್ನ”",
             "page": "0056-0059",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 58,
+            "relativePageRange": "58-61",
+            "fullText": [
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜ||ಶ್ರೀ ಶಿವರಾತ್ರಿರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳು"
@@ -76,9 +302,34 @@
         {
             "title": "ಜನಜೀವನ ಮತ್ತು ಸನ್ಯಾಸ",
             "page": "0060-0065",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 62,
+            "relativePageRange": "62-67",
+            "fullText": [
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ವಾಸ್ಗೆ"
@@ -88,9 +339,26 @@
         {
             "title": "ಯುವಕರ ಕರ್ತವ್ಯ",
             "page": "0066-0069",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 68,
+            "relativePageRange": "68-71",
+            "fullText": [
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ರಾಮದೇವತುಂಗ"
@@ -100,9 +368,202 @@
         {
             "title": "ಜಗದ್ಗುರು “ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ವಚನಗಳು”",
             "page": "0070-0117",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 72,
+            "relativePageRange": "72-119",
+            "fullText": [
+                {
+                    "page": "0070",
+                    "text": ""
+                },
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                },
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                },
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                },
+                {
+                    "page": "0078",
+                    "text": ""
+                },
+                {
+                    "page": "0079",
+                    "text": ""
+                },
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                },
+                {
+                    "page": "0083",
+                    "text": ""
+                },
+                {
+                    "page": "0084",
+                    "text": ""
+                },
+                {
+                    "page": "0085",
+                    "text": ""
+                },
+                {
+                    "page": "0086",
+                    "text": ""
+                },
+                {
+                    "page": "0087",
+                    "text": ""
+                },
+                {
+                    "page": "0088",
+                    "text": ""
+                },
+                {
+                    "page": "0089",
+                    "text": ""
+                },
+                {
+                    "page": "0090",
+                    "text": ""
+                },
+                {
+                    "page": "0091",
+                    "text": ""
+                },
+                {
+                    "page": "0092",
+                    "text": ""
+                },
+                {
+                    "page": "0093",
+                    "text": ""
+                },
+                {
+                    "page": "0094",
+                    "text": ""
+                },
+                {
+                    "page": "0095",
+                    "text": ""
+                },
+                {
+                    "page": "0096",
+                    "text": ""
+                },
+                {
+                    "page": "0097",
+                    "text": ""
+                },
+                {
+                    "page": "0098",
+                    "text": ""
+                },
+                {
+                    "page": "0099",
+                    "text": ""
+                },
+                {
+                    "page": "0100",
+                    "text": ""
+                },
+                {
+                    "page": "0101",
+                    "text": ""
+                },
+                {
+                    "page": "0102",
+                    "text": ""
+                },
+                {
+                    "page": "0103",
+                    "text": ""
+                },
+                {
+                    "page": "0104",
+                    "text": ""
+                },
+                {
+                    "page": "0105",
+                    "text": ""
+                },
+                {
+                    "page": "0106",
+                    "text": ""
+                },
+                {
+                    "page": "0107",
+                    "text": ""
+                },
+                {
+                    "page": "0108",
+                    "text": ""
+                },
+                {
+                    "page": "0109",
+                    "text": ""
+                },
+                {
+                    "page": "0110",
+                    "text": ""
+                },
+                {
+                    "page": "0111",
+                    "text": ""
+                },
+                {
+                    "page": "0112",
+                    "text": ""
+                },
+                {
+                    "page": "0113",
+                    "text": ""
+                },
+                {
+                    "page": "0114",
+                    "text": ""
+                },
+                {
+                    "page": "0115",
+                    "text": ""
+                },
+                {
+                    "page": "0116",
+                    "text": ""
+                },
+                {
+                    "page": "0117",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸುಧಾಕರ"
@@ -112,9 +573,14 @@
         {
             "title": "ಆದಿಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರರ ಜಯಂತೀ ಮಹೋತ್ಸವ",
             "page": "0118-0118",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 120,
+            "relativePageRange": "120-120",
+            "fullText": [
+                {
+                    "page": "0118",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಸ್. ನಂಜುಂಡಯ್ಯ, ಎಂ. ಎ."

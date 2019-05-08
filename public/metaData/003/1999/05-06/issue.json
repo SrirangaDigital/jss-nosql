@@ -17,9 +17,42 @@
         {
             "title": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂದರ್ಭ ಮತ್ತು ವಚನಗಳು",
             "page": "0002-0009",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 14,
+            "relativePageRange": "14-21",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಮೃತ್ಯುಂಜಯ ರುಮಾಲೆ"
@@ -29,9 +62,26 @@
         {
             "title": "ಎರಡು ಚಿಂತನೆಗಳು",
             "page": "0010-0013",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 22,
+            "relativePageRange": "22-25",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಎನ್. ಎಸ್. ತಾರಾನಾಥ್"
@@ -41,9 +91,38 @@
         {
             "title": "ಕೊಟ್ಟೂರ ಬಸವೇಶ್ವರನ ತಾರಾವಳಿ",
             "page": "0014-0020",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 26,
+            "relativePageRange": "26-32",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಎಫ್. ಟಿ. ಹಳ್ಳಿಕೇರಿ"
@@ -53,9 +132,42 @@
         {
             "title": "ಶಿವತತ್ತ್ವರತ್ನಾಕರದಲ್ಲಿ ಚಾರಿತ್ರಿಕ ಸಂಪತ್ತು",
             "page": "0021-0028",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 33,
+            "relativePageRange": "33-40",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ವಿದ್ವಾನ್ ಹೆಚ್. ವಿ. ನಾಗರಾಜರಾವ್"
@@ -65,9 +177,34 @@
         {
             "title": "ವೇದಾಂತಕ್ಕೆ ಶಂಕರ ಮತ್ತು ಮದ್ವರ ಕೊಡುಗೆ",
             "page": "0029-0034",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 41,
+            "relativePageRange": "41-46",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಎಂ. ವಿಜಯಲಕ್ಷ್ಮಿ"
@@ -77,9 +214,74 @@
         {
             "title": "ಕಬೀರ ಮತ್ತು ಸರ್ವಜ್ಞ",
             "page": "0035-0050",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 47,
+            "relativePageRange": "47-62",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ತಿಪ್ಪೇಸ್ವಾಮಿ"
@@ -89,9 +291,26 @@
         {
             "title": "ಚಂದ್ರಯ್ಯನವರ ವಚನಗಳು",
             "page": "0051-0054",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 63,
+            "relativePageRange": "63-66",
+            "fullText": [
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಬಿ. ನಂ. ಚಂದ್ರಯ್ಯ"
@@ -101,9 +320,46 @@
         {
             "title": "ಮಾನಸಿಕ ಒತ್ತಡದ ದುಷ್ಪರಿಣಾಮಗಳಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಿ",
             "page": "0055-0063",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 67,
+            "relativePageRange": "67-75",
+            "fullText": [
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ಸಿ. ಆರ್. ಚಂದ್ರಶೇಖರ್"
@@ -113,9 +369,26 @@
         {
             "title": "ನಮನ ಶತಕ",
             "page": "0064-0067",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 76,
+            "relativePageRange": "76-79",
+            "fullText": [
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ಸಿ. ಗುರುಮಲ್ಲದೇವರು"
@@ -125,9 +398,46 @@
         {
             "title": "ವಾರ್ತಾವಿಹಾರ",
             "page": "0068-0072",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 80,
+            "relativePageRange": "80-88",
+            "fullText": [
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                },
+                {
+                    "page": "0070",
+                    "text": ""
+                },
+                {
+                    "page": "0070a",
+                    "text": ""
+                },
+                {
+                    "page": "0070b",
+                    "text": ""
+                },
+                {
+                    "page": "0070c",
+                    "text": ""
+                },
+                {
+                    "page": "0070d",
+                    "text": ""
+                },
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"

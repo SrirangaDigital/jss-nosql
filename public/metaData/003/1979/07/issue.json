@@ -18,16 +18,66 @@
         {
             "title": "ಚತುಷ್ಷಷ್ಟಿನಮನ",
             "page": "0005-0007",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 8,
+            "relativePageRange": "8-10",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಶ್ರೀ ಶಿವರಾತ್ರೀಶ್ವರ ಸುಪ್ರಭಾತ",
             "page": "0008-0016",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 11,
+            "relativePageRange": "11-19",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -37,9 +87,46 @@
         {
             "title": "ವಚನಶಾಸ್ತ್ರ ಮತ್ತು ಪ್ರಮಾಣವಿಚಾರ",
             "page": "0017-0025",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 20,
+            "relativePageRange": "20-28",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ವಿ. ಎಸ್. ಕಂಬಿ"
@@ -49,9 +136,46 @@
         {
             "title": "ಹಿಂದುಳಿದ ವರ್ಗಗಳ ವರದಿ ಮತ್ತು ಸಂವಿಧಾನ",
             "page": "0026-0034",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 29,
+            "relativePageRange": "29-37",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಂ. ವಿ. ವೇದಮೂರ್ತಿ"
@@ -61,9 +185,54 @@
         {
             "title": "ಅತಿಭಕ್ತನ ಶತಕ",
             "page": "0035-0045",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 38,
+            "relativePageRange": "38-48",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಜ್ಜಿಗೆ ಲಿಂಗಣ್ಣ"
@@ -73,9 +242,30 @@
         {
             "title": "ಹರಿಹರ-ಕಾಯಕತತ್ತ್ವ",
             "page": "0046-0050",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 49,
+            "relativePageRange": "49-53",
+            "fullText": [
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ವಿ. ಪದ್ಮಾವತಿ"
@@ -85,16 +275,62 @@
         {
             "title": "ಮೈಸೂರು ಜಿಲ್ಲಾ ವೀರಶೈವ ಮಠಾಧೀಶರ ಧರ್ಮಗೋಷ್ಠಿ",
             "page": "0051-0055",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 54,
+            "relativePageRange": "54-58",
+            "fullText": [
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಮೈಸೂರು ಜಿಲ್ಲಾ ವೀರಶೈವ ಮಠಗಳ ಪರಿಚಯಮಾಲೆ",
             "page": "0056-0061",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 59,
+            "relativePageRange": "59-64",
+            "fullText": [
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಿ. ಎಂ. ಮಹದೇವಮೂರ್ತಿ"
@@ -104,9 +340,22 @@
         {
             "title": "ವಾರ್ತೆಗಳು",
             "page": "0062-0064",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 65,
+            "relativePageRange": "65-67",
+            "fullText": [
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

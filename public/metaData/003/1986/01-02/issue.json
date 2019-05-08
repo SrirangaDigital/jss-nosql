@@ -17,9 +17,14 @@
         {
             "title": "ಸಂಕಲ್ಪ",
             "page": "0001-0001",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 12,
+            "relativePageRange": "12-12",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಬಿ. ಎಸ್. ಸನದಿ"
@@ -29,9 +34,14 @@
         {
             "title": "ವಾಸ್ತವ",
             "page": "0002-0002",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 13,
+            "relativePageRange": "13-13",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎ. ಜಿ. ವಿಶ್ವಮೂರ್ತಿ"
@@ -41,9 +51,18 @@
         {
             "title": "ಶರಣರ ಕುರಿತು ಒಂದು ಶಾಸನ",
             "page": "0003-0004",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 14,
+            "relativePageRange": "14-15",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕನ್ನಡ ತನಯ"
@@ -53,9 +72,34 @@
         {
             "title": "ಸಾಹಿತ್ಯ ಚಿಂತನ",
             "page": "0005-0010",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 16,
+            "relativePageRange": "16-21",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಬೆ. ಎಚ್. ಶ್ರೀ."
@@ -65,9 +109,34 @@
         {
             "title": "ಎಂ. ಆರ್. ಶ್ರೀ ಅವರ ನಾಗರಿಕನ ಪಾತ್ರ ನಿರೂಪಣೆ",
             "page": "0011-0016",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 22,
+            "relativePageRange": "22-27",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರೊ|| ಸಂಗಮೇಶ ಹಂಡಗಿ"
@@ -77,9 +146,30 @@
         {
             "title": "ಪ್ರೊ|| ತ. ಸು. ವೆಂಕಣ್ಣಯ್ಯನವರು",
             "page": "0017-0021",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 28,
+            "relativePageRange": "28-32",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹಿ. ಚಿ. ಶಾಂತವೀರಯ್ಯ"
@@ -89,9 +179,50 @@
         {
             "title": "ಆಲ್ಬರ್ಟ್ ಶ್ವೆಯಿಟ್ಸರ್",
             "page": "0022-0031",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 33,
+            "relativePageRange": "33-42",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ|| ಎಚ್. ಡಿ. ಚಂದ್ರಪ್ಪಗೌಡ"
@@ -101,9 +232,78 @@
         {
             "title": "ಪಾಲ್ಕುರಿಕ ಸೋಮನಾಥ ಕೃತ ಸದ್ಗುರ ರಗಳೆ ಸೋಸಲೆ ರೇವಣಾರಾಧ್ಯ ಕೃತಿಮೂಲ ಟೀಕಾ ಸಹಿತ",
             "page": "0032-0048",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 43,
+            "relativePageRange": "43-59",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎಸ್. ಶಿವಣ್ಣ"
@@ -113,8 +313,8 @@
         {
             "title": "ಪವಾಡ, ಪವಾಡ ಕಥೆಗಳು:ಒಂದು ಚಿಂತನೆ",
             "page": "0049-0054",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
+            "relativePageNumber": 60,
+            "relativePageRange": "60-1",
             "fullText": [],
             "author": [
                 {
@@ -127,7 +327,12 @@
             "page": "0055-0060",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": [],
+            "fullText": [
+                {
+                    "page": "0000a",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ಪ್ರಭುಸ್ವಾಮಿ"
@@ -139,7 +344,12 @@
             "page": "0061-0061",
             "relativePageNumber": 1,
             "relativePageRange": "1-1",
-            "fullText": []
+            "fullText": [
+                {
+                    "page": "0000a",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

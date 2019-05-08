@@ -9,23 +9,98 @@
         {
             "title": "ವೈದಿಕ ಧರ್ಮದಲ್ಲಿ ಗುರು-ಶಿಷ್ಯರ ಭಾವೈಕ್ಯ",
             "page": "0003-0004",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 5,
+            "relativePageRange": "5-6",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ದಕ್ಷಿಣಾಮೂರ್ತ್ಯುಪನಿಷತ್",
             "page": "0005-0016",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 7,
+            "relativePageRange": "7-18",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಧರ್ಮದ ಆವಶ್ಯಕತೆ",
             "page": "0017-0020",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 19,
+            "relativePageRange": "19-22",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರಿರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರ ಭಾಷಣ"
@@ -35,9 +110,42 @@
         {
             "title": "ಬಸವಣ್ಣನವರ ವಿಶ್ವಸಂದೇಶ",
             "page": "0021-0028",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 23,
+            "relativePageRange": "23-30",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜಗದ್ಗುರು ಶ್ರೀ ಶಿವರಾತ್ರಿರಾಜೇಂದ್ರ ಮಹಾಸ್ವಾಮಿಗಳವರ ಭಾಷಣ"
@@ -47,9 +155,190 @@
         {
             "title": "ಈಶೋಪನಿಷತ್ತು",
             "page": "0029-0073",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 31,
+            "relativePageRange": "31-75",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                },
+                {
+                    "page": "0070",
+                    "text": ""
+                },
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸುಧಾಕರ ಶ್ರೀ"
@@ -59,9 +348,26 @@
         {
             "title": "ವಚನರೂಪ ಈಶಾವಾಸ್ಯೋಪನಿಷತ್",
             "page": "0074-0077",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 76,
+            "relativePageRange": "76-79",
+            "fullText": [
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                },
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸುಧಾಕರ ಶ್ರೀ"
@@ -71,9 +377,38 @@
         {
             "title": "ಭಾರತೀಯರಲ್ಲಿ `ಶಕ್ತಿ'ಯ ಕಲ್ಪನೆ",
             "page": "0078-0084",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 80,
+            "relativePageRange": "80-86",
+            "fullText": [
+                {
+                    "page": "0078",
+                    "text": ""
+                },
+                {
+                    "page": "0079",
+                    "text": ""
+                },
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                },
+                {
+                    "page": "0083",
+                    "text": ""
+                },
+                {
+                    "page": "0084",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "(ಮೂಲ: ಶ್ರೀಮನ್ಮಹಾರಾಜರವರು) ಎಸ್. ವನಮಾಲ, ಎಂ. ಎ."
@@ -83,9 +418,38 @@
         {
             "title": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹೆಣ್ಣಿನ ಹಿರಿಮೆ",
             "page": "0085-0091",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 87,
+            "relativePageRange": "87-93",
+            "fullText": [
+                {
+                    "page": "0085",
+                    "text": ""
+                },
+                {
+                    "page": "0086",
+                    "text": ""
+                },
+                {
+                    "page": "0087",
+                    "text": ""
+                },
+                {
+                    "page": "0088",
+                    "text": ""
+                },
+                {
+                    "page": "0089",
+                    "text": ""
+                },
+                {
+                    "page": "0090",
+                    "text": ""
+                },
+                {
+                    "page": "0091",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಬಿ. ಗುರುಬಸವರಾಜ ಕೂಡ್ಲಿಗಿ"
@@ -95,9 +459,14 @@
         {
             "title": "ವಿಭೂತಿ ಮನು ಬಸವ",
             "page": "0092-0092",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 94,
+            "relativePageRange": "94-94",
+            "fullText": [
+                {
+                    "page": "0092",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಬಿ. ಸೋಮಶೇಖರ"
@@ -107,9 +476,14 @@
         {
             "title": "ಮಹಾತ್ಮ",
             "page": "0093-0093",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 95,
+            "relativePageRange": "95-95",
+            "fullText": [
+                {
+                    "page": "0093",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕಲಿರಾಯ"

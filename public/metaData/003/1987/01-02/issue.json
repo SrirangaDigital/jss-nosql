@@ -17,9 +17,14 @@
         {
             "title": "ಜಯಗೀತೆ",
             "page": "0001-0001",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 15,
+            "relativePageRange": "15-15",
+            "fullText": [
+                {
+                    "page": "0001",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಪಿ. ಬಸವಣ್ಣ"
@@ -29,9 +34,14 @@
         {
             "title": "ಅಮರ",
             "page": "0002-0002",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 16,
+            "relativePageRange": "16-16",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಅನ್ಸರ್ ಪಾಷ"
@@ -41,9 +51,54 @@
         {
             "title": "ಅಕ್ಕಮಹಾದೇವಿಯ ವಚನಗಳಲ್ಲಿ ಸ್ಪೋಟಕಗುಣ",
             "page": "0003-0013",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 17,
+            "relativePageRange": "17-27",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀಮತಿ ವಿಜಯಶ್ರೀ ಸಬರದ"
@@ -53,9 +108,34 @@
         {
             "title": "ಲಕ್ಕಣ್ಣ ದಂಡೇಶ(ಚಾರಿತ್ರಿಕ ಅಧ್ಯಯನ)",
             "page": "0014-0019",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 28,
+            "relativePageRange": "28-33",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಡಿ. ಇಸ್ಮಾಯಿಲ್"
@@ -65,9 +145,26 @@
         {
             "title": "ಧರ್ಮ ಹಾಗೂ ವಿಜ್ಞಾನ",
             "page": "0020-0023",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 34,
+            "relativePageRange": "34-37",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಕ. ಚ. ಪಾಟೀಲ್"
@@ -77,9 +174,22 @@
         {
             "title": "ಮಲ್ಲಿಗೆ (ಒಂದು ವಿಕ್ಷಣೆ)",
             "page": "0024-0026",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 38,
+            "relativePageRange": "38-40",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಹೀ. ಚಿ. ಶಾಂತವೀರಯ್ಯ"
@@ -89,9 +199,50 @@
         {
             "title": "ಆಧುನಿಕ ಕಾಲದಲ್ಲಿ ಗಮಕ ಕಲೆ",
             "page": "0027-0036",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 41,
+            "relativePageRange": "41-50",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎ. ಎಸ್. ಜಯರಾಂ"
@@ -101,9 +252,30 @@
         {
             "title": "ವಿಶ್ವಸೃಷ್ಠಿ ಹಾಗೂ ಶಿವಲಿಂಗದ ವಿಶ್ವಮಾನ್ಯತೆ",
             "page": "0037-0041",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 51,
+            "relativePageRange": "51-55",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಡಾ. ಬಸವರಾಜಪ್ಪ"
@@ -113,9 +285,26 @@
         {
             "title": "ಲಕ್ಷ್ಮಿಯ ವ್ಯಾಪಕ ಪ್ರತೀಕ `ಶ್ರೀ'",
             "page": "0042-0045",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 56,
+            "relativePageRange": "56-59",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಬಿ. ಪಾಂಡುರಂಗಯ್ಯ"
@@ -125,9 +314,38 @@
         {
             "title": "ಜೀವನ ಶೈಲಿಯಲ್ಲಿ ಪ್ರತಿಬಿಂಬ-ಕ್ಯಾನ್ಸರ್ (ಕಳೆದ ಸಂಚಿಕೆಯಿಂದ ಮುಂದುವರಿದಿದೆ)",
             "page": "0046-0052",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 60,
+            "relativePageRange": "60-66",
+            "fullText": [
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಡಾ. ಹೆಚ್. ಡಿ. ಚಂದ್ರಪ್ಪಗೌಡ"
@@ -137,9 +355,22 @@
         {
             "title": "ಶಿವರಾತ್ರಿ",
             "page": "0053-0055",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 67,
+            "relativePageRange": "67-69",
+            "fullText": [
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರಮಥ"
@@ -149,9 +380,42 @@
         {
             "title": "ವಾರ್ತಾಪತ್ರ",
             "page": "0056-0063",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 70,
+            "relativePageRange": "70-77",
+            "fullText": [
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"

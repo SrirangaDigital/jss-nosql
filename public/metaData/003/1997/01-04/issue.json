@@ -9,9 +9,22 @@
         {
             "title": "ಲೋಕ ಶಂಕರ",
             "page": "0002-0004",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 18,
+            "relativePageRange": "18-20",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ವಿ. ಎನ್ ಶೇಷಗಿರಿರಾವ್"
@@ -21,9 +34,30 @@
         {
             "title": "ಭಕ್ತಿ",
             "page": "0005-0009",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 21,
+            "relativePageRange": "21-25",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರೊ. ಜಿ. ಎನ್. ಕುಂದರಗಿ"
@@ -33,9 +67,42 @@
         {
             "title": "ಧರ್ಮದ ಜೊತೆ ಒಂದೆಅಡು ಕ್ಷಣ",
             "page": "0010-0017",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 26,
+            "relativePageRange": "26-33",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜ. ಹೊ. ನಾರಾಯಣಸ್ವಾಮಿ"
@@ -45,9 +112,42 @@
         {
             "title": "ಪವಾಡಗಳಲ್ಲಿ ದಾಸೋಹ ತತ್ವ",
             "page": "0018-0025",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 34,
+            "relativePageRange": "34-41",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಡಾ. ವಿ. ಜಿ. ಪೂಜಾರ"
@@ -57,9 +157,42 @@
         {
             "title": "ಭಾರತೀಯ ತತ್ತ್ವಶಾಸ್ತ್ರ ಜೀವನ ವಿರೋಧಿಯೆ?",
             "page": "0026-0033",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 42,
+            "relativePageRange": "42-49",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಅಂಜುಟಗಿ ಸಂಮಾಉ"
@@ -69,9 +202,26 @@
         {
             "title": "ಜ್ಞಾನದಾಸೋಹಿ ಶ್ರೀ ಸಿದ್ಧೇಶ್ವರ ಮಹಾಸ್ವಾಮಿಗಳವರು",
             "page": "0034-0037",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 50,
+            "relativePageRange": "50-53",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಎನ್. ಆರ್. ಶಿವಕುಮಾರ್"
@@ -81,9 +231,46 @@
         {
             "title": "ಕಬೀರ ಮತ್ತು ಸರ್ವಜ್ಞ",
             "page": "0038-0046",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 54,
+            "relativePageRange": "54-62",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಮ. ಸು. ಕೃಷ್ಣಮೂರ್ತಿ"
@@ -93,9 +280,54 @@
         {
             "title": "ಬಸವಣ್ಣನವರು-ಓರ್ವ ಅಪೂರ್ವ ಸಮಾಜ ಸಂಘಟಕರು",
             "page": "0047-0057",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 63,
+            "relativePageRange": "63-73",
+            "fullText": [
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -105,9 +337,38 @@
         {
             "title": "ವಾರ್ತಾ ವಿಹಾರ",
             "page": "0058-0064",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 74,
+            "relativePageRange": "74-80",
+            "fullText": [
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

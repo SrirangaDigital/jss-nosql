@@ -18,9 +18,34 @@
         {
             "title": "ಮೈಸೂರು ಜಿಲ್ಲಾ ವೀರಶೈವ ಮಠಗಳ ಕಿರು ಪರಿಚಯಮಾಲೆ",
             "page": "0002-0007",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 7,
+            "relativePageRange": "7-12",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಡಿ. ಎಂ. ಮಹದೇವಮೂರ್ತಿ"
@@ -30,9 +55,34 @@
         {
             "title": "ರಾಜರತ್ನಂ ವಚನಮಧು",
             "page": "0008-0013",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 13,
+            "relativePageRange": "13-18",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎನ್. ಎಸ್. ಶಾರದಾಪ್ರಸಾದ್"
@@ -42,9 +92,38 @@
         {
             "title": "ಅತಿಭಕ್ತನ ಶತಕ",
             "page": "0014-0020",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 19,
+            "relativePageRange": "19-25",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಹೆಜ್ಜಿಗೆ ಲಿಂಗಣ್ಣ"
@@ -54,9 +133,18 @@
         {
             "title": "ಭವ್ಯಕವಿ",
             "page": "0021-0022",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 26,
+            "relativePageRange": "26-27",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಜಿ. ವಿ. ನಾರಾಯಣಮೂರ್ತಿ"
@@ -66,9 +154,18 @@
         {
             "title": "ಹಣೆ ನೊಂದುದೇಕೆ?",
             "page": "0023-0024",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 28,
+            "relativePageRange": "28-29",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರೀ ಎ. ಡಿ. ನಂಜುಂಡಸ್ವಾಮಿ"
@@ -78,30 +175,70 @@
         {
             "title": "ಮೈಸೂರು ಜಿಲ್ಲೆ ವೀರಶೈವ ಮಠಾಧೀಶರ ಧರ್ಮಗೋಷ್ಠಿ [ಮುಡುಕುತೊರೆಯಲ್ಲಿ]",
             "page": "0025-0026",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 30,
+            "relativePageRange": "30-31",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ವಿಶೇಷ ವಾರ್ತೆ",
             "page": "0027-0029",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 32,
+            "relativePageRange": "32-34",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ವಾರ್ತೆಗಳು",
             "page": "0030-0032",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 35,
+            "relativePageRange": "35-37",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಈ ಸಂಚಿಕೆಯ ಲೇಖಕರು",
             "page": "0033-0033",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 38,
+            "relativePageRange": "38-38",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

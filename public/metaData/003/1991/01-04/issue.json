@@ -9,9 +9,74 @@
         {
             "title": "ವಿಜಯನಗರ ಕಾಲದ ವಚನ ಸಾಹಿತ್ಯ ಸಂಪಾದನೆ, ಸ್ಥಲಕಟ್ಟು-ವ್ಯಾಖ್ಯಾನ",
             "page": "0002-0017",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 16,
+            "relativePageRange": "16-31",
+            "fullText": [
+                {
+                    "page": "0002",
+                    "text": ""
+                },
+                {
+                    "page": "0003",
+                    "text": ""
+                },
+                {
+                    "page": "0004",
+                    "text": ""
+                },
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜಿ, ಎ, ಶಿವಲಿಂಗಯ್ಯ"
@@ -21,9 +86,14 @@
         {
             "title": "ಭವಕೆ ಬಂದವರ ಕೈಯ ಬೆಳಕು",
             "page": "0018-0018",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 32,
+            "relativePageRange": "32-32",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಚಂದ್ರಶೇಖರಯ್ಯ"
@@ -33,9 +103,50 @@
         {
             "title": "ಅಕ್ಕನ ವಚನಗಳಲ್ಲಿ ಕಾವ್ಯಸೌಂದರ್ಯ",
             "page": "0019-0028",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 33,
+            "relativePageRange": "33-42",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಗಂಗಾಧರ ಮಣಕಟ್ಟಿ"
@@ -45,9 +156,18 @@
         {
             "title": "ಶಂಕರಪ್ರಿಯರ ವಚನಗಳು",
             "page": "0029-0030",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 43,
+            "relativePageRange": "43-44",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ಓಂಕಾರಪ್ಪ"
@@ -57,9 +177,38 @@
         {
             "title": "ನಿರಂಜನ ಜಂಗಮಜ್ಯೋತಿ (ಶ್ರೀ ತೋಂಟದ ಸಿದ್ಧಲಿಂಗ ಶಿವಯೋಗಿಗಳು ಗುರು-ಶಿಷ್ಯರ ಪರಂಪರೆ)",
             "page": "0031-0037",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 45,
+            "relativePageRange": "45-51",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಅನ್ನದಾನಯ್ಯ ಪುರಾಣಿಕ"
@@ -69,9 +218,34 @@
         {
             "title": "ಕನ್ನಡ ವಚನರೂಪ ತೈತ್ತಿರೀಯ ಉಪನಿಷತ್ತು",
             "page": "0038-0043",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 52,
+            "relativePageRange": "52-57",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಹೆಚ್. ಗಂಗಾಧರನ್"
@@ -81,9 +255,54 @@
         {
             "title": "ಶ್ರೀ ನಿಜಗುಣ ಶಿವಯೋಗಿ",
             "page": "0044-0054",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 58,
+            "relativePageRange": "58-68",
+            "fullText": [
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೀರ್ತನಕೇಸರಿ ಬಿ. ಶಿವಮೂರ್ತಿಶಾಸ್ತ್ರೀ"
@@ -93,9 +312,38 @@
         {
             "title": "ವಾರ್ತಾ ವಿಹಾರ",
             "page": "0055-0061",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 69,
+            "relativePageRange": "69-75",
+            "fullText": [
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಟಿ. ಪಿ. ಪ್ರಭುಸ್ವಾಮಿ"
