@@ -44,6 +44,14 @@
 #pr_email_show {
     display: none;
 }
+
+.selecttype{
+	text-align: right;
+	width: 140px;
+}
+.selecttypevalue{
+	margin-left: 22px;	
+}
 .form-group input[type="text"].edit.key{
 	border: none;
 	box-shadow: none;

@@ -12,6 +12,11 @@
 			<form method="GET" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>search/field" onsubmit="return validate()">
 				<div class="keyValuePair">	
 					<div class="form-group">
+						<label class="selecttype" for="Type">Select Type</label>
+						<select class="form-control selecttypevalue" name="Type">
+							<option value="Photograph">Photograph</option>
+							<option value="Letter">Letter</option>
+						</select><br />
 						<select class="keySelect form-control">
 							<option value="">Select Key</option>
 							<?php 	foreach ($data as $key) {	?>
