@@ -118,6 +118,9 @@ class userModel extends Model {
 		// $this->incrementVisitCount($credentials);
 		$_SESSION['email'] = $credentials['lemail'];
         $_SESSION['login'] = 1;
+        $emailValues = preg_split('/@/',$credentials['lemail']);
+        if($emailValues[0] === 'admin')
+        	$_SESSION['adminlogin'] = 1;
 	}
 
 	public function destroyUser() {

@@ -24,7 +24,10 @@ class edit extends Controller {
 			$data['auxiliary']['idURL'] = $idURL;
 			$data['auxiliary']['foreignKeys'] = $this->model->getForeignKeyTypes($db);
 
-			$this->view('edit/artefact', $data);
+			if(isset($_SESSION['login']) && $_SESSION['adminlogin'])
+				$this->view('edit/artefact', $data);
+			else
+				$this->view('error/index');
 		}
 		else {
 			
@@ -41,7 +44,11 @@ class edit extends Controller {
 
 			$data = $this->model->getArtefactFromJsonPath(PHY_FOREIGN_KEYS_URL . $key . '/' . $foreignKeyId . '.json');
 			$data['refererArtefact'] = $refererArtefact;
-			$this->view('edit/foreignKey', $data);
+	
+			if(isset($_SESSION['login']) && $_SESSION['adminlogin'])
+				$this->view('edit/foreignKey', $data);
+			else
+				$this->view('error/index');				
 		}
 		else {
 			
